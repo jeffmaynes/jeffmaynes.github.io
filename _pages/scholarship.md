@@ -12,8 +12,7 @@ The question that motivates my interest in philosophical methodology is: when de
 * [Maynes, Jeffrey (2021). “The method(s) of cases,” Philosophical Psychology, 34(1), 102-124.](https://philpapers.org/rec/MAYTMO-10)
 * [Maynes, Jeffrey (2017). "On the stakes of experimental philosophy," Teorema, 36(3): 45-60.](https://philpapers.org/rec/MAYOTS-2)
 * [Maynes, Jeffrey (2015). "Interpreting intuition: Experimental Philosophy of Language," Philosophical Psychology , 28(2): 260-278](http://philpapers.org/rec/MAYIIE)
-
-[Gimbel, Steven and Jeffrey Maynes. (2011) "Ordinary Language and the Unordinary Philosophy of Peter Achinstein," The Philosophy of Science Matters:  The Philosophy of Peter Achinstein , ed. Gregory Morgan, Oxford University Press.](http://philpapers.org/rec/GIMOLA)
+* [Gimbel, Steven and Jeffrey Maynes. (2011) "Ordinary Language and the Unordinary Philosophy of Peter Achinstein," The Philosophy of Science Matters:  The Philosophy of Peter Achinstein , ed. Gregory Morgan, Oxford University Press.](http://philpapers.org/rec/GIMOLA)
 
 ## Linguistic Methodology: What role do intuitions play in linguistic arguments?
 
