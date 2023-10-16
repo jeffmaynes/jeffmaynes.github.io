@@ -70,3 +70,25 @@ Don’t simply highlight passages.  Highlighting should be used to supplement ot
 In addition to your contemporaneous notes (the ones you take while reading), take notes after you finish.  This could be re-writing notes into more coherent and clearer sentences, writing a short summary of the reading, etc.  What is important is that you take the time to make sense of the entire reading after you finish, it will help you commit your notes to memory, and to think about the reading as a whole, and not just as a series of smaller parts.
 
 Once you know why you are taking notes, you can adopt some of the following strategies.  I’ve included three strategies below.  Finding the right method is mostly a matter of personal taste - what is important is that you find a way that helps you achieve your goals as a note-taker.
+
+### The Philosophical Cornell Method
+This method uses an adapted version of the Cornell Method. There are three parts to your notes. In the largest box (on the right), you take your notes on the text. What is the author saying? In the smaller box on the left, you write down your own thoughts. What do you think about what you are reading? Finally, at the bottom, you write a short summary of the reading.
+
+You can find a blank template for this method here.
+
+![Image of the adapted Cornell Method](/images/cornell-image.jpg)
+
+### MARGINALIA METHOD
+To effectively take notes in the margins, I use one color for my own thoughts, and another for summaries of what the author says. I then use the highlighter for key claims, and passages I may wish to draw upon later.
+
+You can also use custom symbols that indicate things like questions, or objections, that you elaborate on in another piece of paper. You can find one good set of symbols, developed by Marc Busser at McMaster University, here.
+
+![Image of margin comments on a document](/images/marginalia.jpg)
+
+### Concept Maps
+
+A concept map is a visual representation of the ideas discussed in a text, or relating different texts. First, start with a list of the key ideas. Then, decide what relationships you want to use, such as “supports,” “opposes,” “develops,” etc.
+
+You can do these on paper or on the computer. One advantage of doing them on the computer is that you can move boxes around to try to figure out where they all go.
+
+![Image of a Concept Map](/images/concept-map.jpg)
