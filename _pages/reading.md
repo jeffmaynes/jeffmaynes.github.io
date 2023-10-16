@@ -1,15 +1,12 @@
 ---
 permalink: /reading/
-title: "Reading Philosophy"
+title: "How to Read Philosophy"
 author_profile: true
 ---
 
-## How to Read Philosophy 
-
 Reading is often treated as a binary skill.  You learn to read as a kid, and then you just know how to read.  This is, however, an oversimplification.  Reading different texts, for different purposes, requires different skills.  Reading philosophy is a prime example of this.  Texts are often dense, technical, and nuanced, and steeped in a literature that you may not have read.  What’s more, when you read them for class, you may not know what you are reading them for - do you need to only get the big idea?  Do you need to know all the details?  Here, I’ll discuss tips for reading philosophy in a few categories - how to prepare to read philosophical texts, how to read like a philosopher, and how to take notes on philosophy.
 
-
-### Preparing to Reading
+## Preparing to Read
 
 My first step is always a mug of tea (but that is optional.)  More importantly, the first thing you need to do is decide what you are trying to get out of the reading.  Some possibilities:
 
@@ -25,13 +22,13 @@ Your reasons for reading will differ, and there is no one answer to this questio
 
 Finally, before diving in, give the reading a skim.  Now, this is advice that just about everyone has heard before, and advice that is just as often ignored.  One common reason to ignore it is simply that it takes time.  If your goal is to actually understand the reading, however, a skim actually speed things up!  Why?  Because it helps you figure out how the parts of the article or book fit together.  It’s like reading a mystery - if you read the end first, you’ll be able to tell what all the important clues are, and which details will turn out to be irrelevant.  This is no fun for mysteries, but helpful for philosophy.  So what should you look for in a skim?
 
-**Title**: some philosophy titles are obscure, but others tell you the topic of the paper.
+* Title: some philosophy titles are obscure, but others tell you the topic of the paper.
 
-**The introduction and conclusion**: the thesis is often stated in both of these sections.
+* The introduction and conclusion: the thesis is often stated in both of these sections.
 
-**Section headings**: if present, these will help you get a sense of the structure.  Are particular sections reviewing the literature?  Advancing the authors arguments?  Considering objections against their view?
+* Section headings: if present, these will help you get a sense of the structure.  Are particular sections reviewing the literature?  Advancing the authors arguments?  Considering objections against their view?
 
-### Reading Strategies
+## Reading Strategies
 
 The key to effectively reading dense academic sources is to be a reflective reader.  This means thinking about a text on four levels:
 
@@ -47,9 +44,16 @@ Developing reading skill means being able to read at all of these levels simulta
 
 The key is learning to recognize when to use different reading strategies, and practicing them in those cases, where they will be most effective:
 
-![Table of reading strategies](/images/sem-img.jpg "Reading Strategies")
+| Reading Experience | Strategy                                                   |
+| --------         | ------------------------------------------------------------ |
+| If, at the end of a paragraph, you cannot give a one sentence summary of what was said..    | Re-read the paragraph until you can, or, if after a couple readings you stil can't make sense of it, make a note of what you don't understand to bring to class.                         |
+| If, the author makes a claim that is surprising, or unexpected based on what has come before...    | Ask, why might the author be making this claim? Does s/he think it follows from what has come before? Is the author considering a claim only to reject it?                          |
+| If the author makes a claim that you think is clearly wrong...     | Ask yourself - why would the author make this claim? What are the best arguments s/he would offer in favor of it?                       |
+| If the author is sign-posting, or telling you either what s/he has already done, or telling you what s/he will do next...     | First, make sure that this fits with your understanding of where the paper has gone, and where it is going. If not, go back and re-read! Second, note the pasage, and as you keep reading, make brief notes in the margins where the author does what s/he said they were going to do.                       |
+| If the author uses a term which you do not know...    | Look it up. When reading philosophy, you might want to start by checking if the author defined the term - sometimes terms are used in specific ways. If not, then check a philosophical dictionary, or encyclopedia. Philosophical terms are often used differently from the definitions you will find in the dictionary.                       |
+| If I notice the same concept or idea coming up over and over..    | Pause and make sure you can explain that concept, and give an example of it. If you can't, make a note of your questions, and look for answers earlier in the text, and as you keep reading.                      |
 
-### Taking Notes
+## Taking Notes
 
 The reason you are reading is again crucial to making good decisions about taking notes.  After all, you don’t take notes just to have something written down, that you can tuck into a folder or notebook and never look at again.  You should take notes for a reason, and that reason will dictate what your notes should focus on.  For example…
 
