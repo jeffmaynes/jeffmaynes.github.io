@@ -31,7 +31,7 @@ sThe Stanford Encyclopedia contains up-to-date, peer-reviewed, overviews of phil
 The Philosophy Compass is a peer-reviewed journal devoted to publishing critical overviews of contemporary debates in philosophy.
 ![Screenshot of Philosophy Compass](/images/compass.png)
 
-## Finding Your Sources
+## Tracking down Article
 
 Once you’ve got your sense of the debate, and you know some keywords, it is time to look for articles.  There are two basic strategies for finding articles.  
 
@@ -45,12 +45,13 @@ Last Name, First Name (Year Published). Article title. Journal Name, Volume(Issu
 
 You can use this to find the journal directly through the library website (just click ‘Journal Titles’ above the search bar), and browse to find issues published in the right year, and then to find the volume and issue you are looking for.  You can take the author name and article title, and plug them into one of the databases discussed below.  Either way, following the conversation will help you track down articles on your topic that are part of the debate.
 
+[Google Scholar](http://scholar.google.com) is also a helpful tool for this kind of research.  When you find an article that looks valuable to your research, you can find it on Google Scholar and see who has cited it.  This way, you can find replies and further scholarly work that is directly in conversation with your original source.
+
 ### Heading into the databases
 
-Your other option is to search the databases using your keywords.  The primary databases for Philosophy are Philosopher’s Index, and PhilPapers.  Each has its own advantages. Philosopher’s Index is an EBSCO database, which means that you search not only philosophy articles, but articles in other disciplines at the same time (to do so, just click “Choose Databases” above the search bar, and then click the boxes for all the databases you want to add to your search).  PhilPapers has topic guides, as well as, sometimes, links to the drafts of papers that our library does not have a subscription to.  I always use both in my own research.
+Your other option is to search the databases using your keywords.  The primary databases for Philosophy are [Philosopher’s Index](http://search.ebscohost.com/login.aspx?authtype=ip%2Cuid&profile=ehost&defaultdb=phl), and [PhilPapers](https://philpapers.org/).  Each has its own advantages. Philosopher’s Index is an EBSCO database, which means that you search not only philosophy articles, but articles in other disciplines at the same time (to do so, just click “Choose Databases” above the search bar, and then click the boxes for all the databases you want to add to your search).  This is particularly helpful when doing research on interdisciplinary topics.  PhilPapers has topic guides, as well as, sometimes, links to the drafts of papers that our library does not have a subscription to.  I always use both in my own research.
 
 Whichever you use, the process is simple.  Start by searching for your keywords.  Read through the abstracts of any articles that look interesting.  If they are on your topic, save the article, and look for more keywords you can try.  If none of the abstracts look relevant to your topic, it is time to try some new keywords.  Repeat the process, trying new keywords, looking for new ideas in the abstracts, and saving anything that looks useful.  By the end, you’ll have compiled a list of potential sources, and it is time to dive in!
-
 
 **[Philosopher's Index](http://search.ebscohost.com/login.aspx?authtype=ip%2Cuid&profile=ehost&defaultdb=phl)**
 
