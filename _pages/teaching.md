@@ -18,4 +18,4 @@ Philosophy of Artificial Intelligence
 
 * Writing Philosophy Papers
 * [Reading Philosophy](/reading/)
-* Doing Research in Philosophy
+* [Doing Research in Philosophy](/researching-philosophy)
