@@ -22,10 +22,12 @@ There are three things you should look for in these sources.  First, what are th
 One way to find secondary sources is to look for books on your topic.  Most philosophical topics have several general overviews written on them, with chapters on many of the sub-fields.  On the internet, there are a few places I’d recommend:
 
 **[The Stanford Encyclopedia of Philosopphy](https://plato.stanford.edu/)**
-The Stanford Encyclopedia contains up-to-date, peer-reviewed, overviews of philosophical topics written by experts on those topics.
+
+sThe Stanford Encyclopedia contains up-to-date, peer-reviewed, overviews of philosophical topics written by experts on those topics.
 ![Screenshot of the Stanford Encyclopedia of Philosophy](/images/sep.png)
 
 **[Philosophy Compass](https://onlinelibrary.wiley.com/journal/17479991)**
+
 The Philosophy Compass is a peer-reviewed journal devoted to publishing critical overviews of contemporary debates in philosophy.
 ![Screenshot of Philosophy Compass](/images/compass.png)
 
@@ -51,10 +53,11 @@ Whichever you use, the process is simple.  Start by searching for your keywords.
 
 
 **[Philosopher's Index](http://search.ebscohost.com/login.aspx?authtype=ip%2Cuid&profile=ehost&defaultdb=phl)**
+
 The Philosopher’s Index is an extensive database of philosophical sources.
 ![Screenshot of the Philosopher's Index](/images/phil-index.png)
 
-phil-papers.png
 **[PhilPapers](https://philpapers.org/)**
+
 PhilPapers is a philosophical database and repository with useful topic guides to find papers on your topic.
 ![Screenshot of PhilPapers](/images/phil-papers.png)
