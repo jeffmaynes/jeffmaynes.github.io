@@ -31,7 +31,7 @@ sThe Stanford Encyclopedia contains up-to-date, peer-reviewed, overviews of phil
 The Philosophy Compass is a peer-reviewed journal devoted to publishing critical overviews of contemporary debates in philosophy.
 ![Screenshot of Philosophy Compass](/images/compass.png)
 
-## Tracking down Article
+## Tracking down Articles
 
 Once you’ve got your sense of the debate, and you know some keywords, it is time to look for articles.  There are two basic strategies for finding articles.  
 
