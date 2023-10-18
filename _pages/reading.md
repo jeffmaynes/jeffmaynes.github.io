@@ -2,6 +2,7 @@
 permalink: /reading/
 title: "How to Read Philosophy"
 author_profile: true
+toc: true
 ---
 
 Reading is often treated as a binary skill.  You learn to read as a kid, and then you just know how to read.  This is, however, an oversimplification.  Reading different texts, for different purposes, requires different skills.  Reading philosophy is a prime example of this.  Texts are often dense, technical, and nuanced, and steeped in a literature that you may not have read.  What’s more, when you read them for class, you may not know what you are reading them for - do you need to only get the big idea?  Do you need to know all the details?  Here, I’ll discuss tips for reading philosophy in a few categories - how to prepare to read philosophical texts, how to read like a philosopher, and how to take notes on philosophy.
