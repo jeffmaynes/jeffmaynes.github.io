@@ -1,6 +1,6 @@
 ---
 title: 'New Paper on Ecological Rationality and Critical Thinking'
-date: 2017-06-90
+date: 2017-06-09
 permalink: /posts/2017/06/skid/
 toc: true
 tags:
