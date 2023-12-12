@@ -7,10 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[St. Lawrence University](http://www.stlawu.edu/)\
-[Department of
-Philosophy](http://www.stlawu.edu/academics/programs/philosophy)\
-
 # Academic Positions
 
 -   Associate Professor of Philosophy, St. Lawrence University,
@@ -21,12 +17,6 @@ Philosophy](http://www.stlawu.edu/academics/programs/philosophy)\
 
 -   Visiting Assistant Professor of Philosophy, St. Lawrence University,
     2012-2015.
-
--   Adjunct Instructor of Philosophy, McDaniel College, 2007-2012.
-
--   Adjunct Instructor of Philosophy, Gettysburg College, 2011-2012.
-
--   Instructor, Johns Hopkins University, 2010.
 
 # Education
 
@@ -199,6 +189,12 @@ Epistemology, Environmental Philosophy, Ethics, Philosophy of Science
 -   Academic Consultant, Johns Hopkins University, 2005-2007.
 
 ## Pedagogy Workshops Led
+
+-   "Teaching Critical Reading Skills," St. Lawrence University, First Year
+    Program Summer Retreat, May 2023.
+
+-   "Scaffolding Research Projects," St. Lawrence University, First Year
+    Program Summer Retreat, May 2022. 
 
 -   "Social Annotation," with Eloise Brezault and Jennifer Hansen. St.
     Lawrence University, July 2020.
