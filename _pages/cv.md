@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# Academic Positions
+## Academic Positions
 
 -   Associate Professor of Philosophy, St. Lawrence University,
     2018-present and Department Chair, 2019-present.
@@ -18,7 +18,7 @@ redirect_from:
 -   Visiting Assistant Professor of Philosophy, St. Lawrence University,
     2012-2015.
 
-# Education
+## Education
 
 -   Ph.D. Philosophy, Johns Hopkins University, 2012.
 
@@ -29,23 +29,23 @@ redirect_from:
 
 -   B.A. Philosophy and History, Gettysburg College, 2005.
 
-# Areas of Specialization
+## Areas of Specialization
 
 Philosophy of Language, Philosophy of Mind, Critical Reasoning
 
-# Areas of Competence
+## Areas of Competence
 
 Epistemology, Environmental Philosophy, Ethics, Philosophy of Science
 
-# Research
+## Research
 
-## Books
+### Books
 
 -   Maynes, Jeffrey and Steven Gimbel (2022). *Personal Memories of
     Early Analytic Philosophy: Analytic Logic / Synthetic Lives*.
     Palgrave Macmillan.
 
-## Publications (Peer Reviewed Articles)
+### Publications (Peer Reviewed Articles)
 
 -   Maynes, Jeffrey (2021). "The Method(s) of Cases," Philosophical
     Psychology, 34(1), 102-124.
@@ -74,7 +74,7 @@ Epistemology, Environmental Philosophy, Ethics, Philosophy of Science
 -   Hansen, Jennifer and Jeffrey Maynes (2005) "Psychiatry, Philosophy
     and the Self." *Current Opinion in Psychiatry*, 18(6), 649-652.
 
-## Publications (Invited, Editor Reviewed)
+### Publications (Invited, Editor Reviewed)
 
 -   Maynes, Jeffrey (2023). "The Good, the Bad, and the Yucky: Valenced
     Linguistic Intuitions and Linguistic Methodology." *Emotions,
@@ -87,13 +87,13 @@ Epistemology, Environmental Philosophy, Ethics, Philosophy of Science
     Matters: The Philosophy of Peter Achinstein* ed. Gregory Morgan.
     Oxford University Press.
 
-## Publications (Reviews)
+### Publications (Reviews)
 
 -   Maynes, Jeffrey (2016). "Review of Mercier and Sperber's *The Enigma
     of Reason*." *Inquiry: Critical Thinking Across the Disciplines*,
     31(3), 33-44.
 
-## Papers Presented (Peer Reviewed Paper or Abstract)
+### Papers Presented (Peer Reviewed Paper or Abstract)
 
 -   "On the Stakes of Experimental Philosophy," Buffalo Annual
     Experimental Philosophy Conference, September 2016.
@@ -113,7 +113,7 @@ Epistemology, Environmental Philosophy, Ethics, Philosophy of Science
     Concepts," New Jersey Regional Philosophical Association Conference,
     November 2012 (co-authored paper presented by a co-author).
 
-## Papers Presented (Invited)
+### Papers Presented (Invited)
 
 -   "What Linguistics is About,\" SUNY Potsdam Philosophy Forum, March
     2019.
@@ -145,9 +145,9 @@ Epistemology, Environmental Philosophy, Ethics, Philosophy of Science
     Perspectives on the Nature and Scope of Philosophy, Johns Hopkins
     University, April 2009.
 
-# Teaching Experience
+## Teaching Experience
 
-## Courses Taught at St. Lawrence University
+### Courses Taught at St. Lawrence University
 
 -   FRPG 1020: Sherlock Holmes and the Art and Science of Reasoning
     (Taught w/ Tina Tao)
@@ -181,14 +181,14 @@ Epistemology, Environmental Philosophy, Ethics, Philosophy of Science
 -   PHIL 4027: The Philosophy of Artificial Intelligence
 
 
-## Other Teaching Experience
+### Other Teaching Experience
 
 -   Reading Instructor, Institute for Reading Development, Grades K-12,
     2006-2007
 
 -   Academic Consultant, Johns Hopkins University, 2005-2007.
 
-## Pedagogy Workshops Led
+### Pedagogy Workshops Led
 
 -   "Teaching Critical Reading Skills," St. Lawrence University, First Year
     Program Summer Retreat, May 2023.
@@ -233,7 +233,7 @@ Epistemology, Environmental Philosophy, Ethics, Philosophy of Science
 -   "Teaching Critical Reasoning Through Course Content,\" St. Lawrence
     University Winter Institute, January 2014.
 
-## Professional Development
+### Professional Development
 
 -   Council of Independent Colleges Summer Institute: New Currents in
     Teaching Philosophy, July 2020.
@@ -248,16 +248,16 @@ Epistemology, Environmental Philosophy, Ethics, Philosophy of Science
 -   Teacher Training Program, Institute of Reading Development, Summer
     2006.
 
-# Grants & Awards
+## Grants & Awards
 
-## Grants
+### Grants
 
 -   Implementation Grant, Council of Independent Colleges, 2021-2.
     \$1000 awarded to develop a 'Philosophy Tutorial' program to support
     St. Lawrence students serving as teaching assistants and receiving
     an education in philosophical pedagogy.
 
-## Awards
+### Awards
 
 -   Owen D. Young Outstanding Faculty Award, St. Lawrence University,
     2017.
@@ -265,7 +265,7 @@ Epistemology, Environmental Philosophy, Ethics, Philosophy of Science
 -   2014 Lenssen Prize, Honorable Mention, for best article in the
     teaching and learning of philosophy published in 2012-2013.
 
-## Fellowships
+### Fellowships
 
 -   Digital Initiatives Faculty Fellowship, 2016-17.
 

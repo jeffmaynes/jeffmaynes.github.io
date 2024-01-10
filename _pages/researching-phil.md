@@ -5,7 +5,7 @@ author_profile: true
 toc: true
 ---
 
-For most philosophers, research in philosophy looks a lot like studying philosophy - reading and writing (though, see also [Experimental Philososphy](https://plato.stanford.edu/entries/experimental-philosophy/)!).  I already covered those skills in two other guides, so here I will focus on how to find your way with a new research question, and in particular, how to find sources.
+For most philosophers, research in philosophy looks a lot like studying philosophy - reading and writing (though, there is also [Experimental Philosophy](https://plato.stanford.edu/entries/experimental-philosophy/)!).  I already covered those skills in two other guides, so here I will focus on how to find your way with a new research question, and in particular, how to find sources.
 
 ## First Steps
 
@@ -23,7 +23,7 @@ One way to find secondary sources is to look for books on your topic.  Most phil
 
 **[The Stanford Encyclopedia of Philosopphy](https://plato.stanford.edu/)**
 
-sThe Stanford Encyclopedia contains up-to-date, peer-reviewed, overviews of philosophical topics written by experts on those topics.
+The Stanford Encyclopedia contains up-to-date, peer-reviewed, overviews of philosophical topics written by experts on those topics.
 ![Screenshot of the Stanford Encyclopedia of Philosophy](/images/sep.png)
 
 **[Philosophy Compass](https://onlinelibrary.wiley.com/journal/17479991)**

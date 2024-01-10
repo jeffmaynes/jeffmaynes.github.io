@@ -16,6 +16,6 @@ Philosophy of Artificial Intelligence
 
 ## Resources for Students
 
-* Writing Philosophy Papers
+* [Writing Philosophy Papers](/writing/)
 * [Reading Philosophy](/reading/)
 * [Doing Research in Philosophy](/researching-philosophy)
