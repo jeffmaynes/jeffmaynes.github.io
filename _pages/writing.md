@@ -2,6 +2,7 @@
 permalink: /writing/
 title: "Writing Philosophy"
 author_profile: true
+toc: true
 ---
 
 
