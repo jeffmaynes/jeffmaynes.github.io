@@ -4,7 +4,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-I am, first and foremost, a teacher in the liberal arts tradition.  I see the highest goal of education as liberation: helping students develop the critical tools to reason freely and fairly about the world, and to find the creativity inherent in genuine truth-seeking.  On this page, you can find links to pages for my current courses, as well as resources for students looking to improve their abilities to research, read, and write philosophy.
+I am, first and foremost, a teacher in the liberal arts tradition.  I see the highest goal of education as intellectual liberation: helping students develop the critical tools to reason freely and fairly about the world, and to develop the creativity required for genuine truth-seeking.  On this page, you can find a list of my current courses, as well as resources for students looking to improve their abilities to research, read, and write philosophy.
 
 ## Resources for Students
 
