@@ -36,7 +36,7 @@ Logical positivism is one of the most influential philosophical movements of the
 
 For our recent book, Steve Gimbel (Gettysburg College) and I interviewed surviving members of the positivist movement and other early analytic philosophers, as well as members of their families, to better understand the roots of analytic philosophy.  The interviews range over subjects from the death of Kurt Grelling in the Holocaust, the enduring if underappreciated influence of Paul Oppenheim, to W.V. Quine’s specially modified typewriter.
 
-* [Maynes, Jeffrey and Steve Gimbel (2023). *Personal Memories of the Early Analytic Philosophers: Analytic Logic / Synthetic Lives.*  Palgrave McMillan.](https://link.springer.com/book/10.1007/978-3-031-12707-6)
+* [Maynes, Jeffrey and Steve Gimbel (2022). *Personal Memories of the Early Analytic Philosophers: Analytic Logic / Synthetic Lives.*  Palgrave McMillan.](https://link.springer.com/book/10.1007/978-3-031-12707-6)
 
 ## Reviews
 
