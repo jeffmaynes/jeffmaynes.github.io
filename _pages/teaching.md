@@ -14,10 +14,10 @@ I am, first and foremost, a teacher in the liberal arts tradition.  I see the hi
 
 ## Current Courses
 
-The Good Place and the Good Life
-:   The central question of NBC's sitcom *The Good Place* is 'how can we be ethically good people?'  It is also one of the rare television shows with a main character who is a professional philosopher!  In this course, we will take up this question, and drawing on many of the same resources from moral philosophy as the characters in the show we will try to figure out what it means to be good, what makes ethical claims true or false, and how to live a good life in a complex world.  Students will read classic and contemporary works in ethics with a focus on developing research skills, including how to apply those research skills to questions of immediate relevance to students' own lives.
+Intro to Philosophy
+:   A launch-course into the wide world of philosophical inquiry that approaches the field through consideration of such perennial problems as ultimate reality, free will, knowledge, morality, political obligation and the existence of God. Depending on instructor, this course may also explore some aspects of social identity, such as race and gender, from a philosophical perspective.
 
-Philosophy of Artificial Intelligence
-:   Artificial Intelligence has been described as everything from the key to a prosperous human future, to an existential threat to our very survival.  This course examines the nature of Artificial Intelligence, exploring what work in the field can tell us about the human mind.  Topics include the analogy between the human mind and a computer, philosophical challenges to developing a genuinely artificial intelligence, and the nature and prospects of generative AI technologies (such as ChatGPT) to qualify as intelligent.  The course will conclude with an examination of the ethical implications of AI technology, including on misinformation and when implemented in technologies such as self-driving cars.
+Environmental Philosophy
+:   What obligations, if any, do we have towards the environment?   What changes should we make in our own lives in light of those obligations?  How does material consumption relate to our happiness?  If we can be happy consuming less, why do so many of us continue to consume so much?   How do our attitudes towards the environment reflect our social position?  What is the difference between the natural and the artificial?   This course examines such questions in order to come to grips with our relationship with the environment,   and what these ideas mean for the way we lead our lives.  Students will explore these questions in relation to the global community, to our local community, and in relation to their own lives and choices.
 
 
