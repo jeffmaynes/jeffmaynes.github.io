@@ -14,10 +14,7 @@ I am, first and foremost, a teacher in the liberal arts tradition.  I see the hi
 
 ## Current Courses
 
-Intro to Philosophy
-:   A launch-course into the wide world of philosophical inquiry that approaches the field through consideration of such perennial problems as ultimate reality, free will, knowledge, morality, political obligation and the existence of God. Depending on instructor, this course may also explore some aspects of social identity, such as race and gender, from a philosophical perspective.
-
-Environmental Philosophy
-:   What obligations, if any, do we have towards the environment?   What changes should we make in our own lives in light of those obligations?  How does material consumption relate to our happiness?  If we can be happy consuming less, why do so many of us continue to consume so much?   How do our attitudes towards the environment reflect our social position?  What is the difference between the natural and the artificial?   This course examines such questions in order to come to grips with our relationship with the environment,   and what these ideas mean for the way we lead our lives.  Students will explore these questions in relation to the global community, to our local community, and in relation to their own lives and choices.
+Reasoning
+:   We are regular consumers of arguments.  In all likelihood, you've heard arguments for why you should vote a certain way, arguments for what actions are morally right or wrong, arguments for what you should believe in, arguments for which team is going to win, arguments for why you should eat at Dana instead of the Pub tonight.  As a student, you are also asked to make arguments across your courses.  In this class, we will focus on arguments themselves.  What, exactly, is the argument being presented?  How can I tell if it is a good argument or a bad argument?  Most importantly, this is a class in being a critical reasoner - what we can to be better reasoners who are less susceptible to bad arguments and those who wield them.
 
 
