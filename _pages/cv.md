@@ -195,6 +195,42 @@ Epistemology, Environmental Philosophy, Ethics, Philosophy of Science
 
 ### Pedagogy Workshops Led
 
+-  "Teaching on Matters of Race and Racism Across the Curriculum," St. Lawrence University, April 2025.
+
+-  "AI Assignment Design: What's Working, What's Not?" St. Lawrence University, April 2025.
+
+-  "What Does It Mean to Teach About Race and Racism?" St. Lawrence University, March 2025.
+
+-  "Student and Faculty-Centered Teaching," St. Lawrence University, March 2025.
+
+-  "Understanding the New DIV-R Requirement," St. Lawrence University, February 2025.
+
+-  "Sustainable Grading," St. Lawrence University, January 2025.
+
+-  “Designing Courses You Want to Teach and Students Want to Take” with Jeff Frank, Ronnie Olesker, Mindy Pitre, and Jennifer Thomas, St. Lawrence University, December 2024.
+
+-  “Assignment Design with AI,” Associated Colleges Teaching Effectiveness Conference, December 2024.
+
+-  “Celebrating and Looking Ahead,” St. Lawrence University, December 2024.
+
+-  “Preparing for the Day After,” St. Lawrence University, November 2024.
+
+-  “Advising as Teaching,” with Tina Tao, St. Lawrence University, October 2024.
+
+-  “Reacting to Disruption and Disagreement,” St. Lawrence University, October 2024.
+
+-  “Teaching with Tutorial Programs,” St. Lawrence University, September 2024.
+
+-  “Assessment for Department Chairs,” St. Lawrence University, September and October 2024.
+
+-  “Productive Disagreement,” St. Lawrence University, September 2024.
+
+-  “Grant Seeking for Early Career Faculty,” with Carol Smith, St. Lawrence University, September 2024.
+
+-  “Policies and Classroom Contracts,” St. Lawrence University, August 2024.
+
+-  “Best Practices with Generative AI,” with Melody Denny, Ronnie Olesker, Nicole Roche, and Eric Williams-Bergen, St. Lawrence University, August 2024.
+
 -   "Teaching Critical Reading Skills," St. Lawrence University, First Year
     Program Summer Retreat, May 2023.
 
