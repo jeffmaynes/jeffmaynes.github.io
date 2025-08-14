@@ -9,8 +9,11 @@ redirect_from:
 
 ## Academic Positions
 
+-   Professor of Philosophy, St. Lawrence University,
+    2025-present and Department Chair, 2019-present.
+
 -   Associate Professor of Philosophy, St. Lawrence University,
-    2018-present and Department Chair, 2019-present.
+    2018-2025
 
 -   Assistant Professor of Philosophy, St. Lawrence University, 2015 -
     2018.
@@ -46,6 +49,8 @@ Epistemology, Environmental Philosophy, Ethics, Philosophy of Science
     Palgrave Macmillan.
 
 ### Publications (Peer Reviewed Articles)
+
+-   Maynes, Jeffrey (forthcoming), “Evidential and Rhetorical Moves in the Study of Language,” The Springer Handbook of Intuitions, ed. Andrew Arana, Asad Ahmed, David Bordonaba-Plou, Gerhard Heinzmann, Marie-Helene Gorisse, Lisa Indracolo, and Jari Kaukua.  Springer. Expected publication: March 2025.
 
 -   Maynes, Jeffrey (2021). "The Method(s) of Cases," Philosophical
     Psychology, 34(1), 102-124.
