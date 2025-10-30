@@ -35,10 +35,6 @@ Artificial Intelligence has been described as everything from the key to a prosp
 
 ## Assignments and Grading
 
-## Resources
-
-## Course Policies
-
 |Participation | 10%|
 |Homework |	40%|
 |Research Paper | 30%|
@@ -54,171 +50,188 @@ Your class participation grade also includes completion of the stages of the res
 
 **Rubric**
 
-	Exemplary (4.0)	Good (3.0)	Adequate (2.0)	Poor (1.0)
-Readiness to Learn	Student is always in class, having done all assignments, has relevant materials, and comes prepared with questions and ideas.  	Student is always in class, having done all of the assignments, and has all of the relevant materials.	Student misses class, and/or has not done the work, or come prepared to discuss the topics of the day.	Student frequently misses class, and is regularly unprepared for the topics of the day.
-In-Class Contributions	Student makes frequent constructive and insightful contributions to class conversations and group work.	Student’s contributions are infrequent, but constructive and insightful.	Student makes frequent contributions which are not constructive, or rarely contributes.	Student’s contributions actively diminish the learning environment (e.g., are off topic or attack others).
-Virtuous Participation	Student regularly follows the code of intellectual conduct, and corrects him/herself when failing to do so.	Student regularly follows the code of conduct, but does not recognize or improve upon unvirtuous behavior.	Student often violates the code of intellectual conduct and does not make serious efforts to improve.	Student frequently violates the code of intellectual conduct without making serious efforts to improve.
-Code of Intellectual Conduct	1.	Fallibility Principle – I recognize that I might be wrong.
+|Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)|
+|Readiness to Learn|Student is always in class, having done all assignments, has relevant materials, and comes prepared with questions and ideas.|Student is always in class, having done all of the assignments, and has all of the relevant materials.|Student misses class, and/or has not done the work, or come prepared to discuss the topics of the day.	Student frequently misses class, and is regularly unprepared for the topics of the day.|
+In-Class Contributions|Student makes frequent constructive and insightful contributions to class conversations and group work.|Student’s contributions are infrequent, but constructive and insightful.|Student makes frequent contributions which are not constructive, or rarely contributes.|Student’s contributions actively diminish the learning environment (e.g., are off topic or attack others).|
+|Virtuous Participation|Student regularly follows the code of intellectual conduct, and corrects themselves when failing to do so.|	Student regularly follows the code of conduct, but does not recognize or improve upon unvirtuous behavior.|Student often violates the code of intellectual conduct and does not make serious efforts to improve.|Student frequently violates the code of intellectual conduct without making serious efforts to improve.|
+
+_Code of Intellectual Conduct_
+1.	Fallibility Principle – I recognize that I might be wrong.
 2.	Principle of Charity – I will put the views of others in the best possible light.
 3.	Truth-Seeking Principle – I will seek truth, not victory.
 4.	Principle of Clarity - I will be clear and precise in all of my claims.
 5.	Burden of Proof Principle – If I make a claim, I am obligated to defend it.
 6.	Response Principle – If a claim is successfully defended, I should believe it.  If no claim is successfully defended, I should suspend judgment.
 
+### Homework
 
+The core concepts on which the course is based build in a stepwise fashion towards understanding (and evaluating) the position that computers can think, and that artificial intelligence is possible.  They are also a mix of philosophical, mathematical, and logical ideas, some of which you will likely be more comfortable with than others. However, without an understanding of each of these steps you will be left with only a superficial understanding of the claim that a computer can possess a mind.
 
+As such, in the first half of the semester you will mostly be working on homework assignments tied to the course readings.  You will be graded using a simple scale: Pass or No-Pass.  However, earning a pass requires demonstration of mastery of the concept.  If you do not pass a homework assignment, I will ask you to continue working on it and to re-submit it.  Each homework can be resubmitted one time, and re-submissions are due within one week of getting it back from me.  
 
+Your grade will be based on the number of homework assignments you successfully pass, as detailed in the table below:
 
-## First Steps: Figuring Out What to Say
+|Number Passed|Grade|
+|7|4.0|
+|6|3.5|
+|5|3.0|
+|4|2.5|
+|3|2|
+|2|1|
+|0-1|0|
 
-So, you have to write a philosophy paper.  Whether you are writing for an introductory class, or for a senior honors thesis, the place to start is with your *in*.  That is, what prior interests do you have that can help you figure out where to start?  I think about 'ins' as falling into three categories:
+#### Research Paper
 
-* Topic - you are interested in learning more about some topic from your course or related to it.  You may not know what you want to say, or even really what question you want to ask, but you are interested in knowing more about the ethics of punishment, or the analogy between minds and computers.
-* Question - more than just a topic, you have a particular question.  What makes a punishment just?  Can a computer think?  
-* Insight - you have an idea.  You may not be sure if it is a good idea, but you think you've spotted a solution to a problem that came up in class, or a particular reading just didn't sit right with you and you've got an objection (or two) against it.
+This paper is a formal philosophical research paper.  As such, it should include three central components:
+1. An overview of the existing literature and/or review of the arguments of at least one other philosopher you are in dialogue with.
+2. A defense of your own view, drawing from relevant evidence in the philosophy of AI, philosophy of mind, computer science, and cognitive psychology.
+3. Consideration of possible counter-arguments to your view, along with your response to either refute the counter-arguments, or show how they are consistent with your view.
 
-Finding your 'in' will help you with the first steps of your writing project, since whether you start with a topic, a question, or an insight, you'll want to turn it into a *research question.*  Formulating a good research question is the key step to turning your potentially jumbled thoughts into a paper.  A good research question has the following properties:
+We are going to try something new for this paper.  I am going to provide a list of possible topics, and poll you on your preferred topics.  I will then organize research groups for each project.  Your research group will have a few formal responsibilities:
+* Putting together a shared research bank of sources on your topic area.
+* Completing a peer review of the argument draft.
+* The group presentation.
+Otherwise, your research groups are informal networks of fellow students with whom you can share research and drafts.  You are each responsible for your own paper, and you can take your own paper in a different direction than the other members of your research group.
 
-* It is narrow enough that you could write a paper on it within the page limits of the assignment without giving woefully inadequate arguments or ignoring major parts of the literature.  
-* It should be formulated in the terms of the existing debate.  Often we initially formulate questions in terms of our imprecise everyday language.  Using the concepts and ideas from the existing debate will help you to more precisely state what it is that you are investigating, but it will also help you find sources to discuss.
-* It should place your answer in the context of the existing debate.  Are you responding to a question put forward by a particular philosopher?  Are you raising a question about a position defended by someone else?  The advantage of putting your research question in the context of other philosopher’s work will give you a leg up on sources, and it will help you keep the topic narrowly focused.
+This paper must draw on outside research in the philosophy of artificial intelligence (more broadly, in the philosophy of mind), and may also draw on relevant work in related disciplines like computer science and cognitive psychology.  
 
-This step is key, even if you are already starting with a question or an insight.  Your initial question is probably still rather vague, and won't connect to the philosophical literature.  Your insight might be a good idea, but you probably won't have put it in terms of the debate you want to address, and a good research question will also help you make sure you are fairly considering the full issue (including the best arguments against your position). I recommend checking out my guide on [Doing Research in Philosophy](/researching-philosophy/) for tips on this part of the process.  The short version is that you should go back and forth between your initial research and your draft question as you dig into the literature, refining your question using the terms you find in the titles and abstracts of interesting looking papers that speak to what you want to explore.
+The paper should be approximately 10-12 pages long, double-spaced, and submitted in hard copy.  It should be written in a formal tone.  The due dates for the stages of this project are:
+* Your group’s research bank should be completed by March 6th.
+* An outline of your main arguments is due March 27th.
+* The peer review of your group’s outlines are due April 3rd.
+* A draft of the paper will be due April 17th, at the beginning of class.
+* The final version is due May 6th, by 11:30 AM. 
 
-Once you have a question, it is time to develop a working thesis.  A working thesis may not be the view you end up defending in your paper, and usually you’ll fine tune and develop the thesis as you continue your research.  However, you should at least start with a working thesis in order to help give you direction to your research.  Once you have that thesis, you will have an easier time finding evidence to support it, and finding sources who disagree with it. 
+More details on the paper and each of the steps described above will be distributed in class.
 
-As you do your research, you’ll refine your working thesis into a more specific claim.  One frequent pitfall for students is that they think their thesis has to be of the form: “Philosopher X’s central claim is wrong because Y.”  This is a hard thesis to start from!  After all, philosopher X has probably thought a lot about their central claim, and coming up with reasons why it is wrong might be really difficult.  You have, however, a lot more options.  One good way to go about refining your thesis is to start with some basic templates:
+**Rubric**
 
-The Positive Support
-:	I will argue that \<*your claim!*\>, on the grounds that \<*your reasons!*\>
+|Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)|
+|Understanding|	The paper demonstrates a strong command of the discussed positions and ideas.|The paper demonstrates an understanding of the key ideas, but misses nuances.|The paper misunderstands one or more central positions or ideas.|The paper frequently misunderstands central positions or ideas.|
+|Charity|The paper presents all views fairly, and in the best possible light.|The views are expressed fairly, but not always in their strongest form.|Views are misrepresented as being weaker than they really are.|Views are presented in clearly problematic ways inconsistent with the original texts.|
+|Intellectual Creativity|The author frequently contributes his/her own ideas to the paper.|The author makes a novel contribution, but does not go far beyond his/her sources.|The author has a novel idea, but does not develop it with a supporting argument.|The author does not contribute any ideas of his or her own.|
+|Soundness|	The arguments presented in the paper are valid and based on true premises.|The paper’s arguments are thoughtfully constructed, though have minor errors.|The central arguments of the paper are clearly invalid or rely on unsupported claims.|The paper makes little effort to make sound arguments, and instead simply asserts key claims.|
+|Support|The paper supports all of its claims with relevant evidence.|The paper provides some, but not sufficient, evidence for its claims.|The paper fails to support key contentions with evidence.|The paper makes little effort to provide supporting evidence.|
+|Clear Communication|The paper explains its jargon, and is free from syntactical and typographical errors.|The paper is readable and largely free from errors, but needs additional proof-reading.|The paper has errors which inhibit the clarity of the author’s claims.	The paper makes frequent errors that inhibit readability.|
+|Diligence|The paper draws on a range of sources, and makes use of important and relevant work.|The paper draws on a range of sources, and misses essential relevant work.|The paper draws on a limited number of sources and misses essential relevant work.|The author makes little effort to build off the relevant literature in the field.|
+|Intellectual Humility|The author’s claims always match his or her evidence (not claiming more than his/her evidence shows).|The author occasionally makes claims that go beyond his/her evidence in subtle ways.|The author makes claims that go well beyond what his or her evidence actually shows.|The author makes claims that are not based upon supporting arguments.|
+|Intellectual Honesty|The author notes the contributions of others, and always uses their sources fairly.|The author always uses their sources fairly, but does not always accurately note the contributions of others (e.g., not using a proper citation format).|The author uses sources unfairly (e.g., taking quotes well out of context), and has an inadequate bibliography.|N/A (Papers with more substantive problems with intellectual honesty will be considered plagiarized).|
 
-The Critique
-:	I will argue that the best arguments in support of \<*other philosopher’s*\> claim that \<*the position you will critique*\> fail, on the grounds that \<*your reasons!*\>
 
-The Defense
-:	One of the prominent objections against \<*your position!*\> is that \<*the critique!*\>.  However, \<*the critique*\> does not work as an objection against \<*your position*\> because \<*your reasons!*\>.
+### Group Presentation
 
-The Implication
-: It has been argued that \<*a position you will start from*\>.  In this essay, I will argue that, if this position is right, then \<*the following interesting thing is also true!*\>.
+Your research group will be responsible for leading a 90 minute class session.  Your goals for the class are:
+1.	To provide your audience with any necessary background specific to your topic.
+2.	To present a single argument from a source relevant to your group’s research interests.
+3.	To lead a discussion and/or small group activities to explore that argument.
 
-These can be combined into more elaborate essays.  For example, you could defend your claim with reasons in support of your position, and defend it against the best objections from your critics.  Starting with these templates in mind (and thinking about how they relate to the assignment instructions) might help give you direction for your research.  Plus, once you have decided on your thesis, and you know what kind of essay you are writing, these templates will help you structure the paper.  In the next section, I’ll look at how.
+The emphasis for this presentation should be on leading a discussion, and not on lecturing.  More details on this presentation and what it ought to look like, will be distributed in class and this page will be updated with a link to those instructions once available.
 
-But, what if you are stuck, and don't feel like you have any "in" in the first place?  How should you come up with ideas?  After all, while you surely discuss a lot of topics and questions in your classes, you may not know what should you write about.  I recommend the following strategies for coming up with ideas on what to write:
+**Rubric**
 
-* If you know your topic, just not your thesis, you can start by writing a summary of the major positions in the debate.  This might be useful for you later as part of the background section of your paper.  What’s more, being precise on the existing views may help you find a claim you disagree with, a claim that needs further elaboration, or a claim that you think you can provide a defense for.
-* Do some free writing.  Don’t worry about the quality of your prose, and just try to use your writing to brainstorm ideas, and to see if you can defend them.  I have two tips for this kind of writing.  First, be prepared to throw it away.  I’d do the writing in a totally separate document from your paper.   This is writing to help you think, and using it because it helps you fill up the pages will hurt your paper.  Plus, it is harder to write freely if you are worried about the quality of the prose.  Second, when brainstorming ideas, be critical of them.  Research suggests that brainstorming is less effective when you simply list ideas, or treat every idea as a good one.  Free writing is a good way to see if the ideas you do have can hold up to scrutiny and are worth your time.
-* Keep a file of ideas.  If you are in class or reading a paper, and some idea sounds really interesting, or the argument offered by the text, your professor, or a classmate doesn't sound quite right to you, jot a note down.  When it is time to actually write a paper, going through this list can be a good way to develop ideas to write about the free writing stage.
+|Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)|
+|Understanding|The group demonstrates an understanding of their material, and communicates it to the audience.|The group makes some significant mistakes, or does not communicate their understanding clearly.|The group often misunderstands their material, and does not communicate clearly.|The group is unprepared to explain their material, and makes regular, significant errors.|
+|Speaking Skills|The group speaks with good volume, enthusiasm, and eye contact.|The group, at times, shows a lack of enthusiasm, poor eye contact, or has low volume.|The group frequently shows a lack of enthusiasm, poor eye contact, or has low volume.|The group consistently is hard to understand, and does not engage the audience|
+|Organization|The presentation has a clear logical flow, so that the audience knows how it fits together.|The presentation has clear structure, but ideas are presented in a confusing order.|It is difficult to follow the logical flow of the presentation.|The presentation lacks structure and jumps from point to point.|
+|Class Engagement|The group uses questions and activities that help us to understand key ideas.|The group gets the class actively engaged, but the activities are not connected to the broader themes.|The group attempts to get the class actively engaged, but is unclear in instructions and purpose.|The group does not attempt to engage the audience.|
 
-## Structuring a Paper: What Should I Include?
 
-Exactly what you include in your paper will be determined by a number of factors, including the assignment instructions and the page limits.  I think it is most helpful, however, to think about structuring my papers around what I need to *do* in order to establish my thesis.  Let’s take an example using the supportive thesis structure, where I plan to argue that some claim is true, giving supporting reasons for it.  
+## Resources
 
-There are two main parts here: my claim itself, and the reasons.  First things first then, I need to introduce my claim - but to do this effectively, I might need to do a few other things.  Are there any key terms in it that need to be introduced?  If I’m writing an essay on a technical topic, I might be using concepts that my readers will not yet be familiar with.  I also might need to situate my claim in the context of the broader debate.  Is my position challenging any prominent positions in the field?  Is it expanding upon any?  What questions does it attempt to answer?  That is, you are helping your reader to understand what you are saying, and why you are saying it.
+I've written several guides to reading, researching, and writing Philosophy papers.  I highly recommend you take a look, even if you are a major:
+* [Reading Philosophy](/reading/)
+* [Doing Research in Philosophy](/research/)
+* [Writing Philosophy](/writing/)
 
-Next, I need to introduce my own arguments.  Here, I once again should check if I have any concepts I need to introduce.  I should also focus on organizing my paper around each argument I have in support of my claim.  I strongly recommend not worrying about paragraphs at all at this point.  Too often students get stuck in the “three paragraph” essay format, and they end up worrying about cramming their ideas into that format, instead of thinking about the structure that best suits their argument.
+## Course Policies
 
-Instead, start by writing out your argument in terms of key sentences - the premises making up your argument.  Each premise is a claim that you need to show is true in order to establish your claim.  From there, you can worry about what you need to do in order to explain and defend each of those premises.  Once you’ve worked that out, you’ve got a list of tasks - things you need to do in order to successfully make your argument.  Structuring your paper is now just a matter of figuring out what order to do those things in.  Let’s take a simple example.
+**Respect for your classmates**
 
-Suppose I want to argue that your phone can be part of your mind (I am borrowing, and simplifying, here from work by Andy Clark and David Chalmers).  To introduce that thesis, I already know I’ll need to:
+We are a community, and every one of us is a part of it.  Contributing to a healthy community is important, both because it affirms that each of us belongs and has a place here at St. Lawrence and in Philosophy courses, but also because we all learn better when we feel we can trust each other.  We can trust each other to listen and think carefully about what we say.  We can trust each other to value us as people, and to respect our dignity.  We can trust each other to challenge us, but to do so with humility, recognizing that we all get things wrong.
 
-* Explain what I mean by “part of your mind.”  I obviously don’t mean it is physically attached to your brain, so what do I mean?
-* Situate my argument in the recent debate - explaining what views I am building on and what views I am challenging.
+As part of upholding this community, I expect that you will:
+* Listen attentively while your classmates, or me, are talking.
+* Arrive to class on time
+* Show respect for your classmates, and avoid making disrespectful comments about their contributions, or showing clearly disrespectful body language in response to them.
+* Be welcoming of your classmates ideas and contributions, and avoid making aggressive comments targeting your classmates or any group of people.
 
-I then work out my arguments for it.  Suppose I have two, which I can sketch out as follows:
+**Late Assignment Policy**
 
-**Argument One**
+Here's how I think about due dates: they are there for you.  What does that mean?  Well, one thing due dates help you do is structure your work, so that you are not hit with too many obligations at the same time.  Another is that they help you learn how to work under a deadline, an experience you will have throughout your time at SLU and in your working life.  Due dates also help make sure you are prepared for class.  My policies on due dates are based on these goals.
 
-1. Accessing information from your phone works in the same way as accessing information from your memory.
-2. If accessing information from memory and your phone work in the same way, then either they should both be part of your mind, or both not part of your mind.
-3. Your memory is part of your mind.
-4. Therefore, your phone is part of your mind.
+Homework assignments are designed to prepare you for class, and so the first submission really needs to be complete in time for the assigned class.  If the homework is late, I will still accept it, but you will lose the opportunity to revise it after the first submission.
 
-**Argument Two**
+For the paper, you may need flexiblity.  It's a big project and conflicts with other responsibilities may get in the way.  Part of learning how to work under deadlines is planning ahead in a professionally responsible way to get more time.  I am willing to grant extensions if you plan ahead and ask for one (at least 24 hours before the paper is due), but will refuse to grant an extension if you regularly ask for one (asking for more time in a professionally responsible way is perfectly reasonable, but developing a habit of needing it is not).  When you ask for an extension, please specify how much extra time you will need.
 
-1. If the functioning of your phone could be built into a microchip that was physically implanted in your brain, such that it operated the same way as any other mental process, it would be part of your mind.
-2. There is no relevant difference between a chip implanted in your brain and a chip running in a phone outside of your brain.
-3. Therefore, your phone is part of your mind.
 
-Since I have two arguments, I’ll start with a section of my paper for each.  I then take a look at my first argument.   I need to establish that accessing information works in the same way in both of these cases.  I should start by identifying what they have in common.  What are the features of accessing information from my memory?  Does using my phone have each?  How do I know?  Say I identify three features - perhaps I’ll devote a paragraph to each, explaining how both memory and using my phone involve those features.  
+**Academic Honesty**
 
-From there, I’ll move on to the next premise.  This one seems to be based on a number of assumptions from the philosophy of mind about what your mind even is.  Notice, for example, that the criteria it uses for being part of my mind is that the way in which information is processed is the same as mental activities.  Why should I believe that?  Well, here I should probably spend some time introducing the relevant theories from the Philosophy of Mind.  (Advertisement: take Philosophy of Mind and learn what they are!)  Here I will plan out how much background I need in order to explain and defend this claim.  
+A major commitment of the University is “to the intellectual development of the student” (St. Lawrence University Aims and Objectives) which can be achieved only by strict adherence to standards of honesty.  At St. Lawrence, all members of the community have a responsibility to see that these standards are maintained. Consequently, St. Lawrence University students will not engage in acts of academic dishonesty as described in the Academic Honor Code, contained in the Student Handbook.
 
-The third premise is perhaps one that I’ll take as an assumption, and not defend here.  If so, then I can just devote a short paragraph to it explaining that I will be assuming it.  Now, it is time to move on to argument two, and do the same process.  By the end of it, I’ll have a sense of all of the tasks I need to accomplish to write my paper, and from here it is just a matter of breaking it up into those tasks (each a small chunk of the paper), and doing some writing!
+As part of this policy, you may not use ‘AI’ tools like ChatGPT, except:
+1.	As part of an exploration of what LLMs can do and how they operate.  That is, you can use it if describing its functioning is part of your work, and you are not representing the outputs of the LLM as your own work.
+2.	As part of a classroom activity or demonstration where you are asked to use it for a specified purpose.
+3.	Grammatical tools like Grammarly are fine, though you may not use LLMs to rewrite your own text.  Doing so denies you an opportunity to improve your writing ability, risks distorting your original meaning, and makes your prose conform to common writing methods.
 
-That is, the big idea for structuring a paper is this: **think about what you need to *do* in order to defend your thesis, rather than the paragraphs you need to write, or the ideas you want to talk about.**
+Given the theme of this class, we will spend a lot of time talking about the reasons for this policy.  The simple version, however, is that (a) LLMs are systematically unreliable in ways that are not always easy to detect; (b) substitution of the work of LLMs for your own work subverts the very purpose of the class, as it denies you an opportunity to learn.  (That, after all, is what all this hard work is for).
 
-Some things you'll need to are universal across every paper:
-* Introduce your research question.
-* Explain what key terms in your thesis mean.
-* Show your reader why they should care about your essay.
-* Explain how your view fits into the field - what other positions are you challening? supporting? expanding upon?
+**Accessibility**
 
-The thesis templates above can also give you some guidance on what you might need to include in your paper:
+If you have a learning difference/disability or other health impairment and need accommodations please be sure to contact the Student Accessibility Services Office right away so they can help you get the accommodations you require. If you need to use any accommodations in this class, please meet with your instructor early and provide them with your Individualized Educational Accommodation Plan (IEAP) letter so you can have the best possible experience this semester.
 
-The Positive Support
-:	I will argue that \<*your claim!*\>, on the grounds that \<*your reasons!*\>
+Although not required, your instructor would like to know of any accommodations that are needed at least 10 days before a quiz or test. Please be proactive and set up an appointment to meet with someone from the Student Accessibility Services Office.
 
-The Critique
-:	I will argue that the best arguments in support of \<*other philosopher’s*\> claim that \<*the position you will critique*\> fail, on the grounds that \<*your reasons!*\>
+Color-Vision Deficiency:  If you are Color-Vision Deficient, the Student Accessibility Services office has on loan glasses for students who are color vision deficient.  Please contact the office to make an appointment.
 
-The Defense
-:	One of the prominent objections against \<*your position!*\> is that \<*the critique!*\>.  However, \<*the critique*\> does not work as an objection against \<*your position*\> because \<*your reasons!*\>.
+For more specific information about setting up an appointment with Student Accessibility Services please see the listed options below:
+Telephone: 315.229.5537    Email:  [studentaccessibility@stlawu.edu](mailto:studentaccessibility@stlawu.edu)
+For further information about Student Accessibility Services you can check the website at:
+[https://www.stlawu.edu/student-accessibility-services](https://www.stlawu.edu/student-accessibility-services)  
 
-The Implication
-: It has been argued that \<*a position you will start from*\>.  In this essay, I will argue that, if this position is right, then \<*the following interesting thing is also true!*\>.
 
-Introducing \<*your claim!*\>?  Well, you'll need to explain what the key terms in it mean, and tell the reader how your claim fits in the debate (that is, are there other positions you are challenging?  ones you are supporting?).  Introducing \<*other philosopher’s*\>?  Well, you'll probably want to do the same things you would for your own claim, but also explain any other parts of that philosophers' view that the reader needs to understand in order to make sense of their claims.
+## Calendar
 
-If you are introducing \<*the critique!*\>, then you'll want to not only explain what the arguments are for the position you are critiquing, and what your arguments are, but be very specific in how your arguments challenge the view you are critiquing.  For example, you might point out that your arguments challenge some key premise *p* that the opposing argument relies upon.
 
-If you are discussing implications, that is, \<*the following interesting thing that is also true!*\> if some other position is true, then you'll want to explain why that interesting thing follows.  Do we have to accept it?  Why?  Plus, you should explain why that thing is interesting and important!  Does it help us solve some other problem?  Does it reveal some way in which a view can be applied more broadly than originally thought?
 
-Since you can mix and match these templates, this gives you a decision making process for writing a philosophy paper once you've identified your thesis: 
+|Date|	Topic|	Reading	Assignments|
 
-1. Figure out which template(s) you are going to use.
-2. Identify the tasks you will need to complete to successfully establish each part of the template.
-3. Figure out how those tasks are related to one another.  Which ones do you need to do before you can complete other tasks?  This gives you your outline.
-4. Write!
+**Unit One – Foundational Concepts in The Philosophy of Mind**
+|W. 1.15|	Minds and Computers	||	
+|M. 1.20|Dualism|Carter, Ch. 1-2||	
+|W. 1.22|Behaviorism|Carter, Ch. 3|Homework #1|
+|M. 1.27|Identity Theory|Carter, Ch. 5||	
+|W. 1.29|Functionalism|Carter, Ch. 6|Homework #2|
 
-## Revision: Rethinking and Rewriting
+**Unit Two - Computability**
+|M. 2.3|Formal Systems|Carter, Ch. 7||
+|W. 2.5|Computability|Carter, Ch. 8|Homework #3|
+|M. 2.10|Universal Machines	Carter, Ch. 9||	
+			
+**Unit Three – Computationalism and GOFAI**
+|W. 2.12|Computationalism|	Carter, Ch, 10	||
+|M. 2.17|Computationalism, Continued|Fodor, “Methodological Solipsism…”||	
+|W. 2.19|Techniques	Carter, Ch. 11-12|Homework #4||
+|M. 2.24|Machine Reasoning and Language|Carter, Ch. 13-14||
+|W. 2.26|Human Reasoning and Language|Carter, Ch. 15-16|Homework #5|
+|M. 3.3|Meaning and Representation|Carter, Ch. 17-18||	
 
-Once you have a complete draft, it is time to turn it in.  No, not to your professor.  It's time to turn it over to a friend, a classmate, a trusted advisor, or even just a future version of yourself.  The fundamental challenge to revising is that you know what you intend to say, and so you will have a tendency to read your paper as saying what you meant it to say.  The inferences will all be clear.  The details of the opposing positions are all in your own memory.  Even the typos are easy to gloss over, since you know what sentence you meant to write.  The value of another reader is that they can read your work without those background assumptions and help you identify the gaps in your essay.  
+**Unit Four – Deep Learning and LLMs**
+|W. 3.5|Neural Networks|Carter, Ch. 19|Homework #6, Research Bank Due|
+|M. 3.10|ChatGPT|Lee and Trott, “A Jargon-free…”||	
+|W. 3.12|LLMs and Understanding|Titus, “Does ChatGPT have semantic understanding?”|Homework #7|
 
-In some cases, you can just turn your paper over to a friend or classmate and they'll know what to look for.  This is especially true if that classmate is also a philosophy student.  But what if they are not?  What if they don't have a background in philosophy?  In that case, I recommend asking your trusted friend a few questions before they read.  While these questions might depend upon what you know you need help on, a few good starting points are:
+_Spring Break – No Class on 3/17 or 3/19_
 
-* What terms or concepts did you feel like you couldn't understand?
-* If you had to summarize my own argument back to me, how would you state it?
-* What parts were my view, and what parts were the views of others?
-* Why does my view matter?
-
-These may sound like quiz questions, but you aren't grading your friend.  Instead, you can use their understanding to help you figure out what might not be clear.  Did they attribute sections about another philosopher's views to you?  If so, then you should make sure all of the views in that section are more clearly attributed to their authors.  Did your friend totally misdescribe your arguments?  If so, ask yourself how you might more clearly explain all of the steps, or what premises need more of a defense.  One thing that is helpful about these questions is that you can ask similar questions of papers in other disciplines, meaning you and a friend could help each other out, even if you are in different classes.
-
-If your friend is a fellow philosophy major, then you can dig into the details, and have your friend take up the opposing position to help you make sure you have considered all of the angles.  Are there objections to your thesis you haven't considered?  Are there any premises in your argument that are not fully defended?  Have you charitably described the views of other philosophers?
-
-If your class has provided you with a rubric, you can also use the criteria to self-assess your essay.  This will not only help you check for weaknesses in your paper, but it will also help you make sure you did everything expected of you for the paper and that you didn't miss any requirements.
-
-Once you've got that feedback from a friend, or even just yourself, it's time to revise.  We sometimes think of revision as fixing things - adding a sentence here or there, tidying up some grammar, etc.  However, it is better to think about revision as *rethinking* and *rewriting.*  It is rethinking in that you may change how you argue or what you argue for.  It is rewriting in that you might completely redo some sections of the paper, or add brand-new sections that you did not include before.  
-
-Not only will this help you write the best paper you can, but it will help you most effectively practice the skills involved in philosophical thinking.  Your professors all write philosophical essays professionally, and I can guarantee that none of us try to publish our first drafts.  The work that gets published has been read and discussed with colleagues, presented at conferences, and reviewed by referees at journals, all to make sure we have thought through the question from every angle.  
-
-## The Philosophical Genre: What Makes it Different?
-
-Writing in Philosophy shares a lot of similarities with writing in other disciplines, including its core components: describing the views of other scholars and defending an argument.  However, there are differences as well, and if you are coming to philosophy from another field, it can be useful to keep these in mind:
-
-* Philosophical writing requires careful attention to *voice*.  That is, you will be considering the views of various different thinkers, as well as your own in a paper.  At times, you might assume that a position is true for the sake of argument and see what follows from it (e.g., "let us suppose that Kripke is right that names are rigid designators; if so, then...").  It can quickly get confusing for your reader if they don't always know (a) whose view it is, and (b) whether you are endorsing or describring that view.  For example, compare the example sentence above about Kripke's views to this alternative: "as Kripke argues, names are rigid designators, which means that...".  In the first example, the author entertains the possibility that Kripke is right, but does not endorse the view.  In the latter, the author endorses Kripke's views and then draws a consequence from them.  It is key in philosophical writing to help your reader keep track of who is speaking, and what your attitude towards those views is.
-* Philosophers tend to prioritize clarity among the most important virtues of good writing (and thinking!).  As such, while it is valuable for your paper to be well-written with an effective prose style, it is more important to be clear.  In practice, this means avoiding flowery language, and to use terms consistently.  For example, avoid sweeping generalizations ("since the beginning of time, humans have asked whether they possess free will") and it is okay to be slightly repetitive in using a key term from your paper.  If you try to change up the language too often (such as by using a thesaurus to find synonyms for repeated terms), you may confuse the reader into thinking the different words are describing different concepts.
-* You can use the first person in Philosophical writing, but keep it limited to describing what you will *do* in your paper.  For example, you might write that "in this paper, I will argue that..." or "in section 2, I discuss Kant's views on...".  What you want to avoid is using the first person just to tell us your feelings or beliefs - you do *not* want to say things like "I believe that..." or "I feel that..."
-
-## How I Write: My Process and Tools
-
-Finally, in this last section, I am going to talk a bit about my own writing process.  I always start with free writing.  I keep a research journal where I jot down ideas and stray thoughts on research topics, or just philosophical things that interest me.  Sometimes those journal entries are half-baked ideas that go nowhere, sometimes they are really promising ideas that become papers.  Sometimes, when I am working on something, these journal entries give me a place to try to work out what I want to say in my paper.  I find that writing helps me think, but that it is helpful to have space that feels less like a commitment - I’m not going to use these words in my papers.  It is just a matter of writing to help me work out some ideas, and I find that freeing.  For the technical minded among you: I keep this journal in a plain text file stored in my Dropbox.  I use the software Drafts with an preconfigured output command to pre-pend my new entries to that text file.
-
-I keep track of all my sources in a BibTeX file, managed through Zotero.  You can also use RefWorks, which the University has a subscription to.  I use Zotero because it offers a bit more flexibility, is faster, and because of how well it integrates with writing in Plain Text.  However, RefWorks tends to be a bit easier for a lot of people, especially with Microsoft Word.  Either way - I strongly recommend using a citation manager if you are doing any large research projects.  It not only helps with formatting, but also allows you to re-use citations to papers you have used before.  If I want to cite a particular paper, all I need to do is add the citation key to my paper, and like magic, the citation appears in my paper, with both an in-text citation and bibliography entry.
-
-When it comes time to write, I start by making a rough outline of what I want to say, and where, in my document.  I usually put in all of my section headings, along with 1-2 sentence summaries of what I want to do in each sub-section.  This is helpful to me for a few reasons.  One is that I like to jump around when I write.  Sometimes I’ll get stuck in a particular section, so I’ll go work on another section of the paper.  It helps me keep the paper moving, and coming back to the part I was stuck on fresh often helps me figure out what to say.  The other reason is that I write a little everyday (more on this below), so these little section headings help me pick up where I left off more easily.  Finally, they also help when I need to reorganize.  If I think that a point would work better earlier in the paper, those notes help me find the paragraphs I need to move.
-
-From there, I just write a little bit everyday.  Students often write in big spurts, where a deadline pushes you to try and write an entire paper the day (or night) before it is due.  Students often point out that the pressure of the deadline helps them write.  I think it is probably true that the pressure helps you get words down on paper.  I am more skeptical that helps us to write.  The difference is that we do better writing when we have time to think, reconsider, re-write, and re-evaluate what we are doing.  Instead of sticking with the last minute strategy, I’ve found the best approach is to just get some writing done every day - maybe a small amount, maybe a large amount if you are feeling particularly inspired.  Not only does it make getting the whole paper done feel easier (a half hour a day is a lot more pleasant than an energy-drink fueled rush late at night!), but it keeps you in the mindset of your paper.  That is, you’ll find yourself thinking about it more often, and in more circumstances, which often helps you work out thorny problems.
-
-I write my papers in plain text, using the markup language Pandoc with Sublime Text 3 as my text editor.  Writing in plain text means that you don’t get any fancy formatting as you write.  It also means, however, that you don’t need to worry about formatting - you can focus solely on what you want to say.  To do the actual formatting, you use some really easy code, such as using asterisks to indicate italics, and the @ sign to mark a citation.  It is easy to learn, and one advantage of writing in Pandoc is that when you are done, you compile the paper into some other format.  This makes it easy to turn your paper into a PDF, a Word Document, an HTML page, or whatever else you need.
-
-Finally, to edit my papers, I use a few strategies.  One is that I rely on friends and colleagues.  I participate in a writing group where I have other scholars (philosophers and non-philosophers) read parts of my papers and offer feedback.  This helps because I always know what I meant to say, and so it is really useful to find out what other people think you have actually said!  When editing my own papers, I read them out-loud.  This will help you catch grammatical errors because it prevents you from simply reading your sentences as you meant them to sound.  
+**Unit Five – The Ethics of AI**
+|M. 3.24|Can AI be conscious?|Chalmers, “Could a Large Language Model be Conscious?”||	
+|W. 3.26|Can AI be creative?|Brainard, “The Curious Case of Uncurious Creation”|Argument Outline Due|
+|M. 3.31|Ethical AI Decision-Making|Geisslinger, et al. “Autonomous Driving Ethics”||	
+|W. 4.2|AI and Moral Responsibility|Goetze, “Mind the Gap”|Peer Review of Outlines Due|
+|M. 4.7|Deepfakes and Misinformation|Rini, “Deepfakes and the Epistemic Backstop”||	
+|W. 4.9|Algorithmic Bias|Fazelpour and Danks, “Algorithmic Bias”||	
+|M. 4.14|Epistemic Injustice and AI|Kay, et al. “Epistemic Injustice in Generative AI”||	
+|W. 4.16|Group Presentation||Research Paper Draft|
+|M. 4.21|Group Presentation|||	
+|W. 4.22|Group Presentation|||		
+|M. 4.28|Group Presentation|||		
+|W. 4.30|Wrapping Up|||		
