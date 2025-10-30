@@ -193,9 +193,9 @@ For further information about Student Accessibility Services you can check the w
 
 
 
-|Date|	Topic|	Reading	Assignments|
+|Date|	Topic|	Reading	Assignments| Assignments Due|
 
-**Unit One – Foundational Concepts in The Philosophy of Mind**
+|**Unit One – Foundational Concepts in The Philosophy of Mind**|||
 
 |W. 1.15|Minds and Computers	||	
 |M. 1.20|Dualism|Carter, Ch. 1-2||	
