@@ -50,7 +50,7 @@ Your class participation grade also includes completion of the stages of the res
 
 **Rubric**
 
-|Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)|
+||Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)|
 |Readiness to Learn|Student is always in class, having done all assignments, has relevant materials, and comes prepared with questions and ideas.|Student is always in class, having done all of the assignments, and has all of the relevant materials.|Student misses class, and/or has not done the work, or come prepared to discuss the topics of the day.	Student frequently misses class, and is regularly unprepared for the topics of the day.|
 In-Class Contributions|Student makes frequent constructive and insightful contributions to class conversations and group work.|Student’s contributions are infrequent, but constructive and insightful.|Student makes frequent contributions which are not constructive, or rarely contributes.|Student’s contributions actively diminish the learning environment (e.g., are off topic or attack others).|
 |Virtuous Participation|Student regularly follows the code of intellectual conduct, and corrects themselves when failing to do so.|	Student regularly follows the code of conduct, but does not recognize or improve upon unvirtuous behavior.|Student often violates the code of intellectual conduct and does not make serious efforts to improve.|Student frequently violates the code of intellectual conduct without making serious efforts to improve.|
@@ -106,7 +106,7 @@ More details on the paper and each of the steps described above will be distribu
 
 **Rubric**
 
-|Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)|
+||Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)|
 |Understanding|	The paper demonstrates a strong command of the discussed positions and ideas.|The paper demonstrates an understanding of the key ideas, but misses nuances.|The paper misunderstands one or more central positions or ideas.|The paper frequently misunderstands central positions or ideas.|
 |Charity|The paper presents all views fairly, and in the best possible light.|The views are expressed fairly, but not always in their strongest form.|Views are misrepresented as being weaker than they really are.|Views are presented in clearly problematic ways inconsistent with the original texts.|
 |Intellectual Creativity|The author frequently contributes his/her own ideas to the paper.|The author makes a novel contribution, but does not go far beyond his/her sources.|The author has a novel idea, but does not develop it with a supporting argument.|The author does not contribute any ideas of his or her own.|
@@ -129,7 +129,7 @@ The emphasis for this presentation should be on leading a discussion, and not on
 
 **Rubric**
 
-|Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)|
+||Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)|
 |Understanding|The group demonstrates an understanding of their material, and communicates it to the audience.|The group makes some significant mistakes, or does not communicate their understanding clearly.|The group often misunderstands their material, and does not communicate clearly.|The group is unprepared to explain their material, and makes regular, significant errors.|
 |Speaking Skills|The group speaks with good volume, enthusiasm, and eye contact.|The group, at times, shows a lack of enthusiasm, poor eye contact, or has low volume.|The group frequently shows a lack of enthusiasm, poor eye contact, or has low volume.|The group consistently is hard to understand, and does not engage the audience|
 |Organization|The presentation has a clear logical flow, so that the audience knows how it fits together.|The presentation has clear structure, but ideas are presented in a confusing order.|It is difficult to follow the logical flow of the presentation.|The presentation lacks structure and jumps from point to point.|
@@ -196,18 +196,21 @@ For further information about Student Accessibility Services you can check the w
 |Date|	Topic|	Reading	Assignments|
 
 **Unit One – Foundational Concepts in The Philosophy of Mind**
-|W. 1.15|	Minds and Computers	||	
+
+|W. 1.15|Minds and Computers	||	
 |M. 1.20|Dualism|Carter, Ch. 1-2||	
 |W. 1.22|Behaviorism|Carter, Ch. 3|Homework #1|
 |M. 1.27|Identity Theory|Carter, Ch. 5||	
 |W. 1.29|Functionalism|Carter, Ch. 6|Homework #2|
 
 **Unit Two - Computability**
+
 |M. 2.3|Formal Systems|Carter, Ch. 7||
 |W. 2.5|Computability|Carter, Ch. 8|Homework #3|
 |M. 2.10|Universal Machines	Carter, Ch. 9||	
 			
 **Unit Three – Computationalism and GOFAI**
+
 |W. 2.12|Computationalism|	Carter, Ch, 10	||
 |M. 2.17|Computationalism, Continued|Fodor, “Methodological Solipsism…”||	
 |W. 2.19|Techniques	Carter, Ch. 11-12|Homework #4||
@@ -216,6 +219,7 @@ For further information about Student Accessibility Services you can check the w
 |M. 3.3|Meaning and Representation|Carter, Ch. 17-18||	
 
 **Unit Four – Deep Learning and LLMs**
+
 |W. 3.5|Neural Networks|Carter, Ch. 19|Homework #6, Research Bank Due|
 |M. 3.10|ChatGPT|Lee and Trott, “A Jargon-free…”||	
 |W. 3.12|LLMs and Understanding|Titus, “Does ChatGPT have semantic understanding?”|Homework #7|
@@ -223,6 +227,7 @@ For further information about Student Accessibility Services you can check the w
 _Spring Break – No Class on 3/17 or 3/19_
 
 **Unit Five – The Ethics of AI**
+
 |M. 3.24|Can AI be conscious?|Chalmers, “Could a Large Language Model be Conscious?”||	
 |W. 3.26|Can AI be creative?|Brainard, “The Curious Case of Uncurious Creation”|Argument Outline Due|
 |M. 3.31|Ethical AI Decision-Making|Geisslinger, et al. “Autonomous Driving Ethics”||	
