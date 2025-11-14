@@ -104,18 +104,18 @@ The paper should be approximately 10-12 pages long, double-spaced, and submitted
 
 More details on the paper and each of the steps described above will be distributed in class.
 
-#### Rubric
+_Rubric_
 
 ||Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)|
-|Understanding|	The paper demonstrates a strong command of the discussed positions and ideas.|The paper demonstrates an understanding of the key ideas, but misses nuances.|The paper misunderstands one or more central positions or ideas.|The paper frequently misunderstands central positions or ideas.|
-|Charity|The paper presents all views fairly, and in the best possible light.|The views are expressed fairly, but not always in their strongest form.|Views are misrepresented as being weaker than they really are.|Views are presented in clearly problematic ways inconsistent with the original texts.|
-|Intellectual Creativity|The author frequently contributes his/her own ideas to the paper.|The author makes a novel contribution, but does not go far beyond his/her sources.|The author has a novel idea, but does not develop it with a supporting argument.|The author does not contribute any ideas of his or her own.|
-|Soundness|	The arguments presented in the paper are valid and based on true premises.|The paper’s arguments are thoughtfully constructed, though have minor errors.|The central arguments of the paper are clearly invalid or rely on unsupported claims.|The paper makes little effort to make sound arguments, and instead simply asserts key claims.|
-|Support|The paper supports all of its claims with relevant evidence.|The paper provides some, but not sufficient, evidence for its claims.|The paper fails to support key contentions with evidence.|The paper makes little effort to provide supporting evidence.|
-|Clear Communication|The paper explains its jargon, and is free from syntactical and typographical errors.|The paper is readable and largely free from errors, but needs additional proof-reading.|The paper has errors which inhibit the clarity of the author’s claims.	The paper makes frequent errors that inhibit readability.|
-|Diligence|The paper draws on a range of sources, and makes use of important and relevant work.|The paper draws on a range of sources, and misses essential relevant work.|The paper draws on a limited number of sources and misses essential relevant work.|The author makes little effort to build off the relevant literature in the field.|
-|Intellectual Humility|The author’s claims always match his or her evidence (not claiming more than his/her evidence shows).|The author occasionally makes claims that go beyond his/her evidence in subtle ways.|The author makes claims that go well beyond what his or her evidence actually shows.|The author makes claims that are not based upon supporting arguments.|
-|Intellectual Honesty|The author notes the contributions of others, and always uses their sources fairly.|The author always uses their sources fairly, but does not always accurately note the contributions of others (e.g., not using a proper citation format).|The author uses sources unfairly (e.g., taking quotes well out of context), and has an inadequate bibliography.|N/A (Papers with more substantive problems with intellectual honesty will be considered plagiarized).|
+|**Understanding**|	The paper demonstrates a strong command of the discussed positions and ideas.|The paper demonstrates an understanding of the key ideas, but misses nuances.|The paper misunderstands one or more central positions or ideas.|The paper frequently misunderstands central positions or ideas.|
+|**Charity**|The paper presents all views fairly, and in the best possible light.|The views are expressed fairly, but not always in their strongest form.|Views are misrepresented as being weaker than they really are.|Views are presented in clearly problematic ways inconsistent with the original texts.|
+|**Intellectual Creativity**|The author frequently contributes his/her own ideas to the paper.|The author makes a novel contribution, but does not go far beyond his/her sources.|The author has a novel idea, but does not develop it with a supporting argument.|The author does not contribute any ideas of his or her own.|
+|**Soundness**|	The arguments presented in the paper are valid and based on true premises.|The paper’s arguments are thoughtfully constructed, though have minor errors.|The central arguments of the paper are clearly invalid or rely on unsupported claims.|The paper makes little effort to make sound arguments, and instead simply asserts key claims.|
+|**Support**|The paper supports all of its claims with relevant evidence.|The paper provides some, but not sufficient, evidence for its claims.|The paper fails to support key contentions with evidence.|The paper makes little effort to provide supporting evidence.|
+|**Clear Communication**|The paper explains its jargon, and is free from syntactical and typographical errors.|The paper is readable and largely free from errors, but needs additional proof-reading.|The paper has errors which inhibit the clarity of the author’s claims.	The paper makes frequent errors that inhibit readability.|
+|**Diligence**|The paper draws on a range of sources, and makes use of important and relevant work.|The paper draws on a range of sources, and misses essential relevant work.|The paper draws on a limited number of sources and misses essential relevant work.|The author makes little effort to build off the relevant literature in the field.|
+|**Intellectual Humility**|The author’s claims always match his or her evidence (not claiming more than his/her evidence shows).|The author occasionally makes claims that go beyond his/her evidence in subtle ways.|The author makes claims that go well beyond what his or her evidence actually shows.|The author makes claims that are not based upon supporting arguments.|
+|**Intellectual Honesty**|The author notes the contributions of others, and always uses their sources fairly.|The author always uses their sources fairly, but does not always accurately note the contributions of others (e.g., not using a proper citation format).|The author uses sources unfairly (e.g., taking quotes well out of context), and has an inadequate bibliography.|N/A (Papers with more substantive problems with intellectual honesty will be considered plagiarized).|
 
 
 ### Group Presentation
@@ -127,13 +127,13 @@ Your research group will be responsible for leading a 90 minute class session.  
 
 The emphasis for this presentation should be on leading a discussion, and not on lecturing.  More details on this presentation and what it ought to look like, will be distributed in class and this page will be updated with a link to those instructions once available.
 
-#### Rubric
+_Rubric_
 
-||Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)|
-|Understanding|The group demonstrates an understanding of their material, and communicates it to the audience.|The group makes some significant mistakes, or does not communicate their understanding clearly.|The group often misunderstands their material, and does not communicate clearly.|The group is unprepared to explain their material, and makes regular, significant errors.|
-|Speaking Skills|The group speaks with good volume, enthusiasm, and eye contact.|The group, at times, shows a lack of enthusiasm, poor eye contact, or has low volume.|The group frequently shows a lack of enthusiasm, poor eye contact, or has low volume.|The group consistently is hard to understand, and does not engage the audience|
-|Organization|The presentation has a clear logical flow, so that the audience knows how it fits together.|The presentation has clear structure, but ideas are presented in a confusing order.|It is difficult to follow the logical flow of the presentation.|The presentation lacks structure and jumps from point to point.|
-|Class Engagement|The group uses questions and activities that help us to understand key ideas.|The group gets the class actively engaged, but the activities are not connected to the broader themes.|The group attempts to get the class actively engaged, but is unclear in instructions and purpose.|The group does not attempt to engage the audience.|
+||**Exemplary (4.0)**|**Good (3.0)**|**Adequate (2.0)**|**Poor (1.0)**|
+|**Understanding**|The group demonstrates an understanding of their material, and communicates it to the audience.|The group makes some significant mistakes, or does not communicate their understanding clearly.|The group often misunderstands their material, and does not communicate clearly.|The group is unprepared to explain their material, and makes regular, significant errors.|
+|**Speaking Skills**|The group speaks with good volume, enthusiasm, and eye contact.|The group, at times, shows a lack of enthusiasm, poor eye contact, or has low volume.|The group frequently shows a lack of enthusiasm, poor eye contact, or has low volume.|The group consistently is hard to understand, and does not engage the audience|
+|**Organization**|The presentation has a clear logical flow, so that the audience knows how it fits together.|The presentation has clear structure, but ideas are presented in a confusing order.|It is difficult to follow the logical flow of the presentation.|The presentation lacks structure and jumps from point to point.|
+|**Class Engagement**|The group uses questions and activities that help us to understand key ideas.|The group gets the class actively engaged, but the activities are not connected to the broader themes.|The group attempts to get the class actively engaged, but is unclear in instructions and purpose.|The group does not attempt to engage the audience.|
 
 
 ## Resources
@@ -190,10 +190,10 @@ For further information about Student Accessibility Services you can check the w
 
 ## Calendar
 
-|**Date**|**Topic**|**Reading**|**Assignments Due**|
 
 **Unit One – Foundational Concepts in The Philosophy of Mind**
 
+|**Date**|**Topic**|**Reading**|**Assignments Due**|
 |W. 1.15|Minds and Computers	||	
 |M. 1.20|Dualism|Carter, Ch. 1-2||	
 |W. 1.22|Behaviorism|Carter, Ch. 3|Homework #1|
@@ -202,12 +202,14 @@ For further information about Student Accessibility Services you can check the w
 
 **Unit Two - Computability**
 
+|**Date**|**Topic**|**Reading**|**Assignments Due**|
 |M. 2.3|Formal Systems|Carter, Ch. 7||
 |W. 2.5|Computability|Carter, Ch. 8|Homework #3|
 |M. 2.10|Universal Machines	Carter, Ch. 9||	
 			
 **Unit Three – Computationalism and GOFAI**
 
+|**Date**|**Topic**|**Reading**|**Assignments Due**|
 |W. 2.12|Computationalism|	Carter, Ch, 10	||
 |M. 2.17|Computationalism, Continued|Fodor, “Methodological Solipsism…”||	
 |W. 2.19|Techniques	Carter, Ch. 11-12|Homework #4||
@@ -217,6 +219,7 @@ For further information about Student Accessibility Services you can check the w
 
 **Unit Four – Deep Learning and LLMs**
 
+|**Date**|**Topic**|**Reading**|**Assignments Due**|
 |W. 3.5|Neural Networks|Carter, Ch. 19|Homework #6, Research Bank Due|
 |M. 3.10|ChatGPT|Lee and Trott, “A Jargon-free…”||	
 |W. 3.12|LLMs and Understanding|Titus, “Does ChatGPT have semantic understanding?”|Homework #7|
@@ -225,6 +228,7 @@ _Spring Break – No Class on 3/17 or 3/19_
 
 **Unit Five – The Ethics of AI**
 
+|**Date**|**Topic**|**Reading**|**Assignments Due**|
 |M. 3.24|Can AI be conscious?|Chalmers, “Could a Large Language Model be Conscious?”||	
 |W. 3.26|Can AI be creative?|Brainard, “The Curious Case of Uncurious Creation”|Argument Outline Due|
 |M. 3.31|Ethical AI Decision-Making|Geisslinger, et al. “Autonomous Driving Ethics”||	
