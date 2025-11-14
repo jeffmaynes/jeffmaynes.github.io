@@ -48,12 +48,12 @@ The material in this course is not easy, and two essential components of partici
 
 Your class participation grade also includes completion of the stages of the research paper project (outlines, peer review, and draft).
 
-#### Rubric 
+_Rubric_
 
 ||**Exemplary (4.0)**|**Good (3.0)**|**Adequate (2.0)**|**Poor (1.0)**|
-|Readiness to Learn|Student is always in class, having done all assignments, has relevant materials, and comes prepared with questions and ideas.|Student is always in class, having done all of the assignments, and has all of the relevant materials.|Student misses class, and/or has not done the work, or come prepared to discuss the topics of the day.|Student frequently misses class, and is regularly unprepared for the topics of the day.|
-In-Class Contributions|Student makes frequent constructive and insightful contributions to class conversations and group work.|Student’s contributions are infrequent, but constructive and insightful.|Student makes frequent contributions which are not constructive, or rarely contributes.|Student’s contributions actively diminish the learning environment (e.g., are off topic or attack others).|
-|Virtuous Participation|Student regularly follows the code of intellectual conduct, and corrects themselves when failing to do so.|	Student regularly follows the code of conduct, but does not recognize or improve upon unvirtuous behavior.|Student often violates the code of intellectual conduct and does not make serious efforts to improve.|Student frequently violates the code of intellectual conduct without making serious efforts to improve.|
+|**Readiness to Learn**|Student is always in class, having done all assignments, has relevant materials, and comes prepared with questions and ideas.|Student is always in class, having done all of the assignments, and has all of the relevant materials.|Student misses class, and/or has not done the work, or come prepared to discuss the topics of the day.|Student frequently misses class, and is regularly unprepared for the topics of the day.|
+|**In-Class Contributions**|Student makes frequent constructive and insightful contributions to class conversations and group work.|Student’s contributions are infrequent, but constructive and insightful.|Student makes frequent contributions which are not constructive, or rarely contributes.|Student’s contributions actively diminish the learning environment (e.g., are off topic or attack others).|
+|**Virtuous Participation**|Student regularly follows the code of intellectual conduct, and corrects themselves when failing to do so.|	Student regularly follows the code of conduct, but does not recognize or improve upon unvirtuous behavior.|Student often violates the code of intellectual conduct and does not make serious efforts to improve.|Student frequently violates the code of intellectual conduct without making serious efforts to improve.|
 
 _Code of Intellectual Conduct_
 1.	Fallibility Principle – I recognize that I might be wrong.
@@ -71,14 +71,15 @@ As such, in the first half of the semester you will mostly be working on homewor
 
 Your grade will be based on the number of homework assignments you successfully pass, as detailed in the table below:
 
-|Total Homeworks Passed|Grade|
+|**Total Homeworks Passed**|**Grade**|
 |7|4.0|
-|6|3.5|
-|5|3.0|
-|4|2.5|
-|3|2|
-|2|1|
-|0-1|0|
+|6|3.75|
+|5|3.25|
+|4|2.75|
+|3|2.25|
+|2|1.5|
+|1|1.0|
+|0|0|
 
 ### Research Paper
 
@@ -106,7 +107,7 @@ More details on the paper and each of the steps described above will be distribu
 
 _Rubric_
 
-||Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)|
+||**Exemplary (4.0)**|**Good (3.0)**|**Adequate (2.0)**|**Poor (1.0)**|
 |**Understanding**|	The paper demonstrates a strong command of the discussed positions and ideas.|The paper demonstrates an understanding of the key ideas, but misses nuances.|The paper misunderstands one or more central positions or ideas.|The paper frequently misunderstands central positions or ideas.|
 |**Charity**|The paper presents all views fairly, and in the best possible light.|The views are expressed fairly, but not always in their strongest form.|Views are misrepresented as being weaker than they really are.|Views are presented in clearly problematic ways inconsistent with the original texts.|
 |**Intellectual Creativity**|The author frequently contributes his/her own ideas to the paper.|The author makes a novel contribution, but does not go far beyond his/her sources.|The author has a novel idea, but does not develop it with a supporting argument.|The author does not contribute any ideas of his or her own.|
