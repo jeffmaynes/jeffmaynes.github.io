@@ -50,7 +50,7 @@ Your class participation grade also includes completion of the stages of the res
 
 #### Rubric 
 
-||**Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)**|
+||**Exemplary (4.0)**|**Good (3.0)**|**Adequate (2.0)**|**Poor (1.0)**|
 |Readiness to Learn|Student is always in class, having done all assignments, has relevant materials, and comes prepared with questions and ideas.|Student is always in class, having done all of the assignments, and has all of the relevant materials.|Student misses class, and/or has not done the work, or come prepared to discuss the topics of the day.|Student frequently misses class, and is regularly unprepared for the topics of the day.|
 In-Class Contributions|Student makes frequent constructive and insightful contributions to class conversations and group work.|Student’s contributions are infrequent, but constructive and insightful.|Student makes frequent contributions which are not constructive, or rarely contributes.|Student’s contributions actively diminish the learning environment (e.g., are off topic or attack others).|
 |Virtuous Participation|Student regularly follows the code of intellectual conduct, and corrects themselves when failing to do so.|	Student regularly follows the code of conduct, but does not recognize or improve upon unvirtuous behavior.|Student often violates the code of intellectual conduct and does not make serious efforts to improve.|Student frequently violates the code of intellectual conduct without making serious efforts to improve.|
