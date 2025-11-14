@@ -16,7 +16,7 @@ toc: true
 
 **Course Materials**
 
-* Carter, Matt. Minds and Machines, 2007. Edinburgh University Press.
+* Carter, Matt. _Minds and Machines_, 2007. Edinburgh University Press.
 * All other readings will be made available on Canvas.
 
 ## Course Description
@@ -48,7 +48,7 @@ The material in this course is not easy, and two essential components of partici
 
 Your class participation grade also includes completion of the stages of the research paper project (outlines, peer review, and draft).
 
-**Rubric**
+#### Rubric 
 
 ||Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)|
 |Readiness to Learn|Student is always in class, having done all assignments, has relevant materials, and comes prepared with questions and ideas.|Student is always in class, having done all of the assignments, and has all of the relevant materials.|Student misses class, and/or has not done the work, or come prepared to discuss the topics of the day.	Student frequently misses class, and is regularly unprepared for the topics of the day.|
@@ -71,7 +71,7 @@ As such, in the first half of the semester you will mostly be working on homewor
 
 Your grade will be based on the number of homework assignments you successfully pass, as detailed in the table below:
 
-|Number Passed|Grade|
+|Total Homeworks Passed|Grade|
 |7|4.0|
 |6|3.5|
 |5|3.0|
@@ -80,7 +80,7 @@ Your grade will be based on the number of homework assignments you successfully 
 |2|1|
 |0-1|0|
 
-#### Research Paper
+### Research Paper
 
 This paper is a formal philosophical research paper.  As such, it should include three central components:
 1. An overview of the existing literature and/or review of the arguments of at least one other philosopher you are in dialogue with.
@@ -104,7 +104,7 @@ The paper should be approximately 10-12 pages long, double-spaced, and submitted
 
 More details on the paper and each of the steps described above will be distributed in class.
 
-**Rubric**
+#### Rubric
 
 ||Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)|
 |Understanding|	The paper demonstrates a strong command of the discussed positions and ideas.|The paper demonstrates an understanding of the key ideas, but misses nuances.|The paper misunderstands one or more central positions or ideas.|The paper frequently misunderstands central positions or ideas.|
@@ -127,7 +127,7 @@ Your research group will be responsible for leading a 90 minute class session.  
 
 The emphasis for this presentation should be on leading a discussion, and not on lecturing.  More details on this presentation and what it ought to look like, will be distributed in class and this page will be updated with a link to those instructions once available.
 
-**Rubric**
+#### Rubric
 
 ||Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)|
 |Understanding|The group demonstrates an understanding of their material, and communicates it to the audience.|The group makes some significant mistakes, or does not communicate their understanding clearly.|The group often misunderstands their material, and does not communicate clearly.|The group is unprepared to explain their material, and makes regular, significant errors.|
@@ -145,7 +145,7 @@ I've written several guides to reading, researching, and writing Philosophy pape
 
 ## Course Policies
 
-**Respect for your classmates**
+### Respect for your classmates
 
 We are a community, and every one of us is a part of it.  Contributing to a healthy community is important, both because it affirms that each of us belongs and has a place here at St. Lawrence and in Philosophy courses, but also because we all learn better when we feel we can trust each other.  We can trust each other to listen and think carefully about what we say.  We can trust each other to value us as people, and to respect our dignity.  We can trust each other to challenge us, but to do so with humility, recognizing that we all get things wrong.
 
@@ -155,7 +155,7 @@ As part of upholding this community, I expect that you will:
 * Show respect for your classmates, and avoid making disrespectful comments about their contributions, or showing clearly disrespectful body language in response to them.
 * Be welcoming of your classmates ideas and contributions, and avoid making aggressive comments targeting your classmates or any group of people.
 
-**Late Assignment Policy**
+### Late Assignment Policy
 
 Here's how I think about due dates: they are there for you.  What does that mean?  Well, one thing due dates help you do is structure your work, so that you are not hit with too many obligations at the same time.  Another is that they help you learn how to work under a deadline, an experience you will have throughout your time at SLU and in your working life.  Due dates also help make sure you are prepared for class.  My policies on due dates are based on these goals.
 
@@ -164,18 +164,18 @@ Homework assignments are designed to prepare you for class, and so the first sub
 For the paper, you may need flexiblity.  It's a big project and conflicts with other responsibilities may get in the way.  Part of learning how to work under deadlines is planning ahead in a professionally responsible way to get more time.  I am willing to grant extensions if you plan ahead and ask for one (at least 24 hours before the paper is due), but will refuse to grant an extension if you regularly ask for one (asking for more time in a professionally responsible way is perfectly reasonable, but developing a habit of needing it is not).  When you ask for an extension, please specify how much extra time you will need.
 
 
-**Academic Honesty**
+### Academic Honesty and AI Use
 
 A major commitment of the University is “to the intellectual development of the student” (St. Lawrence University Aims and Objectives) which can be achieved only by strict adherence to standards of honesty.  At St. Lawrence, all members of the community have a responsibility to see that these standards are maintained. Consequently, St. Lawrence University students will not engage in acts of academic dishonesty as described in the Academic Honor Code, contained in the Student Handbook.
 
-As part of this policy, you may not use ‘AI’ tools like ChatGPT, except:
-1.	As part of an exploration of what LLMs can do and how they operate.  That is, you can use it if describing its functioning is part of your work, and you are not representing the outputs of the LLM as your own work.
+As part of this policy, you may not use Generative AI tools (like ChatGPT or Google NotebookLM), except:
+1.	As part of an exploration of what Generative AI can do and how it operates.  That is, you can use it if describing its functioning is part of your work, and you are not representing the outputs of the AI as your own work.
 2.	As part of a classroom activity or demonstration where you are asked to use it for a specified purpose.
-3.	Grammatical tools like Grammarly are fine, though you may not use LLMs to rewrite your own text.  Doing so denies you an opportunity to improve your writing ability, risks distorting your original meaning, and makes your prose conform to common writing methods.
+3.	Tools designed solely for grammatical improvement on text you have already written (such as Grammarly) are permissible.  However, you may not provide text into Generative AI tools like ChatGPT and ask it to rewrite or otherwise fix your text.  Similarly, you cannot use Grammarly's advanced functions (such as those in the Pro version) that suggest and apply rewrites to your text.  The difference is this: tools like Grammarly that provide local suggestions to fix particular pieces of writing, and which you can then decide to accept or not, still require you to make decisions about the appropriateness of particular changes, and to see why the change is suggested.  Asking a LLM to fix or improve a block of text instead encourages you to trust a more extensive rewriting without understanding why it was rewritten in the way it was, or whether that rewrite improved your essay.  Further, these tools often cause problems for philosophical thinking, since they attempt to bring your sentences in line with common ways of speaking which can introduce ambiguities in a precise style of writing like philosophy.  You may not always know if your use of a grammatical tool counts as 'rewriting' or not - please remember you can _always ask me_!
 
 Given the theme of this class, we will spend a lot of time talking about the reasons for this policy.  The simple version, however, is that (a) LLMs are systematically unreliable in ways that are not always easy to detect; (b) substitution of the work of LLMs for your own work subverts the very purpose of the class, as it denies you an opportunity to learn.  (That, after all, is what all this hard work is for).
 
-**Accessibility**
+### Accessibility
 
 If you have a learning difference/disability or other health impairment and need accommodations please be sure to contact the Student Accessibility Services Office right away so they can help you get the accommodations you require. If you need to use any accommodations in this class, please meet with your instructor early and provide them with your Individualized Educational Accommodation Plan (IEAP) letter so you can have the best possible experience this semester.
 
@@ -188,13 +188,12 @@ Telephone: 315.229.5537    Email:  [studentaccessibility@stlawu.edu](mailto:stud
 For further information about Student Accessibility Services you can check the website at:
 [https://www.stlawu.edu/student-accessibility-services](https://www.stlawu.edu/student-accessibility-services)  
 
-
 ## Calendar
 
+|**Date**|**Topic**|**Reading**|**Assignments Due**|
 
+**Unit One – Foundational Concepts in The Philosophy of Mind**
 
-|Date|	Topic|	Reading	Assignments| Assignments Due|
-|**Unit One – Foundational Concepts in The Philosophy of Mind**|
 |W. 1.15|Minds and Computers	||	
 |M. 1.20|Dualism|Carter, Ch. 1-2||	
 |W. 1.22|Behaviorism|Carter, Ch. 3|Homework #1|
