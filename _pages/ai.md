@@ -104,7 +104,7 @@ The paper should be approximately 10-12 pages long, double-spaced, and submitted
 
 More details on the paper and each of the steps described above will be distributed in class.
 
-#### Rubric
+##### Rubric
 
 ||Exemplary (4.0)|Good (3.0)|Adequate (2.0)|Poor (1.0)|
 |Understanding|	The paper demonstrates a strong command of the discussed positions and ideas.|The paper demonstrates an understanding of the key ideas, but misses nuances.|The paper misunderstands one or more central positions or ideas.|The paper frequently misunderstands central positions or ideas.|
