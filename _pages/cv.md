@@ -12,6 +12,8 @@ redirect_from:
 -   Professor of Philosophy, St. Lawrence University,
     2025-present and Department Chair, 2019-present.
 
+-   Director, Center for Innovation in Teaching and Assessment, St. Lawrence University, 2024-present.
+
 -   Associate Professor of Philosophy, St. Lawrence University,
     2018-2025
 
@@ -98,58 +100,6 @@ Epistemology, Environmental Philosophy, Ethics, Philosophy of Science
     of Reason*." *Inquiry: Critical Thinking Across the Disciplines*,
     31(3), 33-44.
 
-### Papers Presented (Peer Reviewed Paper or Abstract)
-
--   "On the Stakes of Experimental Philosophy," Buffalo Annual
-    Experimental Philosophy Conference, September 2016.
-
--   "Critical Thinking: Ecological and Ideal Rationality," Lilly
-    International Spring Conference, May, 2016.
-
--   "Objectivity Judgments of Ethical Claims Couched in Terms of Thick
-    Concepts," 11th Annual Workshop on Minds and Machines, Xiamen
-    University, China, October, 2014 (co-authored paper presented by a
-    co-author).
-
--   "Developing Metacognitive Skill to Teach Critical Reasoning," Lilly
-    International Spring Conference, May, 2014.
-
--   "Objectivity Judgments of Ethical Claims Couched in Terms of Thick
-    Concepts," New Jersey Regional Philosophical Association Conference,
-    November 2012 (co-authored paper presented by a co-author).
-
-### Papers Presented (Invited)
-
--   "What Linguistics is About,\" SUNY Potsdam Philosophy Forum, March
-    2019.
-
--   "Critical Reasoning, Cognitive Bias, and Ecological Rationality,"
-    Central Division Meeting of the American Philosophical Association,
-    February 2018.
-
--   "Experimental Philosophy (Not an Oxymoron!)," St. Lawrence
-    University, Faculty Cafe, February 2017.
-
--   "On the Stakes of Experimental Philosophy," SUNY Potsdam Philosophy
-    Forum, March, 2016.
-
--   "What Do You Know When You Know a Language?" Clarkson University
-    Science Cafe, October, 2014.
-
--   "Can Experiments Destroy Knowledge (about thick concepts)?" SUNY
-    Potsdam Philosophy Forum, October 2012.
-
--   "Comments on Daniel Kwon's 'How dthat can model that,"' Commentary
-    on a Submitted Symposium, Eastern Division Meeting of the American
-    Philosophical Association, December 2010.
-
--   "Ethics and Moral Psychology," Philosophy and the Academy, Johns
-    Hopkins University, March 2010.
-
--   "Experimental Philosophy," Meaning, Method and Motivation:
-    Perspectives on the Nature and Scope of Philosophy, Johns Hopkins
-    University, April 2009.
-
 ## Teaching Experience
 
 ### Courses Taught at St. Lawrence University
@@ -181,9 +131,9 @@ Epistemology, Environmental Philosophy, Ethics, Philosophy of Science
 
 -   PHIL 359: Philosophy of Language
 
--   PHIL 400: Metaphilosophy
+-   PHIL 370: The Philosophy of Artificial Intelligence
 
--   PHIL 4027: The Philosophy of Artificial Intelligence
+-   PHIL 400: Metaphilosophy
 
 
 ### Other Teaching Experience
@@ -194,6 +144,14 @@ Epistemology, Environmental Philosophy, Ethics, Philosophy of Science
 -   Academic Consultant, Johns Hopkins University, 2005-2007.
 
 ### Pedagogy Workshops Led
+
+-  “Inspiring motivation,” St. Lawrence University, November 2025.
+
+-  “Advising and Mentorship,” with Tina Tao, St. Lawrence University, October 2025.
+
+-  “Attending to Learn,” St. Lawrence University, October 2025.
+
+-  “Academic Integrity in the Age of AI,” with Melody Denny, Ronnie Olesker, Nicole Roche, and Eric Williams-Bergen, St. Lawrence University, August 2025.
 
 -  "Teaching on Matters of Race and Racism Across the Curriculum," St. Lawrence University, April 2025.
 
