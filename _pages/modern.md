@@ -5,7 +5,7 @@ author_profile: true
 toc: true
 ---
 
-# Course Information
+## Course Information
 
 **Instructor**
 
