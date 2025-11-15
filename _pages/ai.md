@@ -146,6 +146,14 @@ I've written several guides to reading, researching, and writing Philosophy pape
 
 ## Course Policies
 
+### Well-Being Policy
+
+Here are two reasons I care about your well-being.  First, a student who feels safe, welcome, and healthy, is a more successful student.  If you are well, you'll learn more.  Second, and more importantly, your college experience, including this class, should contribute to a well-lived life.  The information we cover, and the skills we practice, are in service to that well-lived life.
+
+In practice, this means that if you are struggling in any way - academically, personally, whatever, please feel encouraged to set up a meeting or stop by my office to chat.  I am always willing to listen, and where I can, help.
+
+St. Lawrence also has a host of resources available to you with your intellectual, physical, and emotional wellness.  You can find a handy guide to all of these resoruces on the [Well-Being Resources](https://www.stlawu.edu/well-being-resources) page, and through [SLU Thrives](https://www.stlawu.edu/slu-thrives).
+
 ### Respect for your classmates
 
 We are a community, and every one of us is a part of it.  Contributing to a healthy community is important, both because it affirms that each of us belongs and has a place here at St. Lawrence and in Philosophy courses, but also because we all learn better when we feel we can trust each other.  We can trust each other to listen and think carefully about what we say.  We can trust each other to value us as people, and to respect our dignity.  We can trust each other to challenge us, but to do so with humility, recognizing that we all get things wrong.
@@ -205,50 +213,50 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 **Unit One – Foundational Concepts in The Philosophy of Mind**
 
 |**Date**|**Topic**|**Reading**|**Assignments Due**|
-|W. 1.15|Minds and Computers	||	
-|M. 1.20|Dualism|Carter, Ch. 1-2||	
-|W. 1.22|Behaviorism|Carter, Ch. 3|Homework #1|
-|M. 1.27|Identity Theory|Carter, Ch. 5||	
-|W. 1.29|Functionalism|Carter, Ch. 6|Homework #2|
+|W. 1.14|Minds and Computers	||	
+|M. 1.19|Dualism|Carter, Ch. 1-2||	
+|W. 1.21|Behaviorism|Carter, Ch. 3|Homework #1|
+|M. 1.26|Identity Theory|Carter, Ch. 5||	
+|W. 1.28|Functionalism|Carter, Ch. 6|Homework #2|
 
 **Unit Two - Computability**
 
 |**Date**|**Topic**|**Reading**|**Assignments Due**|
-|M. 2.3|Formal Systems|Carter, Ch. 7||
-|W. 2.5|Computability|Carter, Ch. 8|Homework #3|
-|M. 2.10|Universal Machines	Carter, Ch. 9||	
+|M. 2.2|Formal Systems|Carter, Ch. 7||
+|W. 2.4|Computability|Carter, Ch. 8|Homework #3|
+|M. 2.9|Universal Machines	Carter, Ch. 9||	
 			
 **Unit Three – Computationalism and GOFAI**
 
 |**Date**|**Topic**|**Reading**|**Assignments Due**|
-|W. 2.12|Computationalism|	Carter, Ch, 10	||
-|M. 2.17|Computationalism, Continued|Fodor, “Methodological Solipsism…”||	
-|W. 2.19|Techniques	Carter, Ch. 11-12|Homework #4||
-|M. 2.24|Machine Reasoning and Language|Carter, Ch. 13-14||
-|W. 2.26|Human Reasoning and Language|Carter, Ch. 15-16|Homework #5|
-|M. 3.3|Meaning and Representation|Carter, Ch. 17-18||	
+|W. 2.11|Computationalism|	Carter, Ch, 10	||
+|M. 2.16|Computationalism, Continued|Dennett, _Intuition Pumps_, selection||	
+|W. 2.18|Techniques	Carter, Ch. 11-12|Homework #4||
+|M. 2.23|Machine Reasoning and Language|Carter, Ch. 13-14||
+|W. 2.25|Human Reasoning and Language|Carter, Ch. 15-16|Homework #5|
+|M. 3.2|Meaning and Representation|Carter, Ch. 17-18||	
 
 **Unit Four – Deep Learning and LLMs**
 
 |**Date**|**Topic**|**Reading**|**Assignments Due**|
-|W. 3.5|Neural Networks|Carter, Ch. 19|Homework #6, Research Bank Due|
-|M. 3.10|ChatGPT|Lee and Trott, “A Jargon-free…”||	
-|W. 3.12|LLMs and Understanding|Titus, “Does ChatGPT have semantic understanding?”|Homework #7|
-
-_Spring Break – No Class on 3/17 or 3/19_
+|W. 3.4|Neural Networks|Carter, Ch. 19|Homework #6, Research Bank Due|
+|M. 3.9|ChatGPT|Lee and Trott, “A Jargon-free…”||	
+|W. 3.11|LLMs and Understanding|Titus, “Does ChatGPT have semantic understanding?”|Homework #7|
 
 **Unit Five – The Ethics of AI**
 
 |**Date**|**Topic**|**Reading**|**Assignments Due**|
-|M. 3.24|Can AI be conscious?|Chalmers, “Could a Large Language Model be Conscious?”||	
-|W. 3.26|Can AI be creative?|Brainard, “The Curious Case of Uncurious Creation”|Argument Outline Due|
-|M. 3.31|Ethical AI Decision-Making|Geisslinger, et al. “Autonomous Driving Ethics”||	
-|W. 4.2|AI and Moral Responsibility|Goetze, “Mind the Gap”|Peer Review of Outlines Due|
-|M. 4.7|Deepfakes and Misinformation|Rini, “Deepfakes and the Epistemic Backstop”||	
-|W. 4.9|Algorithmic Bias|Fazelpour and Danks, “Algorithmic Bias”||	
-|M. 4.14|Epistemic Injustice and AI|Kay, et al. “Epistemic Injustice in Generative AI”||	
-|W. 4.16|Group Presentation||Research Paper Draft|
-|M. 4.21|Group Presentation|||	
-|W. 4.22|Group Presentation|||		
-|M. 4.28|Group Presentation|||		
-|W. 4.30|Wrapping Up|||		
+|M. 3.16|Workshop: When should we ascribe moral and legal rights to AI systems?|||	
+|W. 3.18|AI Rights|Schwitzgebel, "The Full Rights Dilemma for AI Systems of Debatable Moral Personhood"||	
+|M. 3.23|_Spring Break - No Class_|||
+|W. 3.25|_Spring Break - No Class_|||
+|M. 3.30|Workshop: Can AI be Creative?|||	
+|W. 4.1|AI and Creation|Brainard, “The Curious Case of Uncurious Creation”|Argument Outline Due|
+|M. 4.6|Workshop: How should AI systems make ethical decisions?|||	
+|W. 4.8|Ethical AI Decision-Making|Geisslinger, et al. “Autonomous Driving Ethics”||
+|M. 4.13|Workshop: Is AI a danger to democracy and the search for knowledge?|||
+|W. 4.15|Deepfakes and Misinformation|Rini, “Deepfakes and the Epistemic Backstop”||
+|M. 4.20|Workshop: What risks does AI pose to a just society?|||	
+|W. 4.22|Algorithmic Bias|Fazelpour and Danks, “Algorithmic Bias”||			
+|M. 4.27|Workshop: Can we morally use generative AI given its environmental impact?|||		
+|W. 4.29|Wrapping Up|||		
