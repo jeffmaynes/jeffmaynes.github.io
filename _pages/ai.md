@@ -178,16 +178,26 @@ Given the theme of this class, we will spend a lot of time talking about the rea
 
 ### Accessibility
 
-If you have a learning difference/disability or other health impairment and need accommodations please be sure to contact the Student Accessibility Services Office right away so they can help you get the accommodations you require. If you need to use any accommodations in this class, please meet with your instructor early and provide them with your Individualized Educational Accommodation Plan (IEAP) letter so you can have the best possible experience this semester.
+It is the policy and practice of St. Lawrence University to create inclusive and accessible learning environments consistent with federal and state law.  If you have established permanent accommodations with the Student Accessibility Services (SAS) Office in the past and want to use them in your current courses, please activate your accommodations so you can discuss with your professors how they will be implemented. 
+ 
+If you do not yet have services through the SAS Office but have a disability or temporary health condition that requires accommodations, please contact them directly to start the process of requesting accommodations and to receive guidance with the next steps.  
+ 
+Contact information for Student Accessibility Services: 
+Telephone: 315.229.5537
+Email: studentaccessibility@stlawu.edu   
+Website:  https://www.stlawu.edu/offices/student-accessibility-services
 
-Although not required, your instructor would like to know of any accommodations that are needed at least 10 days before a quiz or test. Please be proactive and set up an appointment to meet with someone from the Student Accessibility Services Office.
+### Title IX Statement
 
-Color-Vision Deficiency:  If you are Color-Vision Deficient, the Student Accessibility Services office has on loan glasses for students who are color vision deficient.  Please contact the office to make an appointment.
+MEMBERS OF THE ST. LAWRENCE COMMUNITY—students, employees, and guests— should expect to be free from retaliation, discrimination, harassment, and sexual misconduct, behavior that is inherently abusive of the humanity that each of us brings to the campus community. St. Lawrence University and its faculty are committed to supporting our students and seeking an environment that is free of discrimination, harassment, and sexual misconduct.  St. Lawrence strongly encourages students to report retaliation, discrimination, harassment, including sexual harassment, sexual exploitation, domestic violence, dating violence, stalking, or sexual assault to St. Lawrence University’s Title IX office. Discrimination on the basis of sex includes discrimination on the basis of assigned sex at birth, sex characteristics, pregnancy and pregnancy related conditions, sexual orientation, and gender identity. 
+ 
+If you speak with a faculty member about an incident that involves a Title IX matter or matter of other discrimination or harassment, that faculty member must notify SLU’s Title IX Coordinator that you shared that experience. This is true even if you ask the faculty member not to disclose the incident. Moreover, if you disclose an incident of retaliation, discrimination, harassment, or sexual misconduct in an academic assignment, the faculty member must also report that experience to the Title IX Coordinator.
+ 
+Once a report is made, the reporting individual can expect to receive email outreach from the Title IX Coordinator, who will provide resources and possible resolution options. If the impacted person is not a threat to themselves or others, the impacted person will be free not to respond to the offer to meet. You can find more information for resources and reporting options at: https://www.stlawu.edu/offices/title-ix/reporting-options-confidential-and-nonconfidential-resources.
+ 
+Title IX also protects students who are pregnant or need assistance for pregnancy related conditions. If you are pregnant, the Title IX Coordinator can assist you in understanding your rights and options as well as provide supportive measures. 
+Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (Student Center Room 302; lcohen@stlawu.edu; 315-229-5334).
 
-For more specific information about setting up an appointment with Student Accessibility Services please see the listed options below:
-Telephone: 315.229.5537    Email:  [studentaccessibility@stlawu.edu](mailto:studentaccessibility@stlawu.edu)
-For further information about Student Accessibility Services you can check the website at:
-[https://www.stlawu.edu/student-accessibility-services](https://www.stlawu.edu/student-accessibility-services)  
 
 ## Calendar
 
