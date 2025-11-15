@@ -5,7 +5,7 @@ author_profile: true
 toc: true
 ---
 
-## Course Information
+# Course Information
 
 **Instructor**
 
@@ -67,7 +67,7 @@ Because these quizzes are designed to help you prepare for, and better understan
 
 ### Oral Exams
 
-At three points in the semester, I will ask you to schedule a meeting with me to discuss the views of one of the philosophers we have focused on.  I'll ask you to begin the conversation by doing two things:
+At three points in the semester, I will ask you to schedule a meeting with me to discuss the views of one of the philosophers we have focused on.  I'll ask you to begin the conversation by doing two things (in about 5 minutes):
 1. You should **summarize** the core themes of that thinker's philosophical project.  What are they trying to do?  What are their main positions?
 2. You should **critically engage** that thinker's project in one of the ways below.
 
