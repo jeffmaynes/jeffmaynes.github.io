@@ -1,6 +1,6 @@
 ---
-permalink: /ai/
-title: "Philosophy of Artificial Intelligence"
+permalink: /modern/
+title: "Modern Philosophy"
 author_profile: true
 toc: true
 ---
@@ -20,6 +20,7 @@ toc: true
 
 ## Course Description
 
+In the 16th-18th centuries, a scientific revolution shattered medieval certainties and philosophers worked to rebuild human knowledge from the ground up. While Descartes tried to find firm foundations for knowledge, scientists and mathematicians like Galileo and Newton revolutionized scientific methods. Meanwhile, thinkers like Locke, Hume, and Kant wrestled with mind-bending questions: How do we know anything at all? What is the relationship between our minds and the external world? Can reason alone deliver truth, or must we rely on experience? This course will examine the ideas and thinkers that laid the foundations for our world, with a special focus on learning how to understand the worldviews of others through deep engagement with their texts and ideas.
 
 ## Course Goals
 
@@ -152,7 +153,7 @@ Telephone: 315.229.5537
 Email: studentaccessibility@stlawu.edu   
 Website:  https://www.stlawu.edu/offices/student-accessibility-services
 
-## Title IX Statement
+### Title IX Statement
 
 MEMBERS OF THE ST. LAWRENCE COMMUNITY—students, employees, and guests— should expect to be free from retaliation, discrimination, harassment, and sexual misconduct, behavior that is inherently abusive of the humanity that each of us brings to the campus community. St. Lawrence University and its faculty are committed to supporting our students and seeking an environment that is free of discrimination, harassment, and sexual misconduct.  St. Lawrence strongly encourages students to report retaliation, discrimination, harassment, including sexual harassment, sexual exploitation, domestic violence, dating violence, stalking, or sexual assault to St. Lawrence University’s Title IX office. Discrimination on the basis of sex includes discrimination on the basis of assigned sex at birth, sex characteristics, pregnancy and pregnancy related conditions, sexual orientation, and gender identity. 
  
