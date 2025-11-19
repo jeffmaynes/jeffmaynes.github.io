@@ -176,53 +176,48 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 ## Calendar
 
 
-**Unit One – Foundational Concepts in The Philosophy of Mind**
+**Unit One – Rationalist Foundations**
 
-|**Date**|**Topic**|**Reading**|**Assignments Due**|
-|Th. 1.15|Minds and Computers	||	
-|Tu. 1.20|Dualism|Carter, Ch. 1-2||	
-|Th. 1.22|Behaviorism|Carter, Ch. 3|Homework #1|
-|Tu. 1.27|Identity Theory|Carter, Ch. 5||	
-|Th. 1.29|Functionalism|Carter, Ch. 6|Homework #2|
+|**Date**|**Reading**|**Assignments Due**|
+|Th. 1.15|Introduction - No Reading Due||	
+|Tu. 1.20|Descartes, _Meditations on First Philosophy_, Meditations 1 and 2 (pgs. (40-47)||	
+|Th. 1.22|Descartes, _Meditations on First Philosophy_, Meditation 3 (pgs. (47-54)|Homework #1|
+|Tu. 1.27|Descartes, _Meditations on First Philosophy_, Meditations 4 and 5 (pgs. (54-61)|	
+|Th. 1.29|Descartes, _Meditations on First Philosophy_, Meditation 6 (pgs. (61-68)|Homework #2|
+|Tu. 2.3|Princess Elisabeth and Descartes, _Correspondence_ (pgs. (93-99)||
+|Th. 2.5|Descartes and Hobbes, _Objections and Replies_ Third Set of Replies (pgs. 76-79|Homework #3|
 
-**Unit Two - Computability**
 
-|**Date**|**Topic**|**Reading**|**Assignments Due**|
-|Tu. 2.3|Formal Systems|Carter, Ch. 7||
-|Th. 2.5|Computability|Carter, Ch. 8|Homework #3|
-|Tu. 2.10|Universal Machines|Carter, Ch. 9||	
-			
-**Unit Three – Computationalism and GOFAI**
-
-|**Date**|**Topic**|**Reading**|**Assignments Due**|
-|Th. 2.12|Computationalism|	Carter, Ch, 10	||
-|Tu. 2.17|Computationalism, Continued|Fodor, “Methodological Solipsism…”||	
+|Tu. 2.10|Spinoza, _The Ethics_, to Proposition 16 (pgs. 172-179)||	
+|Th. 2.12|Conway, _The Principles of the Most Ancient and Modern Philosophy_, Ch. 8 (pgs. 154-159)|
+|Tu. 2.17|Conway, _The Principles of the Most Ancient and Modern Philosophy_, Ch. 8 (pgs. 154-159)|	
 |Th. 2.19|_No Class - Winter Break_|||
-|Tu. 2.24|Machine Reasoning and Language|Carter, Ch. 13-14||
-|Th. 2.26|Human Reasoning and Language|Carter, Ch. 15-16|Homework #5|
-|Tu. 3.3|Meaning and Representation|Carter, Ch. 17-18||	
-
-**Unit Four – Deep Learning and LLMs**
-
-|**Date**|**Topic**|**Reading**|**Assignments Due**|
-|Th. 3.5|Neural Networks|Carter, Ch. 19|Homework #6, Research Bank Due|
-|Tu. 3.10|ChatGPT|Lee and Trott, “A Jargon-free…”||	
-|Th. 3.12|LLMs and Understanding|Titus, “Does ChatGPT have semantic understanding?”|Homework #7|
-
-_Spring Break – No Class on 3/24 or 3/26_
-
-**Unit Five – The Ethics of AI**
+|Tu. 2.24|Leibniz, _Monadology_, to paragraphs 1-48 (pgs. 303-307)||
+|Th. 2.26|Leibniz, _Monadology_, to paragraphs 48-end (pgs. 307-311)|Homework #5|
+			
+**Unit Two – The Empiricists**
 
 |**Date**|**Topic**|**Reading**|**Assignments Due**|
-|Tu. 3.17|Can AI be conscious?|Chalmers, “Could a Large Language Model be Conscious?”||	
-|Th. 3.19|Can AI be creative?|Brainard, “The Curious Case of Uncurious Creation”|Argument Outline Due|
-|Tu. 3.31|Ethical AI Decision-Making|Geisslinger, et al. “Autonomous Driving Ethics”||	
-|Th. 4.2|AI and Moral Responsibility|Goetze, “Mind the Gap”|Peer Review of Outlines Due|
-|Tu. 4.7|Deepfakes and Misinformation|Rini, “Deepfakes and the Epistemic Backstop”||	
-|Th. 4.9|Algorithmic Bias|Fazelpour and Danks, “Algorithmic Bias”||	
-|Tu. 4.14|Epistemic Injustice and AI|Kay, et al. “Epistemic Injustice in Generative AI”||	
-|Th. 4.16|Group Presentation||Research Paper Draft|
-|Tu. 4.21|Group Presentation|||	
-|Th. 4.22|Group Presentation|||		
-|Tu. 4.28|Group Presentation|||		
+|Tu. 3.3|Locke, _Essay Concerning Human Understanding_, Bk. I, Ch. 1-2 (pgs. 346-352)||	
+|Th. 3.5|Locke, _Essay Concerning Human Understanding_, Bk. II, Ch. 1-3, Ch. 7 /(to par. 14) (pgs. 352-359, 362-364)|Homework #6, Research Bank Due|
+|Tu. 3.10|Locke, _Essay Concerning Human Understanding_, Bk. II, Ch. 10-12, 22 (pgs. 369-372, 387-389)||	
+|Th. 3.12|Locke, _Essay Concerning Human Understanding_, Bk. IV, Ch. 1-2 (pgs. 416-422)|Homework #7|
+|Tu. 3.17|Berkeley, _Principles of Human Knowledge_, Part I (pgs 487-493)||	
+|Th. 3.19|Lady Shepherd, _Essays on the Perception of an External Universe_ (pgs. 549-553)|Argument Outline Due|
+|M. 3.23|_Spring Break - No Class_||
+|W. 3.25|_Spring Break - No Class_||
+
+**Unit Three – Hume and Kant**
+
+|**Date**|**Topic**|**Reading**|**Assignments Due**|
+
+|Tu. 3.31|Hume, _Enquiry Concerning Human Understanding_, Sections 1-3 (pgs. 579-588)||	
+|Th. 4.2|Hume, _Enquiry Concerning Human Understanding_, Sections 4-5 (pgs. 588-601)|Peer Review of Outlines Due|
+|Tu. 4.7|Hume, _Enquiry Concerning Human Understanding_, Sections 6-7 (pgs. 601-610)||	
+|Th. 4.9|Hume, _Enquiry Concerning Human Understanding_, Section 8 (pgs. 610-621)||	
+|Tu. 4.14|Kant, _Prolegomena to Any Future Metaphysics_, Preface and Preamble (pgs. 719-730)||	
+|Th. 4.16|Kant, _Prolegomena to Any Future Metaphysics_, Part II to Par. 24 (pgs. 737-743)|Research Paper Draft|
+|Tu. 4.21|Kant, _Prolegomena to Any Future Metaphysics_, Part II to Par. 39 (pgs. 743-750)||	
+|Th. 4.22|Kant, _Prolegomena to Any Future Metaphysics_, Part III, Par. 40 to Par. 55 (pgs. 753-763)||		
+|Tu. 4.28|Kant, _Prolegomena to Any Future Metaphysics_, Part III, Par. 55 to Scholium (pgs. 763-771)||		
 |Th. 4.30|Wrapping Up|||		
