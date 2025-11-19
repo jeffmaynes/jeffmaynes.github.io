@@ -117,7 +117,7 @@ I've written several guides to reading, researching, and writing Philosophy pape
 
 ## Course Policies
 
-### Well-Being Policy
+**Well-Being Policy**
 
 Here are two reasons I care about your well-being.  First, a student who feels safe, welcome, and healthy, is a more successful student.  If you are well, you'll learn more.  Second, and more importantly, your college experience, including this class, should contribute to a well-lived life.  The information we cover, and the skills we practice, are in service to that well-lived life.
 
@@ -125,7 +125,7 @@ In practice, this means that if you are struggling in any way - academically, pe
 
 St. Lawrence also has a host of resources available to you with your intellectual, physical, and emotional wellness.  You can find a handy guide to all of these resoruces on the [Well-Being Resources](https://www.stlawu.edu/well-being-resources) page, and through [SLU Thrives](https://www.stlawu.edu/slu-thrives).
 
-### Respect for your classmates
+**Respect for your classmates**
 
 We are a community, and every one of us is a part of it.  Contributing to a healthy community is important, both because it affirms that each of us belongs and has a place here at St. Lawrence and in Philosophy courses, but also because we all learn better when we feel we can trust each other.  We can trust each other to listen and think carefully about what we say.  We can trust each other to value us as people, and to respect our dignity.  We can trust each other to challenge us, but to do so with humility, recognizing that we all get things wrong.
 
@@ -135,7 +135,7 @@ As part of upholding this community, I expect that you will:
 * Show respect for your classmates, and avoid making disrespectful comments about their contributions, or showing clearly disrespectful body language in response to them.
 * Be welcoming of your classmates ideas and contributions, and avoid making aggressive comments targeting your classmates or any group of people.
 
-### Late Assignment Policy
+**Late Assignment Policy**
 
 Here's how I think about due dates: they are there for you.  What does that mean?  Well, one thing due dates help you do is structure your work, so that you are not hit with too many obligations at the same time.  Another is that they help you learn how to work under a deadline, an experience you will have throughout your time at SLU and in your working life.  Due dates also help make sure you are prepared for class.  My policies on due dates are based on these goals.
 
@@ -143,8 +143,7 @@ Daily quizzes cannot be made up or submitted late, because their purpose is to h
 
 For the paper, you may need flexiblity.  It's a big project and conflicts with other responsibilities may get in the way.  Part of learning how to work under deadlines is planning ahead in a professionally responsible way to get more time.  I am willing to grant extensions if you plan ahead and ask for one (at least 24 hours before the paper is due), but will refuse to grant an extension if you regularly ask for one (asking for more time in a professionally responsible way is perfectly reasonable, but developing a habit of needing it is not).  When you ask for an extension, please specify how much extra time you will need.  Please note that I will be less flexible with extra time on the argument paper, because your classmate writing a reply to you will need time to do that work.
 
-
-### Academic Honesty and AI Use
+**Academic Honesty and AI Use**
 
 A major commitment of the University is “to the intellectual development of the student” (St. Lawrence University Aims and Objectives) which can be achieved only by strict adherence to standards of honesty.  At St. Lawrence, all members of the community have a responsibility to see that these standards are maintained. Consequently, St. Lawrence University students will not engage in acts of academic dishonesty as described in the Academic Honor Code, contained in the Student Handbook.
 
@@ -152,7 +151,7 @@ As part of this policy, you may not use Generative AI tools (like ChatGPT or Goo
 
 You may not use Generative AI to write text, summarize ideas, generate or brainstorm your own thesis or arguments, or outline your paper.  The reason for this policy is that these are all foundational skills this class is designed to help you improve.  Using AI effectively to do these tasks requires that you are able to do them as well, otherwise you will be unprepared to evaluate what the AI generates.  You may or may not engage with AI in your writing processes outside of this class and outside of your time at St. Lawrence.  This course will help you build the foundational skills to use these tools critically, and to evaluate how others use them.
 
-### Accessibility
+**Accessibility**
 
 It is the policy and practice of St. Lawrence University to create inclusive and accessible learning environments consistent with federal and state law.  If you have established permanent accommodations with the Student Accessibility Services (SAS) Office in the past and want to use them in your current courses, please activate your accommodations so you can discuss with your professors how they will be implemented. 
  
@@ -163,7 +162,7 @@ Telephone: 315.229.5537
 Email: studentaccessibility@stlawu.edu   
 Website:  https://www.stlawu.edu/offices/student-accessibility-services
 
-### Title IX Statement
+**Title IX Statement**
 
 MEMBERS OF THE ST. LAWRENCE COMMUNITY—students, employees, and guests— should expect to be free from retaliation, discrimination, harassment, and sexual misconduct, behavior that is inherently abusive of the humanity that each of us brings to the campus community. St. Lawrence University and its faculty are committed to supporting our students and seeking an environment that is free of discrimination, harassment, and sexual misconduct.  St. Lawrence strongly encourages students to report retaliation, discrimination, harassment, including sexual harassment, sexual exploitation, domestic violence, dating violence, stalking, or sexual assault to St. Lawrence University’s Title IX office. Discrimination on the basis of sex includes discrimination on the basis of assigned sex at birth, sex characteristics, pregnancy and pregnancy related conditions, sexual orientation, and gender identity. 
  
@@ -202,7 +201,7 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 
 |**Date**|**Reading**|**Assignments Due**|
 |Tu. 3.3|Locke, _Essay Concerning Human Understanding_, Bk. I, Ch. 1-2 (pgs. 346-352)|Oral Exam #2 This Week|	
-|Th. 3.5|Locke, _Essay Concerning Human Understanding_, Bk. II, Ch. 1-3, Ch. 7 /(to par. 14) (pgs. 352-359, 362-364)||
+|Th. 3.5|Locke, _Essay Concerning Human Understanding_, Bk. II, Ch. 1-3, Ch. 7 (to paragraph 14) (pgs. 352-359, 362-364)||
 |Tu. 3.10|Locke, _Essay Concerning Human Understanding_, Bk. II, Ch. 10-12, 22 (pgs. 369-372, 387-389)||	
 |Th. 3.12|Locke, _Essay Concerning Human Understanding_, Bk. IV, Ch. 1-2 (pgs. 416-422)|Project Proposal|
 |Tu. 3.17|Berkeley, _Principles of Human Knowledge_, Part I (pgs 487-493)|Oral Exam #3 This Week (or after break)|	
@@ -218,8 +217,8 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 |Tu. 4.7|Hume, _Enquiry Concerning Human Understanding_, Sections 6-7 (pgs. 601-610)||	
 |Th. 4.9|Hume, _Enquiry Concerning Human Understanding_, Section 8 (pgs. 610-621)|Argument Paper|	
 |Tu. 4.14|Kant, _Prolegomena to Any Future Metaphysics_, Preface and Preamble (pgs. 719-730)||	
-|Th. 4.16|Kant, _Prolegomena to Any Future Metaphysics_, Part II to Par. 24 (pgs. 737-743)||
-|Tu. 4.21|Kant, _Prolegomena to Any Future Metaphysics_, Part II to Par. 39 (pgs. 743-750)|Reply Paper|	
-|Th. 4.22|Kant, _Prolegomena to Any Future Metaphysics_, Part III, Par. 40 to Par. 55 (pgs. 753-763)||		
-|Tu. 4.28|Kant, _Prolegomena to Any Future Metaphysics_, Part III, Par. 55 to Scholium (pgs. 763-771)||		
-|Th. 4.30|Wrapping Up|||		
+|Th. 4.16|Kant, _Prolegomena to Any Future Metaphysics_, Part II to §24 (pgs. 737-743)||
+|Tu. 4.21|Kant, _Prolegomena to Any Future Metaphysics_, Part II to §39 (pgs. 743-750)|Reply Paper|	
+|Th. 4.22|Kant, _Prolegomena to Any Future Metaphysics_, Part III, §40 to §55 (pgs. 753-763)||		
+|Tu. 4.28|Kant, _Prolegomena to Any Future Metaphysics_, Part III, §55 to Scholium (pgs. 763-771)||		
+|Th. 4.30|Wrapping Up||		
