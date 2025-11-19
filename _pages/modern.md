@@ -83,13 +83,15 @@ _Rubric_
 
 ### Paper Project
 
-In this paper, you will enter into the philosophical discussion begun and carried through the Modern period.  The central aims of the assignment are for you to practice philosophical argumentation, clear writing, and the practice of dialogue through your writing.  To engage in that dialogue, we (and I am part of it too!) will write this paper in three parts:
+In this paper, you will enter into the philosophical discussion begun and carried through the Modern period.  The central aims of the assignment are for you to practice philosophical argumentation, clear writing, and the practice of dialogue through your writing.  To engage in that dialogue, we (and I am part of it too!) will write this paper in four parts:
 
-1. _Argument Paper_ – the first step is a traditional argumentative paper.  In this paper, you will take up a question asked by one of the philosophers we read this semester, and argue for a position on that question.  To do so, you should (a) motivate the question - explain _why_ the question comes up and why it matters, (b) explain the view of at least one Modern philosopher on that question, (c) make a claim about your own position on that question and supported it with argument(s), and (d) defend your position against at least one objection arising from the literature.  The paper should be 6-7 pages long, and it should be engaged with at least one Modern philosophical text from those we read this semester.
+1. _Project Proposal_ - the first step is to provide me with a short 1-2 page summary of (a) what philosophical question you want to write about, (b) what texts you want to use to help you answer it, and (c) why you picked those sources.  You do not need to have your arguments worked out at this point.  Instead, the purpose of this assignment is to help you start thinking about the project early, and for me to help you avoid any potential dead-ends or pitfalls.
 
-2. _Reply_ - the reply should be a philosophical reply, rather than a peer review.  This means that you should be focused on the ideas expressed, rather than writing concerns (such as organization, spelling, or syntax).   I recommend considering it as a public letter.  That is, you can write it directly to the author of the paper, but in a style that presumes it will be widely read.  For example, you might ask the author to clarify unclear notions, or to suggest alternative arguments or explanations.  You might also offer objections, counter-arguments, and problematic cases.  Consider yourself a philosopher engaged in dialogue with another philosopher.  This paper should be approximately 2-3 pages long.
+2. _Argument Paper_ – the next step is a traditional argumentative paper.  In this paper, you will take up a question asked by one of the philosophers we read this semester, and argue for a position on that question.  To do so, you should (a) motivate the question - explain _why_ the question comes up and why it matters, (b) explain the view of at least one Modern philosopher on that question, (c) make a claim about your own position on that question and supported it with argument(s), and (d) defend your position against at least one objection arising from the literature.  The paper should be 6-7 pages long, and it should be engaged with at least one Modern philosophical text from those we read this semester.
 
-3. _Follow-up_ - the follow-up is then your chance to reply to the questions and challenges raised by both my reply, and the reply of your classmate.  You might do so by answering our questions, refuting our objections, or changing your arguments in light of them.  That is, it is perfectly fine to recognize that an objection is a good one, and you could use your follow-up to address how you might change your view in response to it.  The follow-up does not need to address every issue raised in the replies (you can choose the important ones), but be careful not to simply avoid a question or challenge because it is difficult to answer.  Your follow-up should be 3-4 pages long.
+3. _Reply_ - the reply should be a philosophical reply, rather than a peer review.  This means that you should be focused on the ideas expressed, rather than writing concerns (such as organization, spelling, or syntax).   I recommend considering it as a public letter.  That is, you can write it directly to the author of the paper, but in a style that presumes it will be widely read.  For example, you might ask the author to clarify unclear notions, or to suggest alternative arguments or explanations.  You might also offer objections, counter-arguments, and problematic cases.  Consider yourself a philosopher engaged in dialogue with another philosopher.  This paper should be approximately 2-3 pages long.
+
+4. _Follow-up_ - the follow-up is then your chance to reply to the questions and challenges raised by both my reply, and the reply of your classmate.  You might do so by answering our questions, refuting our objections, or changing your arguments in light of them.  That is, it is perfectly fine to recognize that an objection is a good one, and you could use your follow-up to address how you might change your view in response to it.  The follow-up does not need to address every issue raised in the replies (you can choose the important ones), but be careful not to simply avoid a question or challenge because it is difficult to answer.  Your follow-up should be 3-4 pages long.
 
 The whole project is worth 35% of your grade, with 5% being earned by submitting the Argument Paper and the Reply paper on time with appropriate effort, and the remaining 30% is a grade earned for the entire project upon final submission.  It is the whole project, rather than each individual part, that receives a grade because the most important part of this project is that engage in continuous thinking, reflection, and engagement with your ideas - whether that means changing them, refining them, or defending them.
 
@@ -181,43 +183,43 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 |**Date**|**Reading**|**Assignments Due**|
 |Th. 1.15|Introduction - No Reading Due||	
 |Tu. 1.20|Descartes, _Meditations on First Philosophy_, Meditations 1 and 2 (pgs. (40-47)||	
-|Th. 1.22|Descartes, _Meditations on First Philosophy_, Meditation 3 (pgs. (47-54)|Homework #1|
-|Tu. 1.27|Descartes, _Meditations on First Philosophy_, Meditations 4 and 5 (pgs. (54-61)|	
-|Th. 1.29|Descartes, _Meditations on First Philosophy_, Meditation 6 (pgs. (61-68)|Homework #2|
+|Th. 1.22|Descartes, _Meditations on First Philosophy_, Meditation 3 (pgs. (47-54)||
+|Tu. 1.27|Descartes, _Meditations on First Philosophy_, Meditations 4 and 5 (pgs. (54-61)||	
+|Th. 1.29|Descartes, _Meditations on First Philosophy_, Meditation 6 (pgs. (61-68||
 |Tu. 2.3|Princess Elisabeth and Descartes, _Correspondence_ (pgs. (93-99)||
-|Th. 2.5|Descartes and Hobbes, _Objections and Replies_ Third Set of Replies (pgs. 76-79|Homework #3|
+|Th. 2.5|Descartes and Hobbes, _Objections and Replies_ Third Set of Replies (pgs. 76-79||
 
+**Unit Two – Rationalist Debates**
 
-|Tu. 2.10|Spinoza, _The Ethics_, to Proposition 16 (pgs. 172-179)||	
-|Th. 2.12|Conway, _The Principles of the Most Ancient and Modern Philosophy_, Ch. 8 (pgs. 154-159)|
-|Tu. 2.17|Conway, _The Principles of the Most Ancient and Modern Philosophy_, Ch. 8 (pgs. 154-159)|	
-|Th. 2.19|_No Class - Winter Break_|||
+|Tu. 2.10|Spinoza, _The Ethics_, to Proposition 16 (pgs. 172-179)|Oral Exam #1 This Week|
+|Th. 2.12|Conway, _The Principles of the Most Ancient and Modern Philosophy_, Ch. 8 (pgs. 154-159)||
+|Tu. 2.17|Conway, _The Principles of the Most Ancient and Modern Philosophy_, Ch. 8 (pgs. 154-159)||
+|Th. 2.19|_No Class - Winter Break_||
 |Tu. 2.24|Leibniz, _Monadology_, to paragraphs 1-48 (pgs. 303-307)||
-|Th. 2.26|Leibniz, _Monadology_, to paragraphs 48-end (pgs. 307-311)|Homework #5|
+|Th. 2.26|Leibniz, _Monadology_, to paragraphs 48-end (pgs. 307-311)||
 			
-**Unit Two – The Empiricists**
+**Unit Three – The Empiricists**
 
-|**Date**|**Topic**|**Reading**|**Assignments Due**|
-|Tu. 3.3|Locke, _Essay Concerning Human Understanding_, Bk. I, Ch. 1-2 (pgs. 346-352)||	
-|Th. 3.5|Locke, _Essay Concerning Human Understanding_, Bk. II, Ch. 1-3, Ch. 7 /(to par. 14) (pgs. 352-359, 362-364)|Homework #6, Research Bank Due|
+|**Date**|**Reading**|**Assignments Due**|
+|Tu. 3.3|Locke, _Essay Concerning Human Understanding_, Bk. I, Ch. 1-2 (pgs. 346-352)|Oral Exam #2 This Week|	
+|Th. 3.5|Locke, _Essay Concerning Human Understanding_, Bk. II, Ch. 1-3, Ch. 7 /(to par. 14) (pgs. 352-359, 362-364)||
 |Tu. 3.10|Locke, _Essay Concerning Human Understanding_, Bk. II, Ch. 10-12, 22 (pgs. 369-372, 387-389)||	
-|Th. 3.12|Locke, _Essay Concerning Human Understanding_, Bk. IV, Ch. 1-2 (pgs. 416-422)|Homework #7|
-|Tu. 3.17|Berkeley, _Principles of Human Knowledge_, Part I (pgs 487-493)||	
-|Th. 3.19|Lady Shepherd, _Essays on the Perception of an External Universe_ (pgs. 549-553)|Argument Outline Due|
+|Th. 3.12|Locke, _Essay Concerning Human Understanding_, Bk. IV, Ch. 1-2 (pgs. 416-422)|Project Proposal|
+|Tu. 3.17|Berkeley, _Principles of Human Knowledge_, Part I (pgs 487-493)|Oral Exam #3 This Week (or after break)|	
+|Th. 3.19|Lady Shepherd, _Essays on the Perception of an External Universe_ (pgs. 549-553)||
 |M. 3.23|_Spring Break - No Class_||
 |W. 3.25|_Spring Break - No Class_||
 
-**Unit Three – Hume and Kant**
+**Unit Four – Hume and Kant**
 
-|**Date**|**Topic**|**Reading**|**Assignments Due**|
-
+|**Date**|**Reading**|**Assignments Due**|
 |Tu. 3.31|Hume, _Enquiry Concerning Human Understanding_, Sections 1-3 (pgs. 579-588)||	
-|Th. 4.2|Hume, _Enquiry Concerning Human Understanding_, Sections 4-5 (pgs. 588-601)|Peer Review of Outlines Due|
+|Th. 4.2|Hume, _Enquiry Concerning Human Understanding_, Sections 4-5 (pgs. 588-601)||
 |Tu. 4.7|Hume, _Enquiry Concerning Human Understanding_, Sections 6-7 (pgs. 601-610)||	
-|Th. 4.9|Hume, _Enquiry Concerning Human Understanding_, Section 8 (pgs. 610-621)||	
+|Th. 4.9|Hume, _Enquiry Concerning Human Understanding_, Section 8 (pgs. 610-621)|Argument Paper|	
 |Tu. 4.14|Kant, _Prolegomena to Any Future Metaphysics_, Preface and Preamble (pgs. 719-730)||	
-|Th. 4.16|Kant, _Prolegomena to Any Future Metaphysics_, Part II to Par. 24 (pgs. 737-743)|Research Paper Draft|
-|Tu. 4.21|Kant, _Prolegomena to Any Future Metaphysics_, Part II to Par. 39 (pgs. 743-750)||	
+|Th. 4.16|Kant, _Prolegomena to Any Future Metaphysics_, Part II to Par. 24 (pgs. 737-743)||
+|Tu. 4.21|Kant, _Prolegomena to Any Future Metaphysics_, Part II to Par. 39 (pgs. 743-750)|Reply Paper|	
 |Th. 4.22|Kant, _Prolegomena to Any Future Metaphysics_, Part III, Par. 40 to Par. 55 (pgs. 753-763)||		
 |Tu. 4.28|Kant, _Prolegomena to Any Future Metaphysics_, Part III, Par. 55 to Scholium (pgs. 763-771)||		
 |Th. 4.30|Wrapping Up|||		
