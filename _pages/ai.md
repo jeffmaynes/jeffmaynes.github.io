@@ -138,9 +138,10 @@ _Rubric_
 
 ||**Exemplary (4.0)**|**Good (3.0)**|**Adequate (2.0)**|**Poor (1.0)**|
 |---|:---|:---|:---|:---|
-|**Understanding**|The group demonstrates an understanding of their material, and communicates it to the audience.|The group makes some significant mistakes, or does not communicate their understanding clearly.|The group often misunderstands their material, and does not communicate clearly.|The group is unprepared to explain their material, and makes regular, significant errors.|
-|**Speaking Skills**|The group speaks with good volume, enthusiasm, and eye contact.|The group, at times, shows a lack of enthusiasm, poor eye contact, or has low volume.|The group frequently shows a lack of enthusiasm, poor eye contact, or has low volume.|The group consistently is hard to understand, and does not engage the audience|
-|**Organization**|The presentation has a clear logical flow, so that the audience knows how it fits together.|The presentation has clear structure, but ideas are presented in a confusing order.|It is difficult to follow the logical flow of the presentation.|The presentation lacks structure and jumps from point to point.|
+|**Complexities**|The group is able to identify and help the class understand subtle moral complexities involved in answering the question.|The group identifies the major complexities involved, but does not dig deeper.|The group identifies a moral complexity, but largely does not show an understanding of the moral richness of their question.|The group attempts to identify moral complexities, but does so in a way that shows only superficial thinking or a misunderstanding of their question.|
+|**Background**|The group has relevant background information available, which they present clearly to the class, in appropriate contexts.|The group has relevant background information, but either presents it inappropriate times (e.g., dumping it all at the beginning) or does not explain it clearly to the class.|The group is prepared background information, but they do not use it effectively in class.|The group is not prepared to clearly and accurately share additional background information on their topic.|
+|**Argument Identification**|The group is able to help the class articulate at least two thoughtful and charitable arguments for possible positions on their question and present them in standard form.|The group helps the class articulate at least two arguments and present them in standard form, but at least one argument is uncharitably presented.|The group identifies the main themes for arguments, but is unable to help the class articulate it in standard form.|The group tries to lead the class in identifying arguments, but is unable to present charitable arguments in standard form.|
+|**Argument Analysis**|The group is able to lead a discussion of the arguments that is fair, thoughtful, and engaged with the particular details and complexities of the arguments.|The group leads a discussion of the main ideas that is consistently on topic, but does not help the class think through the crucial issues.|The group leads a discussion that misses key points and/or interprets the arguments in uncharitable ways.|The group leads a discussion that is misleading or irrelevant to the arguments under consideration.|
 |**Class Engagement**|The group uses questions and activities that help us to understand key ideas.|The group gets the class actively engaged, but the activities are not connected to the broader themes.|The group attempts to get the class actively engaged, but is unclear in instructions and purpose.|The group does not attempt to engage the audience.|
 
 
@@ -153,7 +154,7 @@ I've written several guides to reading, researching, and writing Philosophy pape
 
 ## Course Policies
 
-### Well-Being Policy
+**Well-Being Policy**
 
 Here are two reasons I care about your well-being.  First, a student who feels safe, welcome, and healthy, is a more successful student.  If you are well, you'll learn more.  Second, and more importantly, your college experience, including this class, should contribute to a well-lived life.  The information we cover, and the skills we practice, are in service to that well-lived life.
 
@@ -161,7 +162,7 @@ In practice, this means that if you are struggling in any way - academically, pe
 
 St. Lawrence also has a host of resources available to you with your intellectual, physical, and emotional wellness.  You can find a handy guide to all of these resoruces on the [Well-Being Resources](https://www.stlawu.edu/well-being-resources) page, and through [SLU Thrives](https://www.stlawu.edu/slu-thrives).
 
-### Respect for your classmates
+**Respect for your classmates**
 
 We are a community, and every one of us is a part of it.  Contributing to a healthy community is important, both because it affirms that each of us belongs and has a place here at St. Lawrence and in Philosophy courses, but also because we all learn better when we feel we can trust each other.  We can trust each other to listen and think carefully about what we say.  We can trust each other to value us as people, and to respect our dignity.  We can trust each other to challenge us, but to do so with humility, recognizing that we all get things wrong.
 
@@ -171,7 +172,7 @@ As part of upholding this community, I expect that you will:
 * Show respect for your classmates, and avoid making disrespectful comments about their contributions, or showing clearly disrespectful body language in response to them.
 * Be welcoming of your classmates ideas and contributions, and avoid making aggressive comments targeting your classmates or any group of people.
 
-### Late Assignment Policy
+**Late Assignment Policy**
 
 Here's how I think about due dates: they are there for you.  What does that mean?  Well, one thing due dates help you do is structure your work, so that you are not hit with too many obligations at the same time.  Another is that they help you learn how to work under a deadline, an experience you will have throughout your time at SLU and in your working life.  Due dates also help make sure you are prepared for class.  My policies on due dates are based on these goals.
 
@@ -180,7 +181,7 @@ Homework assignments are designed to prepare you for class, and so the first sub
 For the paper, you may need flexiblity.  It's a big project and conflicts with other responsibilities may get in the way.  Part of learning how to work under deadlines is planning ahead in a professionally responsible way to get more time.  I am willing to grant extensions if you plan ahead and ask for one (at least 24 hours before the paper is due), but will refuse to grant an extension if you regularly ask for one (asking for more time in a professionally responsible way is perfectly reasonable, but developing a habit of needing it is not).  When you ask for an extension, please specify how much extra time you will need.
 
 
-### Academic Honesty and AI Use
+**Academic Honesty and AI Use**
 
 A major commitment of the University is “to the intellectual development of the student” (St. Lawrence University Aims and Objectives) which can be achieved only by strict adherence to standards of honesty.  At St. Lawrence, all members of the community have a responsibility to see that these standards are maintained. Consequently, St. Lawrence University students will not engage in acts of academic dishonesty as described in the Academic Honor Code, contained in the Student Handbook.
 
@@ -191,7 +192,7 @@ As part of this policy, you may not use Generative AI tools (like ChatGPT or Goo
 
 Given the theme of this class, we will spend a lot of time talking about the reasons for this policy.  The simple version, however, is that (a) LLMs are systematically unreliable in ways that are not always easy to detect; (b) substitution of the work of LLMs for your own work subverts the very purpose of the class, as it denies you an opportunity to learn.  (That, after all, is what all this hard work is for).
 
-### Accessibility
+**Accessibility**
 
 It is the policy and practice of St. Lawrence University to create inclusive and accessible learning environments consistent with federal and state law.  If you have established permanent accommodations with the Student Accessibility Services (SAS) Office in the past and want to use them in your current courses, please activate your accommodations so you can discuss with your professors how they will be implemented. 
  
@@ -202,7 +203,7 @@ Telephone: 315.229.5537
 Email: studentaccessibility@stlawu.edu   
 Website:  https://www.stlawu.edu/offices/student-accessibility-services
 
-### Title IX Statement
+**Title IX Statement**
 
 MEMBERS OF THE ST. LAWRENCE COMMUNITY—students, employees, and guests— should expect to be free from retaliation, discrimination, harassment, and sexual misconduct, behavior that is inherently abusive of the humanity that each of us brings to the campus community. St. Lawrence University and its faculty are committed to supporting our students and seeking an environment that is free of discrimination, harassment, and sexual misconduct.  St. Lawrence strongly encourages students to report retaliation, discrimination, harassment, including sexual harassment, sexual exploitation, domestic violence, dating violence, stalking, or sexual assault to St. Lawrence University’s Title IX office. Discrimination on the basis of sex includes discrimination on the basis of assigned sex at birth, sex characteristics, pregnancy and pregnancy related conditions, sexual orientation, and gender identity. 
  
@@ -217,7 +218,7 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 ## Calendar
 
 
-**Unit One – Foundational Concepts in The Philosophy of Mind**
+**Unit One – Foundational Concepts in the Philosophy of Mind and Computation**
 
 |**Date**|**Topic**|**Reading**|**Assignments Due**|
 |---|:---|:---|:---|
@@ -226,11 +227,6 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 |W. 1.21|Behaviorism|Carter, Ch. 3|Homework #1|
 |M. 1.26|Identity Theory|Carter, Ch. 5||	
 |W. 1.28|Functionalism|Carter, Ch. 6|Homework #2|
-
-**Unit Two - Computability**
-
-|**Date**|**Topic**|**Reading**|**Assignments Due**|
-|---|:---|:---|:---|
 |M. 2.2|Formal Systems|Carter, Ch. 7||
 |W. 2.4|Computability|Carter, Ch. 8|Homework #3|
 |M. 2.9|Universal Machines	Carter, Ch. 9||	
