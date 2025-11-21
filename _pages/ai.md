@@ -35,10 +35,10 @@ Artificial Intelligence has been described as everything from the key to a prosp
 
 ## Assignments and Grading
 
-|Participation | 10%|
-|Homework |	40%|
-|Research Paper | 30%|
-|Presentation | 20%|
+* Participation - 10%
+* Homework - 40%
+* Research Paper - 30%
+* Presentation - 20%
 
 ### Participation
 
@@ -51,6 +51,7 @@ Your class participation grade also includes completion of the stages of the res
 _Rubric_
 
 ||**Exemplary (4.0)**|**Good (3.0)**|**Adequate (2.0)**|**Poor (1.0)**|
+|---|:---|:---|:---|:---|
 |**Readiness to Learn**|Student is always in class, having done all assignments, has relevant materials, and comes prepared with questions and ideas.|Student is always in class, having done all of the assignments, and has all of the relevant materials.|Student misses class, and/or has not done the work, or come prepared to discuss the topics of the day.|Student frequently misses class, and is regularly unprepared for the topics of the day.|
 |**In-Class Contributions**|Student makes frequent constructive and insightful contributions to class conversations and group work.|Student’s contributions are infrequent, but constructive and insightful.|Student makes frequent contributions which are not constructive, or rarely contributes.|Student’s contributions actively diminish the learning environment (e.g., are off topic or attack others).|
 |**Virtuous Participation**|Student regularly follows the code of intellectual conduct, and corrects themselves when failing to do so.|	Student regularly follows the code of conduct, but does not recognize or improve upon unvirtuous behavior.|Student often violates the code of intellectual conduct and does not make serious efforts to improve.|Student frequently violates the code of intellectual conduct without making serious efforts to improve.|
@@ -72,6 +73,7 @@ As such, in the first half of the semester you will mostly be working on homewor
 Your grade will be based on the number of homework assignments you successfully pass, as detailed in the table below:
 
 |**Total Homeworks Passed**|**Grade**|
+|---:|---:|
 |7|4.0|
 |6|3.75|
 |5|3.25|
@@ -108,6 +110,7 @@ More details on the paper and each of the steps described above will be distribu
 _Rubric_
 
 ||**Exemplary (4.0)**|**Good (3.0)**|**Adequate (2.0)**|**Poor (1.0)**|
+|---|:---|:---|:---|:---|
 |**Understanding**|	The paper demonstrates a strong command of the discussed positions and ideas.|The paper demonstrates an understanding of the key ideas, but misses nuances.|The paper misunderstands one or more central positions or ideas.|The paper frequently misunderstands central positions or ideas.|
 |**Charity**|The paper presents all views fairly, and in the best possible light.|The views are expressed fairly, but not always in their strongest form.|Views are misrepresented as being weaker than they really are.|Views are presented in clearly problematic ways inconsistent with the original texts.|
 |**Intellectual Creativity**|The author frequently contributes his/her own ideas to the paper.|The author makes a novel contribution, but does not go far beyond his/her sources.|The author has a novel idea, but does not develop it with a supporting argument.|The author does not contribute any ideas of his or her own.|
@@ -131,6 +134,7 @@ The emphasis for this presentation should be on leading a discussion, and not on
 _Rubric_
 
 ||**Exemplary (4.0)**|**Good (3.0)**|**Adequate (2.0)**|**Poor (1.0)**|
+|---|:---|:---|:---|:---|
 |**Understanding**|The group demonstrates an understanding of their material, and communicates it to the audience.|The group makes some significant mistakes, or does not communicate their understanding clearly.|The group often misunderstands their material, and does not communicate clearly.|The group is unprepared to explain their material, and makes regular, significant errors.|
 |**Speaking Skills**|The group speaks with good volume, enthusiasm, and eye contact.|The group, at times, shows a lack of enthusiasm, poor eye contact, or has low volume.|The group frequently shows a lack of enthusiasm, poor eye contact, or has low volume.|The group consistently is hard to understand, and does not engage the audience|
 |**Organization**|The presentation has a clear logical flow, so that the audience knows how it fits together.|The presentation has clear structure, but ideas are presented in a confusing order.|It is difficult to follow the logical flow of the presentation.|The presentation lacks structure and jumps from point to point.|
@@ -213,6 +217,7 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 **Unit One – Foundational Concepts in The Philosophy of Mind**
 
 |**Date**|**Topic**|**Reading**|**Assignments Due**|
+|---|:---|:---|:---|
 |W. 1.14|Minds and Computers	||	
 |M. 1.19|Dualism|Carter, Ch. 1-2||	
 |W. 1.21|Behaviorism|Carter, Ch. 3|Homework #1|
@@ -222,6 +227,7 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 **Unit Two - Computability**
 
 |**Date**|**Topic**|**Reading**|**Assignments Due**|
+|---|:---|:---|:---|
 |M. 2.2|Formal Systems|Carter, Ch. 7||
 |W. 2.4|Computability|Carter, Ch. 8|Homework #3|
 |M. 2.9|Universal Machines	Carter, Ch. 9||	
@@ -229,6 +235,7 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 **Unit Three – Computationalism and GOFAI**
 
 |**Date**|**Topic**|**Reading**|**Assignments Due**|
+|---|:---|:---|:---|
 |W. 2.11|Computationalism|	Carter, Ch, 10	||
 |M. 2.16|Computationalism, Continued|Dennett, _Intuition Pumps_, selection||	
 |W. 2.18|Techniques	Carter, Ch. 11-12|Homework #4||
@@ -239,6 +246,7 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 **Unit Four – Deep Learning and LLMs**
 
 |**Date**|**Topic**|**Reading**|**Assignments Due**|
+|---|:---|:---|:---|
 |W. 3.4|Neural Networks|Carter, Ch. 19|Homework #6, Research Bank Due|
 |M. 3.9|ChatGPT|Lee and Trott, “A Jargon-free…”||	
 |W. 3.11|LLMs and Understanding|Titus, “Does ChatGPT have semantic understanding?”|Homework #7|
@@ -246,6 +254,7 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 **Unit Five – The Ethics of AI**
 
 |**Date**|**Topic**|**Reading**|**Assignments Due**|
+|---|:---|:---|:---|
 |M. 3.16|Workshop: When should we ascribe moral and legal rights to AI systems?|||	
 |W. 3.18|AI Rights|Schwitzgebel, "The Full Rights Dilemma for AI Systems of Debatable Moral Personhood"||	
 |M. 3.23|_Spring Break - No Class_|||
