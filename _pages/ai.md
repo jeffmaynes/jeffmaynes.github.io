@@ -98,12 +98,13 @@ Otherwise, your research groups are informal networks of fellow students with wh
 
 This paper must draw on outside research in the philosophy of artificial intelligence (more broadly, in the philosophy of mind), and may also draw on relevant work in related disciplines like computer science and cognitive psychology.  
 
-The paper should be approximately 10-12 pages long, double-spaced, and submitted in hard copy.  It should be written in a formal tone.  The due dates for the stages of this project are:
-* Your group’s research bank should be completed by March 6th.
-* An outline of your main arguments is due March 27th.
-* The peer review of your group’s outlines are due April 3rd.
-* A draft of the paper will be due April 17th, at the beginning of class.
-* The final version is due May 6th, by 11:30 AM. 
+The paper should be approximately 10-12 pages long, double-spaced, and submitted in hard copy.  It should be written in a formal tone.  The due dates for the stages of this project are (unless otherwise noted, the assignment is due at the beginning of class):
+* Your group’s research bank should be completed by March 4th.
+* Your research update is due to me by March 16th.
+* An outline of your main arguments is due April 1st.
+* The peer review of your group’s outlines are due April 8th.
+* A draft of the paper will be due April 22nd, at the beginning of class.
+* The final version is due May 6th, by 4:30 PM. 
 
 More details on the paper and each of the steps described above will be distributed in class.
 
@@ -229,7 +230,7 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 |W. 1.28|Functionalism|Carter, Ch. 6|Homework #2|
 |M. 2.2|Formal Systems|Carter, Ch. 7||
 |W. 2.4|Computability|Carter, Ch. 8|Homework #3|
-|M. 2.9|Universal Machines	Carter, Ch. 9||	
+|M. 2.9|Universal Machines| Carter, Ch. 9||	
 			
 **Unit Three – Computationalism and GOFAI**
 
@@ -254,17 +255,17 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 
 |**Date**|**Topic**|**Reading**|**Assignments Due**|
 |---|:---|:---|:---|
-|M. 3.16|Workshop: When should we ascribe moral and legal rights to AI systems?|||	
+|M. 3.16|Workshop: When should we ascribe moral and legal rights to AI systems?||Research Update Due|	
 |W. 3.18|AI Rights|Schwitzgebel, "The Full Rights Dilemma for AI Systems of Debatable Moral Personhood"||	
 |M. 3.23|_Spring Break - No Class_|||
 |W. 3.25|_Spring Break - No Class_|||
 |M. 3.30|Workshop: Can AI be Creative?|||	
 |W. 4.1|AI and Creation|Brainard, “The Curious Case of Uncurious Creation”|Argument Outline Due|
 |M. 4.6|Workshop: How should AI systems make ethical decisions?|||	
-|W. 4.8|Ethical AI Decision-Making|Geisslinger, et al. “Autonomous Driving Ethics”||
+|W. 4.8|Ethical AI Decision-Making|Geisslinger, et al. “Autonomous Driving Ethics”|Peer Review Due|
 |M. 4.13|Workshop: Is AI a danger to democracy and the search for knowledge?|||
 |W. 4.15|Deepfakes and Misinformation|Rini, “Deepfakes and the Epistemic Backstop”||
 |M. 4.20|Workshop: What risks does AI pose to a just society?|||	
-|W. 4.22|Algorithmic Bias|Fazelpour and Danks, “Algorithmic Bias”||			
+|W. 4.22|Algorithmic Bias|Fazelpour and Danks, “Algorithmic Bias”|Argument Paper Draft Due|			
 |M. 4.27|Workshop: Can we morally use generative AI given its environmental impact?|||		
 |W. 4.29|Wrapping Up|||		
