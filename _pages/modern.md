@@ -31,10 +31,10 @@ In the 16th-18th centuries, a scientific revolution shattered medieval certainti
 
 ## Assignments and Grading
 
-|Participation | 15%|
-|Quizzes |	20%|
-|Oral Exams | 30%|
-|Argument Paper | 35%|
+* Participation - 15%
+* Quizzes -	20%
+* Oral Exams - 30%
+* Argument Paper - 35%
 
 ### Participation
 
@@ -77,6 +77,7 @@ From there, we'll have a philosophical conversation!  I might ask you to elabora
 _Rubric_
 
 ||**Exemplary (4.0)**|**Good (3.0)**|**Adequate (2.0)**|**Poor (1.0)**|
+|---|:---|:---|:---|:---|
 |**Understanding**|Demonstrates comprehensive and nuanced understanding of philosophical positions. Accurately explains key concepts, arguments, and their implications. Recognizes important distinctions and qualifications within positions. Can articulate how different elements of a theory connect and support one another.|Demonstrates solid understanding of philosophical positions. Accurately explains core concepts and arguments with only minor gaps or imprecisions. Grasps the main thrust of positions and can articulate their key commitments. May miss some nuances or subtleties but shows no fundamental misunderstandings.|Demonstrates basic understanding of philosophical positions but with notable gaps or inaccuracies. Captures some key elements but may oversimplify, conflate distinct ideas, or miss important qualifications. Understanding is sufficient to engage with the material at a surface level but lacks depth or precision in places.|Demonstrates minimal or confused understanding of philosophical positions. Makes significant errors in explaining concepts or arguments.|
 |**Critical Engagement**|Uses one of the templates for critical engagement in a way that shows deep consideration of the philosophical position(s).  Shows creativity in engaging in a way that goes beyond points raised in class conversation. |Uses one of the templates for critical engagement and has a creative idea that goes beyond class discussion, however, the student does not dig deeply into their question or position and its implications.| The student does not use one of the templates appropriately, but does go beyond summary to critically engage with the source material.  Critical engagement does not go beyond positions and questions raised in class. | Offers minimal or confused critical engagement. Struggles to move beyond description to analysis. May offer irrelevant criticisms, misunderstand what would constitute a genuine objection, or fail to engage critically at all.|
 |**Thoughtfulness**|Responds to questions with careful consideration, taking time to think through questions. Acknowledges complexity, uncertainty, or limitations in own understanding when appropriate. Engages directly with the question asked rather than deflecting to prepared material. Adjusts responses based on follow-up questions, showing flexibility and genuine dialogue.|Responds to questions in a considered and direct manner. Generally addresses what is being asked and shows willingness to think through implications. May occasionally revert to prepared material but largely engages with questions as posed. Acknowledges when uncertain or when questions point to complications, though may not explore these as fully as possible.|Responds to questions but with limited flexibility or depth. May frequently revert to rehearsed answers even when they don't quite fit the question. Shows some effort to engage thoughtfully but responses can feel superficial or formulaic. May avoid acknowledging uncertainty or complexity, or may struggle to adapt when questions take unexpected directions.|Responds to questions in a hasty, superficial, or evasive manner. Frequently misses the point of questions or retreats to memorized material regardless of relevance. Shows little evidence of thinking through questions in the moment. May be unable or unwilling to acknowledge gaps in understanding or to engage with complications when raised.|
@@ -99,6 +100,7 @@ The whole project is worth 35% of your grade, with 5% being earned by submitting
 _Rubric_
 
 ||**Exemplary (4.0)**|**Good (3.0)**|**Adequate (2.0)**|**Poor (1.0)**|
+|---|:---|:---|:---|:---|
 |**Understanding**|	The paper demonstrates a strong command of the discussed positions and ideas.|The paper demonstrates an understanding of the key ideas, but misses nuances.|The paper misunderstands one or more central positions or ideas.|The paper frequently misunderstands central positions or ideas.|
 |**Charity**|The paper presents all views fairly, and in the best possible light.|The views are expressed fairly, but not always in their strongest form.|Views are misrepresented as being weaker than they really are.|Views are presented in clearly problematic ways inconsistent with the original texts.|
 |**Intellectual Creativity**|The author frequently contributes his/her own ideas to the paper.|The author makes a novel contribution, but does not go far beyond his/her sources.|The author has a novel idea, but does not develop it with a supporting argument.|The author does not contribute any ideas of his or her own.|
@@ -181,6 +183,7 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 **Unit One – Rationalist Foundations**
 
 |**Date**|**Reading**|**Assignments Due**|
+|---|:---|:---|
 |Th. 1.15|Introduction - No Reading Due||	
 |Tu. 1.20|Descartes, _Meditations on First Philosophy_, Meditations 1 and 2 (pgs. (40-47)||	
 |Th. 1.22|Descartes, _Meditations on First Philosophy_, Meditation 3 (pgs. (47-54)||
@@ -191,6 +194,8 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 
 **Unit Two – Rationalist Debates**
 
+|**Date**|**Reading**|**Assignments Due**|
+|---|:---|:---|
 |Tu. 2.10|Spinoza, _The Ethics_, to Proposition 16 (pgs. 172-179)|Oral Exam #1 This Week|
 |Th. 2.12|Conway, _The Principles of the Most Ancient and Modern Philosophy_, Ch. 8 (pgs. 154-159)||
 |Tu. 2.17|Conway, _The Principles of the Most Ancient and Modern Philosophy_, Ch. 8 (pgs. 154-159)||
@@ -201,6 +206,7 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 **Unit Three – The Empiricists**
 
 |**Date**|**Reading**|**Assignments Due**|
+|---|:---|:---|
 |Tu. 3.3|Locke, _Essay Concerning Human Understanding_, Bk. I, Ch. 1-2 (pgs. 346-352)|Oral Exam #2 This Week|	
 |Th. 3.5|Locke, _Essay Concerning Human Understanding_, Bk. II, Ch. 1-3, Ch. 7 (to paragraph 14) (pgs. 352-359, 362-364)||
 |Tu. 3.10|Locke, _Essay Concerning Human Understanding_, Bk. II, Ch. 10-12, 22 (pgs. 369-372, 387-389)||	
@@ -213,6 +219,7 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 **Unit Four – Hume and Kant**
 
 |**Date**|**Reading**|**Assignments Due**|
+|---|:---|:---|
 |Tu. 3.31|Hume, _Enquiry Concerning Human Understanding_, Sections 1-3 (pgs. 579-588)||	
 |Th. 4.2|Hume, _Enquiry Concerning Human Understanding_, Sections 4-5 (pgs. 588-601)||
 |Tu. 4.7|Hume, _Enquiry Concerning Human Understanding_, Sections 6-7 (pgs. 601-610)||	
