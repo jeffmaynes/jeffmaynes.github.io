@@ -73,7 +73,7 @@ As such, in the first half of the semester you will mostly be working on homewor
 Your grade will be based on the number of homework assignments you successfully pass, as detailed in the table below:
 
 |**Total Homeworks Passed**|**Grade**|
-|---:|---:|
+|:-:|:-:|
 |7|4.0|
 |6|3.75|
 |5|3.25|
@@ -124,12 +124,15 @@ _Rubric_
 
 ### Group Presentation
 
-Your research group will be responsible for leading a 90 minute class session.  Your goals for the class are:
-1.	To provide your audience with any necessary background specific to your topic.
-2.	To present a single argument from a source relevant to your group’s research interests.
-3.	To lead a discussion and/or small group activities to explore that argument.
+In the ethics unit, we will first workshop an ethical question before we read a philosophical piece on that question.  The aim of these workshops is to help you sort through the complexities and arguments on that issue, better preparing you to understand and critically evaluate the readings.  I will lead the first two workshops, which will be designed to be interactive problem-solving sessions, where we (a) identify the moral complexities, (b) brainstorm different possible responses to the question and their supporting arguments, and (c) discuss the strengths and limitations of those arguments.
 
-The emphasis for this presentation should be on leading a discussion, and not on lecturing.  More details on this presentation and what it ought to look like, will be distributed in class and this page will be updated with a link to those instructions once available.
+You will work with a group to lead one of the final four workshops.  You are encouraged to use the same approach I do, but you should be prepared to:
+* Help the class identify moral complexities to the question.  These are difficult problems that resist simple solutions, and so you should think through why some of the simple solutions may not, in fact, be good enough.
+* Provide additional background information on the topic to help strengthen our analysis.
+* Lead the class in articulating and refining arguments defending various positions in relation to the question, and then in critically discussing them.
+* Implement various discussion strategies (small group activities, think-pair-share, group discussions, etc.) to help the class think through the question.
+
+The emphasis for this presentation should be on leading a discussion, and not on lecturing.  That is, you should see your group as leading a collective effort to think through a complex problem.
 
 _Rubric_
 
@@ -238,7 +241,7 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 |---|:---|:---|:---|
 |W. 2.11|Computationalism|	Carter, Ch, 10	||
 |M. 2.16|Computationalism, Continued|Dennett, _Intuition Pumps_, selection||	
-|W. 2.18|Techniques	Carter, Ch. 11-12|Homework #4||
+|W. 2.18|Techniques|Carter, Ch. 11-12|Homework #4|
 |M. 2.23|Machine Reasoning and Language|Carter, Ch. 13-14||
 |W. 2.25|Human Reasoning and Language|Carter, Ch. 15-16|Homework #5|
 |M. 3.2|Meaning and Representation|Carter, Ch. 17-18||	
