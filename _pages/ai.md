@@ -231,27 +231,22 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 |M. 2.2|Formal Systems|Carter, Ch. 7||
 |W. 2.4|Computability|Carter, Ch. 8|Homework #3|
 |M. 2.9|Universal Machines| Carter, Ch. 9||	
+|W. 2.11|Computationalism|	Carter, Ch, 10	||
 			
-**Unit Three – Computationalism and GOFAI**
+**Unit Two – Two Directions for AI - GOFAI and Neural Networks**
 
 |**Date**|**Topic**|**Reading**|**Assignments Due**|
 |---|:---|:---|:---|
-|W. 2.11|Computationalism|	Carter, Ch, 10	||
-|M. 2.16|Computationalism, Continued|Dennett, _Intuition Pumps_, selection||	
-|W. 2.18|Techniques|Carter, Ch. 11-12|Homework #4|
+|M. 2.16|Search and Decisions|Carter, Ch. 11-12|Homework #4|
+|W. 2.18|_No Class_||
 |M. 2.23|Machine Reasoning and Language|Carter, Ch. 13-14||
 |W. 2.25|Human Reasoning and Language|Carter, Ch. 15-16|Homework #5|
 |M. 3.2|Meaning and Representation|Carter, Ch. 17-18||	
-
-**Unit Four – Deep Learning and LLMs**
-
-|**Date**|**Topic**|**Reading**|**Assignments Due**|
-|---|:---|:---|:---|
 |W. 3.4|Neural Networks|Carter, Ch. 19|Homework #6, Research Bank Due|
 |M. 3.9|ChatGPT|Lee and Trott, “A Jargon-free…”||	
 |W. 3.11|LLMs and Understanding|Titus, “Does ChatGPT have semantic understanding?”|Homework #7|
 
-**Unit Five – The Ethics of AI**
+**Unit Three – The Ethics of AI**
 
 |**Date**|**Topic**|**Reading**|**Assignments Due**|
 |---|:---|:---|:---|
