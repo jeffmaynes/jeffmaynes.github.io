@@ -7,12 +7,17 @@ toc: true
 
 ## Course Information
 
-**Instructor**
+**Introduction**
 
-* Jeff Maynes
-* Piskor 109
-* Office Hours: TBD
-* Email: [jmaynes@stlawu.edu](mailto:jmaynes@stlawu.edu)
+Welcome to _Modern Philosophy_!  My name is Jeff Maynes, and I typically go just by 'Jeff.'  If you ever have questions about the course, keeping up, or, well, anything at all, free free to reach out.  I'm often in my office (**Piskor 109**), and if my door is open, you are welcome to stop in.  I also will be holding my **office hours on (TBD)**, and you can reach me by email at [jmaynes@stlawu.edu](mailto:jmaynes@stlawu.edu).
+
+**Well-Being Policy**
+
+Here are two reasons I care about your well-being.  First, a student who feels safe, welcome, and healthy, is a more successful student.  If you are well, you'll learn more.  Second, and more importantly, your college experience, including this class, should contribute to a well-lived life.  The information we cover, and the skills we practice, are in service to that well-lived life.
+
+In practice, this means that if you are struggling in any way - academically, personally, whatever, please feel encouraged to set up a meeting or stop by my office to chat.  I am always willing to listen, and where I can, help.
+
+St. Lawrence also has a host of resources available to you with your intellectual, physical, and emotional wellness.  You can find a handy guide to all of these resoruces on the [Well-Being Resources](https://www.stlawu.edu/well-being-resources) page, and through [SLU Thrives](https://www.stlawu.edu/slu-thrives).
 
 **Course Materials**
 
@@ -24,10 +29,10 @@ In the 16th-18th centuries, a scientific revolution shattered medieval certainti
 
 ## Course Goals
 
-1.	Students will deepen their understanding of the position and arguments of philosophers in the Modern period.
-2.  Students will improve their ability to read and understand texts from an intellectual context that is not their own.
-3.  Students will improve their ability to follow and evaluate arguments on their own merits.
-4.  Students will improve their ability to explore and defend philosophical positions in written and oral communication.
+1.	You will deepen your understanding of the position and arguments of philosophers in the Modern period.
+2.  You will improve your ability to read and understand texts from an intellectual context that is not your own.
+3.  You will improve your ability to follow and evaluate arguments on their own merits.
+4.  You will improve your ability to explore and defend philosophical positions in written and oral communication.
 
 ## Assignments and Grading
 
@@ -40,15 +45,15 @@ In the 16th-18th centuries, a scientific revolution shattered medieval certainti
 
 Participation includes your engagement with the course, both in and out of the classroom.  You can demonstrate this engagement in a number of ways, including being prepared for class, asking questions and making contributions in class discussion, discussing questions with me outside of class, and actively working in group work.  Having completed the readings before class is an essential element of participation.
 
-The material in this course is not easy, and two essential components of participation are a willingness to make errors, and a compassion for others who make mistakes.  This means you should be willing to share your ideas, even if you are not sure they are correct; it also means you should be considerate of how you respond to others.  
+The material in this course is not easy, and two essential components of participation are a willingness to make errors, and a compassion for others who make mistakes.  This means you should be willing to share your ideas, even if you are not sure they are correct; it also means you should be considerate of how you respond to others.
 
 _Rubric_
 
 ||**Exemplary (4.0)**|**Good (3.0)**|**Adequate (2.0)**|**Poor (1.0)**|
 |---|:---|:---|:---|:---|
-|**Readiness to Learn**|Student is always in class, having done all assignments, has relevant materials, and comes prepared with questions and ideas.|Student is always in class, having done all of the assignments, and has all of the relevant materials.|Student misses class, and/or has not done the work, or come prepared to discuss the topics of the day.|Student frequently misses class, and is regularly unprepared for the topics of the day.|
-|**In-Class Contributions**|Student makes frequent constructive and insightful contributions to class conversations and group work.|Student’s contributions are infrequent, but constructive and insightful.|Student makes frequent contributions which are not constructive, or rarely contributes.|Student’s contributions actively diminish the learning environment (e.g., are off topic or attack others).|
-|**Virtuous Participation**|Student regularly follows the code of intellectual conduct, and corrects themselves when failing to do so.|	Student regularly follows the code of conduct, but does not recognize or improve upon unvirtuous behavior.|Student often violates the code of intellectual conduct and does not make serious efforts to improve.|Student frequently violates the code of intellectual conduct without making serious efforts to improve.|
+|**Readiness to Learn**|You are always in class, having done all assignments, with the relevant materials, and prepared with questions or ideas.|You is always in class, having done all of the assignments, and with the relevant materials.|You miss class with some regularity, and/or have not done the work, or come prepared to discuss the topics of the day.|You frequently misses class, and are regularly unprepared for the topics of the day.|
+|**In-Class Contributions**|You makes frequent constructive and insightful contributions to class conversations and group work.|Your contributions are infrequent, but constructive and insightful.|You make frequent contributions which are not constructive, or rarely contributes.|Your contributions actively diminish the learning environment (e.g., are off topic or attack others).|
+|**Virtuous Participation**|You regularly follows the code of intellectual conduct, and corrects yourself when failing to do so.|	You regularly follow the code of conduct, but do not recognize or improve upon unvirtuous behavior.|You often violate the code of intellectual conduct and do not make serious efforts to improve.|You frequently violates the code of intellectual conduct without making serious efforts to improve.|
 
 _Code of Intellectual Conduct_
 1.	Fallibility Principle – I recognize that I might be wrong.
@@ -120,14 +125,6 @@ I've written several guides to reading, researching, and writing Philosophy pape
 
 ## Course Policies
 
-**Well-Being Policy**
-
-Here are two reasons I care about your well-being.  First, a student who feels safe, welcome, and healthy, is a more successful student.  If you are well, you'll learn more.  Second, and more importantly, your college experience, including this class, should contribute to a well-lived life.  The information we cover, and the skills we practice, are in service to that well-lived life.
-
-In practice, this means that if you are struggling in any way - academically, personally, whatever, please feel encouraged to set up a meeting or stop by my office to chat.  I am always willing to listen, and where I can, help.
-
-St. Lawrence also has a host of resources available to you with your intellectual, physical, and emotional wellness.  You can find a handy guide to all of these resoruces on the [Well-Being Resources](https://www.stlawu.edu/well-being-resources) page, and through [SLU Thrives](https://www.stlawu.edu/slu-thrives).
-
 **Respect for your classmates**
 
 We are a community, and every one of us is a part of it.  Contributing to a healthy community is important, both because it affirms that each of us belongs and has a place here at St. Lawrence and in Philosophy courses, but also because we all learn better when we feel we can trust each other.  We can trust each other to listen and think carefully about what we say.  We can trust each other to value us as people, and to respect our dignity.  We can trust each other to challenge us, but to do so with humility, recognizing that we all get things wrong.
@@ -185,11 +182,11 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 |**Date**|**Reading**|**Assignments Due**|
 |---|:---|:---|
 |Th. 1.15|Introduction - No Reading Due||	
-|Tu. 1.20|Descartes, _Meditations on First Philosophy_, Meditations 1 and 2 (pgs. (40-47)||	
-|Th. 1.22|Descartes, _Meditations on First Philosophy_, Meditation 3 (pgs. (47-54)||
-|Tu. 1.27|Descartes, _Meditations on First Philosophy_, Meditations 4 and 5 (pgs. (54-61)||	
-|Th. 1.29|Descartes, _Meditations on First Philosophy_, Meditation 6 (pgs. (61-68)||
-|Tu. 2.3|Princess Elisabeth and Descartes, _Correspondence_ (pgs. (93-99)||
+|Tu. 1.20|Descartes, _Meditations on First Philosophy_, Meditations 1 and 2 (pgs. 40-47)||	
+|Th. 1.22|Descartes, _Meditations on First Philosophy_, Meditation 3 (pgs. 7-54)||
+|Tu. 1.27|Descartes, _Meditations on First Philosophy_, Meditations 4 and 5 (pgs. 54-61)||	
+|Th. 1.29|Descartes, _Meditations on First Philosophy_, Meditation 6 (pgs. 61-68)||
+|Tu. 2.3|Princess Elisabeth and Descartes, _Correspondence_ (pgs. 93-99)||
 |Th. 2.5|Descartes and Hobbes, _Objections and Replies_ Third Set of Replies (pgs. 76-79)||
 
 **Unit Two – Rationalist Debates**
