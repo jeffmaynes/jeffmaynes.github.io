@@ -9,7 +9,7 @@ toc: true
 
 **Introduction**
 
-Welcome to _Modern Philosophy_!  My name is Jeff Maynes, and I typically go just by 'Jeff.'  If you ever have questions about the course, keeping up, or, well, anything at all, free free to reach out.  I'm often in my office (**Piskor 109**), and if my door is open, you are welcome to stop in.  I also will be holding my **office hours on (TBD)**, and you can reach me by email at [jmaynes@stlawu.edu](mailto:jmaynes@stlawu.edu).
+Welcome to _Modern Philosophy_!  My name is Jeff Maynes and I will be teaching the course.  I typically go just by 'Jeff.'  If you ever have questions about the course, keeping up, or, well, anything at all, free free to reach out.  I'm often in my office (**Piskor 109**), and if my door is open, you are welcome to stop in.  I also will be holding my **office hours on (TBD)**, and you can reach me by email at [jmaynes@stlawu.edu](mailto:jmaynes@stlawu.edu).
 
 **Well-Being Policy**
 
