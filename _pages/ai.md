@@ -93,7 +93,6 @@ This paper is a formal philosophical research paper.  As such, it should include
 We are going to try something new for this paper.  I am going to provide a list of possible topics, and poll you on your preferred topics.  I will then organize research groups for each project.  Your research group will have a few formal responsibilities:
 * Putting together a shared research bank of sources on your topic area.
 * Completing a peer review of the argument draft.
-* The group presentation.
 Otherwise, your research groups are informal networks of fellow students with whom you can share research and drafts.  You are each responsible for your own paper, and you can take your own paper in a different direction than the other members of your research group.
 
 This paper must draw on outside research in the philosophy of artificial intelligence (more broadly, in the philosophy of mind), and may also draw on relevant work in related disciplines like computer science and cognitive psychology.  
