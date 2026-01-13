@@ -11,7 +11,7 @@ toc: true
 
 * Jeff Maynes
 * Piskor 109
-* Office Hours: TBD
+* Student Hours: T/Th 3-4pm (and by appointment)
 * Email: [jmaynes@stlawu.edu](mailto:jmaynes@stlawu.edu)
 
 **Course Materials**

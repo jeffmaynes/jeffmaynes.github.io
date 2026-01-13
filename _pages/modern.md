@@ -189,7 +189,7 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 |---|:---|:---|
 |Th. 1.15|Introduction - No Reading Due||	
 |Tu. 1.20|Descartes, _Meditations on First Philosophy_, Meditations 1 and 2 (pgs. 40-47)||	
-|Th. 1.22|Descartes, _Meditations on First Philosophy_, Meditation 3 (pgs. 7-54)||
+|Th. 1.22|Descartes, _Meditations on First Philosophy_, Meditation 3 (pgs. 47-54)||
 |Tu. 1.27|Descartes, _Meditations on First Philosophy_, Meditations 4 and 5 (pgs. 54-61)||	
 |Th. 1.29|Descartes, _Meditations on First Philosophy_, Meditation 6 (pgs. 61-68)||
 |Tu. 2.3|Princess Elisabeth and Descartes, _Correspondence_ (pgs. 93-99)||
