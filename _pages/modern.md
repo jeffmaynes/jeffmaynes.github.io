@@ -201,7 +201,7 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 |---|:---|:---|
 |Tu. 2.10|Spinoza, _The Ethics_, to Proposition 16 (pgs. 172-179)|Oral Exam #1 This Week|
 |Th. 2.12|Conway, _The Principles of the Most Ancient and Modern Philosophy_, Ch. 8 (pgs. 154-159)||
-|Tu. 2.17|Conway, _The Principles of the Most Ancient and Modern Philosophy_, Ch. 8 (pgs. 154-159)||
+|Tu. 2.17|Conway, _The Principles of the Most Ancient and Modern Philosophy_, Ch. 8 (pgs. 159-164)||
 |Th. 2.19|_No Class - Winter Break_||
 |Tu. 2.24|Leibniz, _Monadology_, to paragraphs 1-48 (pgs. 303-307)||
 |Th. 2.26|Leibniz, _Monadology_, to paragraphs 48-end (pgs. 307-311)||
