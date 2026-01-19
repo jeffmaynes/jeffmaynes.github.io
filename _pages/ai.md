@@ -16,7 +16,7 @@ toc: true
 
 **Course Materials**
 
-* Carter, Matt. _Minds and Machines_, 2007. Edinburgh University Press.
+* Carter, Matt. _Minds and Computers_, 2007. Edinburgh University Press.
 * All other readings will be made available on Canvas.
 
 ## Course Description
