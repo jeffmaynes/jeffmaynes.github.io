@@ -211,7 +211,7 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 |**Date**|**Reading**|**Assignments Due**|
 |---|:---|:---|
 |Tu. 3.3|Locke, _Essay Concerning Human Understanding_, Bk. I, Ch. 1-2 (pgs. 346-352)|Oral Exam #2 This Week|	
-|Th. 3.5|Locke, _Essay Concerning Human Understanding_, Bk. II, Ch. 1-3, Ch. 7 (to paragraph 14) (pgs. 352-359, 362-364)||
+|Th. 3.5|Locke, _Essay Concerning Human Understanding_, Bk. II, Ch. 1-3 (pgs. 352-359)||
 |Tu. 3.10|Locke, _Essay Concerning Human Understanding_, Bk. II, Ch. 10-12, 22 (pgs. 369-372, 387-389)||	
 |Th. 3.12|Locke, _Essay Concerning Human Understanding_, Bk. IV, Ch. 1-2 (pgs. 416-422)|Project Proposal|
 |Tu. 3.17|Berkeley, _Principles of Human Knowledge_, Part I (pgs 487-493)|Oral Exam #3 This Week (or after break)|	
