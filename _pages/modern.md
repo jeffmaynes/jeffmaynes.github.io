@@ -229,7 +229,7 @@ Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (
 |Th. 4.9|Hume, _Enquiry Concerning Human Understanding_, Section 8 (pgs. 610-621)|Argument Paper|	
 |Tu. 4.14|Kant, _Prolegomena to Any Future Metaphysics_, Preface and Preamble (pgs. 719-730)||	
 |Th. 4.16|Kant, _Prolegomena to Any Future Metaphysics_, Part II to §24 (pgs. 737-743)||
-|Tu. 4.21|Kant, _Prolegomena to Any Future Metaphysics_, Part II to §39 (pgs. 743-750)|Reply Paper|	
-|Th. 4.22|Kant, _Prolegomena to Any Future Metaphysics_, Part III, §40 to §55 (pgs. 753-763)||		
+|Tu. 4.21|Kant, _Prolegomena to Any Future Metaphysics_, Part II to §39 (pgs. 743-750)||	
+|Th. 4.23|Kant, _Prolegomena to Any Future Metaphysics_, Part III, §50 to §55 (pgs. 758-763)|Reply Paper|		
 |Tu. 4.28|Kant, _Prolegomena to Any Future Metaphysics_, Part III, §55 to Scholium (pgs. 763-771)||		
 |Th. 4.30|Wrapping Up||		
