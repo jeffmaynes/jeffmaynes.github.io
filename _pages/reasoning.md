@@ -208,7 +208,7 @@ For each day, there is both a standard being covered and a 'reasoning in the wor
 |Th. 9.17|Arguments and their Parts|Intellectual Virtue|Standard 4|
 |Tu. 9.22|Premise Structure|Knowledge, Belief, and Opinion|Standard 5|	
 |Th. 9.24|Argument Mapping|Social Transmission of Belief|Standard 6|
-|Tu. 9.29|Practice Day|Polarization and Conformity|Homework #4|
+|Tu. 9.29|Practice Day|Polarization and Conformity||
 |Th. 10.1|**Exam Two**||
 
 **Unit Three – What follows from that? Deduction**
@@ -221,7 +221,7 @@ For each day, there is both a standard being covered and a 'reasoning in the wor
 |Th. 10.15|_No Class - Fall Break_|||
 |Tu. 10.20|Evaluating Deductive Arguments with Truth Tables|Algorithms and WMDs|Standard 10|	
 |Th. 10.22|Evaluating Categorical Arguments|More WMDs|Standard 11|
-|Tu. 10.27|Practice Day||Research Update Due|	
+|Tu. 10.27|Practice Day|||	
 |Th. 10.29|**Exam Three**|||	
 
 **Unit Four – What follows from that? Induction**
@@ -233,7 +233,7 @@ For each day, there is both a standard being covered and a 'reasoning in the wor
 |Tu. 11.10|The Basics of Probability|Speech Acts and Manipulation|Standard 14|	
 |Th. 11.12|Conditional Probabilities|Propaganda|Standard 15|
 |Tu. 11.17|Bayes Theorem|Moral Disagreement|Standard 16|	
-|Th. 11.19|Evidence and Updating|Conspiracy Theories|Standard 16|
+|Th. 11.19|Evidence and Updating|Conspiracy Theories|Standard 17|
 |Tu. 11.24|_No Class - Thanksgiving Break_|||
 |Th. 11.26|_No Class - Thanksgiving Break_|||
 |Tu. 12.1|Practice Day|More Conspiracy Theories||	
@@ -243,5 +243,5 @@ For each day, there is both a standard being covered and a 'reasoning in the wor
 
 |**Date**|**Standard**|**RIW**|**Assignments Due**|
 |---|:---|:---|:---|
-|Tu. 12.8|Evaluating Premises|Bullshit|Standard 17|		
-|Th. 12.10|Final Synthesis|Ethics of Belief|Standard 18|		
+|Tu. 12.8|Evaluating Premises|Bullshit|Standard 18|		
+|Th. 12.10|Final Synthesis|Ethics of Belief|Standard 19|		
