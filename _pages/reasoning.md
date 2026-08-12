@@ -225,8 +225,9 @@ For each day, there is both a standard being covered and a 'reasoning in the wor
 |Th. 10.29|**Exam Three**|||	
 
 **Unit Four – What follows from that? Induction**
-|**Date**|**Standard**|**RIW**|**Assignments Due**|
 
+|**Date**|**Standard**|**RIW**|**Assignments Due**|
+|---|:---|:---|:---|
 |Tu. 11.3|Statistical Syllogism|AI: How it works, what it knows|Standard 12|
 |Th. 11.5|Argument by Analogy and IBE|AI and Manipulation|Standard 13|
 |Tu. 11.10|The Basics of Probability|Speech Acts and Manipulation|Standard 14|	
@@ -239,6 +240,8 @@ For each day, there is both a standard being covered and a 'reasoning in the wor
 |Th. 12.3|**Exam Four**|||		
 
 **Unit Five – Bringing it all together**
+
 |**Date**|**Standard**|**RIW**|**Assignments Due**|
+|---|:---|:---|:---|
 |Tu. 12.8|Evaluating Premises|Bullshit|Standard 17|		
 |Th. 12.10|Final Synthesis|Ethics of Belief|Standard 18|		
