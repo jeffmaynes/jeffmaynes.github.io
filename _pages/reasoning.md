@@ -1,161 +1,244 @@
 ---
-permalink: /writing/
-title: "Writing Philosophy"
+permalink: /reasoning/
+title: "Reasoning"
 author_profile: true
 toc: true
 ---
 
+## Course Information
 
-## First Steps: Figuring Out What to Say
+**Introduction**
 
-So, you have to write a philosophy paper.  Whether you are writing for an introductory class, or for a senior honors thesis, the place to start is with your *in*.  That is, what prior interests do you have that can help you figure out where to start?  I think about 'ins' as falling into three categories:
+Welcome to _Reasoning_!  My name is Jeff Maynes and I will be teaching the course.  I typically go just by 'Jeff.'  If you ever have questions about the course, keeping up, or, well, anything at all, free free to reach out.  I'm often in my office (**Piskor 109**), and if my door is open, you are welcome to stop in.  I also will be holding my **student hours on Monday/Wednesdays from 1-2pm**, and you can reach me by email at [jmaynes@stlawu.edu](mailto:jmaynes@stlawu.edu).
 
-* Topic - you are interested in learning more about some topic from your course or related to it.  You may not know what you want to say, or even really what question you want to ask, but you are interested in knowing more about the ethics of punishment, or the analogy between minds and computers.
-* Question - more than just a topic, you have a particular question.  What makes a punishment just?  Can a computer think?  
-* Insight - you have an idea.  You may not be sure if it is a good idea, but you think you've spotted a solution to a problem that came up in class, or a particular reading just didn't sit right with you and you've got an objection (or two) against it.
+**Well-Being Policy**
 
-Finding your 'in' will help you with the first steps of your writing project, since whether you start with a topic, a question, or an insight, you'll want to turn it into a *research question.*  Formulating a good research question is the key step to turning your potentially jumbled thoughts into a paper.  A good research question has the following properties:
+Here are two reasons I care about your well-being.  First, a student who feels safe, welcome, and healthy, is a more successful student.  If you are well, you'll learn more.  Second, and more importantly, your college experience, including this class, should contribute to a well-lived life.  The information we cover, and the skills we practice, are in service to that well-lived life.
 
-* It is narrow enough that you could write a paper on it within the page limits of the assignment without giving woefully inadequate arguments or ignoring major parts of the literature.  
-* It should be formulated in the terms of the existing debate.  Often we initially formulate questions in terms of our imprecise everyday language.  Using the concepts and ideas from the existing debate will help you to more precisely state what it is that you are investigating, but it will also help you find sources to discuss.
-* It should place your answer in the context of the existing debate.  Are you responding to a question put forward by a particular philosopher?  Are you raising a question about a position defended by someone else?  The advantage of putting your research question in the context of other philosopher’s work will give you a leg up on sources, and it will help you keep the topic narrowly focused.
+In practice, this means that if you are struggling in any way - academically, personally, whatever, please feel encouraged to set up a meeting or stop by my office to chat.  I am always willing to listen, and where I can, help.
 
-This step is key, even if you are already starting with a question or an insight.  Your initial question is probably still rather vague, and won't connect to the philosophical literature.  Your insight might be a good idea, but you probably won't have put it in terms of the debate you want to address, and a good research question will also help you make sure you are fairly considering the full issue (including the best arguments against your position). I recommend checking out my guide on [Doing Research in Philosophy](/researching-philosophy/) for tips on this part of the process.  The short version is that you should go back and forth between your initial research and your draft question as you dig into the literature, refining your question using the terms you find in the titles and abstracts of interesting looking papers that speak to what you want to explore.
+St. Lawrence also has a host of resources available to you with your intellectual, physical, and emotional wellness.  You can find a handy guide to all of these resoruces on the [Well-Being Resources](https://www.stlawu.edu/well-being-resources) page, and through [SLU Thrives](https://www.stlawu.edu/slu-thrives).
 
-Once you have a question, it is time to develop a working thesis.  A working thesis may not be the view you end up defending in your paper, and usually you’ll fine tune and develop the thesis as you continue your research.  However, you should at least start with a working thesis in order to help give you direction to your research.  Once you have that thesis, you will have an easier time finding evidence to support it, and finding sources who disagree with it. 
+**Course Materials**
 
-As you do your research, you’ll refine your working thesis into a more specific claim.  One frequent pitfall for students is that they think their thesis has to be of the form: “Philosopher X’s central claim is wrong because Y.”  This is a hard thesis to start from!  After all, philosopher X has probably thought a lot about their central claim, and coming up with reasons why it is wrong might be really difficult.  You have, however, a lot more options.  One good way to go about refining your thesis is to start with some basic templates:
+* All course readings will be made available on Canvas.
 
-The Positive Support
-:	I will argue that \<*your claim!*\>, on the grounds that \<*your reasons!*\>
+## Course Description
 
-The Critique
-:	I will argue that the best arguments in support of \<*other philosopher’s*\> claim that \<*the position you will critique*\> fail, on the grounds that \<*your reasons!*\>
+We are regular consumers of arguments.  In all likelihood, you've heard arguments for why you should vote a certain way, arguments for what actions are morally right or wrong, arguments for what you should believe in, arguments for which team is going to win, arguments for why you should eat at Dana instead of the Pub tonight.  As a student, you are also asked to make arguments across your courses.  In this class, we will focus on arguments themselves.  What, exactly, is the argument being presented?  How can I tell if it is a good argument or a bad argument?  Most importantly, this is a class in being a critical reasoner - what we can to be better reasoners who are less susceptible to bad arguments and those who wield them.
 
-The Defense
-:	One of the prominent objections against \<*your position!*\> is that \<*the critique!*\>.  However, \<*the critique*\> does not work as an objection against \<*your position*\> because \<*your reasons!*\>.
+## Course Goals
 
-The Implication
-: It has been argued that \<*a position you will start from*\>.  In this essay, I will argue that, if this position is right, then \<*the following interesting thing is also true!*\>.
+1.	Students will **know** the basic concepts of argument identification and evaluation.
+2.	Students will **know** the intellectual virtues, and the challenge that cognitive bias poses to developing them.
+3.	Students will **be better able** to identify arguments and distinguish them from other forms of communication.
+4.	Students will **be better able** to map arguments, explaining their logical structure.
+5.	Students will **be better able** to evaluate arguments based on their logical merits.
+6.	Students will **be better able** to monitor their own reasoning for situations where bias is likely.
+7.	Students will **be better able** to regulate their own reasoning in order to avoid bias.
+8.	Students will **make progress towards** being more intellectually virtuous reasoners, responsive to reasons and charitable in discussion.
 
-These can be combined into more elaborate essays.  For example, you could defend your claim with reasons in support of your position, and defend it against the best objections from your critics.  Starting with these templates in mind (and thinking about how they relate to the assignment instructions) might help give you direction for your research.  Plus, once you have decided on your thesis, and you know what kind of essay you are writing, these templates will help you structure the paper.  In the next section, I’ll look at how.
+## Assignments and Grading
 
-But, what if you are stuck, and don't feel like you have any "in" in the first place?  How should you come up with ideas?  After all, while you surely discuss a lot of topics and questions in your classes, you may not know what should you write about.  I recommend the following strategies for coming up with ideas on what to write:
+* Skills Mastery - 65%
+* Reasoning Journal - 10%
+* Final Reflection - 10%
+* Homework - 5%
+* Contributions to Collective Learning - 10%
 
-* If you know your topic, just not your thesis, you can start by writing a summary of the major positions in the debate.  This might be useful for you later as part of the background section of your paper.  What’s more, being precise on the existing views may help you find a claim you disagree with, a claim that needs further elaboration, or a claim that you think you can provide a defense for.
-* Do some free writing.  Don’t worry about the quality of your prose, and just try to use your writing to brainstorm ideas, and to see if you can defend them.  I have two tips for this kind of writing.  First, be prepared to throw it away.  I’d do the writing in a totally separate document from your paper.   This is writing to help you think, and using it because it helps you fill up the pages will hurt your paper.  Plus, it is harder to write freely if you are worried about the quality of the prose.  Second, when brainstorming ideas, be critical of them.  Research suggests that brainstorming is less effective when you simply list ideas, or treat every idea as a good one.  Free writing is a good way to see if the ideas you do have can hold up to scrutiny and are worth your time.
-* Keep a file of ideas.  If you are in class or reading a paper, and some idea sounds really interesting, or the argument offered by the text, your professor, or a classmate doesn't sound quite right to you, jot a note down.  When it is time to actually write a paper, going through this list can be a good way to develop ideas to write about the free writing stage.
+### Skills Mastery
 
-## Structuring a Paper: What Should I Include?
+Critical thinking is a skill, much like learning to play piano, throw a curveball, or build a chair.  You become better at skills through practice, and you can think of this course as reasoning practice.  You'll spend your time in class going through problems with me and with your classmates.  Outside of class, you'll practice some more, and you are always able to meet with me to go over problems.  We have five exam days (four during the semester, and the final exam block) that you can think of as recitals or game days.  These are the days where you have to show your progress with the skills.
 
-Exactly what you include in your paper will be determined by a number of factors, including the assignment instructions and the page limits.  I think it is most helpful, however, to think about structuring my papers around what I need to *do* in order to establish my thesis.  Let’s take an example using the supportive thesis structure, where I plan to argue that some claim is true, giving supporting reasons for it.  
+Each of these skills is one **standard**.  Your grade for this portion of the class is based on how many standards you are able to pass by the end of the semester.  To pass a standard you'll need to show mastery of the standard on one of those exams.
 
-There are two main parts here: my claim itself, and the reasons.  First things first then, I need to introduce my claim - but to do this effectively, I might need to do a few other things.  Are there any key terms in it that need to be introduced?  If I’m writing an essay on a technical topic, I might be using concepts that my readers will not yet be familiar with.  I also might need to situate my claim in the context of the broader debate.  Is my position challenging any prominent positions in the field?  Is it expanding upon any?  What questions does it attempt to answer?  That is, you are helping your reader to understand what you are saying, and why you are saying it.
+The key to the course is that you get multiple attempts to pass each standard.  For each standard you do not pass, you can take another shot at it on the next exam day.  For example, the first exam covers standards 1 through 3.  Suppose I pass standards 1 and 2, but not 3.  Exam #2 covers standards 4 through 6.  On that exam day, I'll get an exam that has the new material, but also standard 3.  If I pass standard 3 on the second attempt, it counts in exactly the same way as if I passed it the first time.  What matters to me is that you gain these skills, not what the path to get there looks like.
 
-Next, I need to introduce my own arguments.  Here, I once again should check if I have any concepts I need to introduce.  I should also focus on organizing my paper around each argument I have in support of my claim.  I strongly recommend not worrying about paragraphs at all at this point.  Too often students get stuck in the “three paragraph” essay format, and they end up worrying about cramming their ideas into that format, instead of thinking about the structure that best suits their argument.
+There is some structured homework designed to help you keep up - typically a short reading and a practice problem each week.  I expect this will be a fairly light load.  Most of your time outside of class devoted to this course should be doing practice problems.  You'll find practice problems for each standard up on the course Canvas page.
 
-Instead, start by writing out your argument in terms of key sentences - the premises making up your argument.  Each premise is a claim that you need to show is true in order to establish your claim.  From there, you can worry about what you need to do in order to explain and defend each of those premises.  Once you’ve worked that out, you’ve got a list of tasks - things you need to do in order to successfully make your argument.  Structuring your paper is now just a matter of figuring out what order to do those things in.  Let’s take a simple example.
+If you do fall behind, you will have opportunities to catch up, but please keep in mind that you may have more standards than you could possibly complete during our exam times (which are 90 minutes long).  Any time you find yourself struggling or falling behind, please come talk to me and we can work together on a plan to help you catch up.  The final exam block is three hours long, and will be your final opportunity to pass any standards you have not yet passed.  
 
-Suppose I want to argue that your phone can be part of your mind (I am borrowing, and simplifying, here from work by Andy Clark and David Chalmers).  To introduce that thesis, I already know I’ll need to:
+Your grade will be determined by the total number of standards you pass by the end of the semester (it doesn't matter which standards they are - the total is the only thing that matters to your grade).
 
-* Explain what I mean by “part of your mind.”  I obviously don’t mean it is physically attached to your brain, so what do I mean?
-* Situate my argument in the recent debate - explaining what views I am building on and what views I am challenging.
+|**Standards Passed**|**Grade**|
+|---|:---|
+|7|1.0|
+|8|1.25|
+|9|1.5|
+|10|1.75|
+|11|2.0|
+|12|2.25|
+|13|2.5|
+|14|2.75|
+|15|3.0|
+|16|3.25|
+|17|3.5|
+|18|3.75|
+|19|4.0|
 
-I then work out my arguments for it.  Suppose I have two, which I can sketch out as follows:
+### Contribtions to Collective Learning
 
-**Argument One**
+This is essentially your participation grade, but I've named it 'Contributions to Collective Learning' to highlight something really important to me in this class.  You are going to spend a lot of time doing practice problems.  We get more out of practice when we practice together.  Being in class, showing up for our practices, and fully engaging in the problems will not only help you better understand the material, but it will help your classmates as well.
 
-1. Accessing information from your phone works in the same way as accessing information from your memory.
-2. If accessing information from memory and your phone work in the same way, then either they should both be part of your mind, or both not part of your mind.
-3. Your memory is part of your mind.
-4. Therefore, your phone is part of your mind.
+_Rubric_
 
-**Argument Two**
+||**Exemplary (4.0)**|**Good (3.0)**|**Adequate (2.0)**|**Poor (1.0)**|
+|---|:---|:---|:---|:---|
+|**Readiness to Learn**|Student is always in class, having done all assignments, has relevant materials, and comes prepared with questions and ideas.|Student is always in class, having done all of the assignments, and has all of the relevant materials.|Student misses class, and/or has not done the work, or come prepared to discuss the topics of the day.|Student frequently misses class, and is regularly unprepared for the topics of the day.|
+|**In-Class Contributions**|Student makes frequent constructive and insightful contributions to class conversations and group work.|Student’s contributions are infrequent, but constructive and insightful.|Student makes frequent contributions which are not constructive, or rarely contributes.|Student’s contributions actively diminish the learning environment (e.g., are off topic or attack others).|
+|**Virtuous Participation**|Student regularly follows the code of intellectual conduct, and corrects themselves when failing to do so.|	Student regularly follows the code of conduct, but does not recognize or improve upon unvirtuous behavior.|Student often violates the code of intellectual conduct and does not make serious efforts to improve.|Student frequently violates the code of intellectual conduct without making serious efforts to improve.|
 
-1. If the functioning of your phone could be built into a microchip that was physically implanted in your brain, such that it operated the same way as any other mental process, it would be part of your mind.
-2. There is no relevant difference between a chip implanted in your brain and a chip running in a phone outside of your brain.
-3. Therefore, your phone is part of your mind.
+_Code of Intellectual Conduct_
+1.	Fallibility Principle – I recognize that I might be wrong.
+2.	Principle of Charity – I will put the views of others in the best possible light.
+3.	Truth-Seeking Principle – I will seek truth, not victory.
+4.	Principle of Clarity - I will be clear and precise in all of my claims.
+5.	Burden of Proof Principle – If I make a claim, I am obligated to defend it.
+6.	Response Principle – If a claim is successfully defended, I should believe it.  If no claim is successfully defended, I should suspend judgment.
 
-Since I have two arguments, I’ll start with a section of my paper for each.  I then take a look at my first argument.   I need to establish that accessing information works in the same way in both of these cases.  I should start by identifying what they have in common.  What are the features of accessing information from my memory?  Does using my phone have each?  How do I know?  Say I identify three features - perhaps I’ll devote a paragraph to each, explaining how both memory and using my phone involve those features.  
+### Homework
 
-From there, I’ll move on to the next premise.  This one seems to be based on a number of assumptions from the philosophy of mind about what your mind even is.  Notice, for example, that the criteria it uses for being part of my mind is that the way in which information is processed is the same as mental activities.  Why should I believe that?  Well, here I should probably spend some time introducing the relevant theories from the Philosophy of Mind.  (Advertisement: take Philosophy of Mind and learn what they are!)  Here I will plan out how much background I need in order to explain and defend this claim.  
+For each class period, you will be given practice problems to complete before class.  The goal is for you to get some practice in on the concepts we'll be covering that day on your own (and so homeworks cannot be done in groups!).  I don't expect that you'll have the concepts mastered or get all of the homework problems correct.  Rather, by trying the problems, and seeing what you are getting and what you are not, you'll be better able to figure out how to improve. Homeworks will be checked for completion each class.
 
-The third premise is perhaps one that I’ll take as an assumption, and not defend here.  If so, then I can just devote a short paragraph to it explaining that I will be assuming it.  Now, it is time to move on to argument two, and do the same process.  By the end of it, I’ll have a sense of all of the tasks I need to accomplish to write my paper, and from here it is just a matter of breaking it up into those tasks (each a small chunk of the paper), and doing some writing!
+### Reasoning Journal
 
-That is, the big idea for structuring a paper is this: **think about what you need to *do* in order to defend your thesis, rather than the paragraphs you need to write, or the ideas you want to talk about.**
+You will also keep a weekly journal on Canvas that discusses instances of reasoning over the past week.  In each post, you should do three things:
+•	Explain the context – what were you thinking about?
+•	Explain your own reasoning – what conclusion did you draw and why?
+•	Evaluate your reasoning – did you follow the principles of intellectual virtue? Did you fall prey to any cognitive biases?  Did you use any metacognitive strategies?  You can use any of the concepts from the reasoning portion of the course to complete your analysis.
 
-Some things you'll need to are universal across every paper:
-* Introduce your research question.
-* Explain what key terms in your thesis mean.
-* Show your reader why they should care about your essay.
-* Explain how your view fits into the field - what other positions are you challening? supporting? expanding upon?
+The aim of the journal is to develop a habit of metacognitive awareness of your own reasoning – that is, to pay attention to how you are reasoning outside of the context of the classroom.  Journals should be 250-500 words long (about 1-2 double-spaced) pages, and submitted on Canvas (using the Discussions page).  They will be graded on an effort scale.  To receive full credit your journal must:
+* Be submitted on time
+* Reflect on your own reasoning, not someone else’s.
+* Include all three components noted in the description above.
+* Include specific detail in your analysis (see example below).
 
-The thesis templates above can also give you some guidance on what you might need to include in your paper:
+_Sample_
 
-The Positive Support
-:	I will argue that \<*your claim!*\>, on the grounds that \<*your reasons!*\>
+(Imagine that this is at the end of a description of an argument I made that _The Americans_ is the best show on television).  I think I reasoned well in this instance, though not perfectly.  I followed the principle of clarity when I pointed out that “best” is a rather vague term.  I was primarily taking it to refer to the quality of writing and acting, while my friend interpreted it as “most enjoyable to watch.”  I also followed the fallibility principle, as I noted that I may not be right about this.  When my friend pointed out that Game of Thrones has won more Emmys, I did concede that other people who know a lot about television may disagree with me.  I was, however, prone to motivated reasoning on this example.  I really enjoy the show, and think it is underappreciated, so it may have made me more likely to interpret evidence in support of it more strongly.
 
-The Critique
-:	I will argue that the best arguments in support of \<*other philosopher’s*\> claim that \<*the position you will critique*\> fail, on the grounds that \<*your reasons!*\>
+_Notice that, for each of the three principles or biases that I use, I give specific examples about how it applied.  Be careful not to simply re-state the principle (e.g., “I followed the fallibility principle because I saw I might be wrong.”)._
 
-The Defense
-:	One of the prominent objections against \<*your position!*\> is that \<*the critique!*\>.  However, \<*the critique*\> does not work as an objection against \<*your position*\> because \<*your reasons!*\>.
+### Final Reflection
 
-The Implication
-: It has been argued that \<*a position you will start from*\>.  In this essay, I will argue that, if this position is right, then \<*the following interesting thing is also true!*\>.
+The final reflection is your chance to do a self-evaluation of yourself as a reasoner.  None of us are ideal reasoners, and while I hope this class has helped you improve in some areas, I expect the course will make you aware of weaknesses in your reasoning that you didn't notice before.  In this final reflection you should look back on your reasoning journals and your work on the skills to answer the following prompt: 
 
-Introducing \<*your claim!*\>?  Well, you'll need to explain what the key terms in it mean, and tell the reader how your claim fits in the debate (that is, are there other positions you are challenging?  ones you are supporting?).  Introducing \<*other philosopher’s*\>?  Well, you'll probably want to do the same things you would for your own claim, but also explain any other parts of that philosophers' view that the reader needs to understand in order to make sense of their claims.
+**What are your strengths as a critical reasoner, and where do you think you have room to improve?  What can you do to keep working on those areas for improvement even after this course is over?**
 
-If you are introducing \<*the critique!*\>, then you'll want to not only explain what the arguments are for the position you are critiquing, and what your arguments are, but be very specific in how your arguments challenge the view you are critiquing.  For example, you might point out that your arguments challenge some key premise *p* that the opposing argument relies upon.
+I will be looking for: 
+* Correct use of the class concepts like the principles of intellectual virtue, cognitive biases, etc.
+* Supporting evidence from class used in your self-assessment; 
+* Perceptive self-evaluation that demonstrates intellectual honesty in applying the principles to oneself; 
+* A well-structured and well-written essay.
 
-If you are discussing implications, that is, \<*the following interesting thing that is also true!*\> if some other position is true, then you'll want to explain why that interesting thing follows.  Do we have to accept it?  Why?  Plus, you should explain why that thing is interesting and important!  Does it help us solve some other problem?  Does it reveal some way in which a view can be applied more broadly than originally thought?
+## Course Policies
 
-Since you can mix and match these templates, this gives you a decision making process for writing a philosophy paper once you've identified your thesis: 
+**Respect for your classmates**
 
-1. Figure out which template(s) you are going to use.
-2. Identify the tasks you will need to complete to successfully establish each part of the template.
-3. Figure out how those tasks are related to one another.  Which ones do you need to do before you can complete other tasks?  This gives you your outline.
-4. Write!
+We are a community, and every one of us is a part of it.  Contributing to a healthy community is important, both because it affirms that each of us belongs and has a place here at St. Lawrence and in Philosophy courses, but also because we all learn better when we feel we can trust each other.  We can trust each other to listen and think carefully about what we say.  We can trust each other to value us as people, and to respect our dignity.  We can trust each other to challenge us, but to do so with humility, recognizing that we all get things wrong.
 
-## Revision: Rethinking and Rewriting
+As part of upholding this community, I expect that you will:
+* Listen attentively while your classmates, or me, are talking.
+* Arrive to class on time
+* Show respect for your classmates, and avoid making disrespectful comments about their contributions, or showing clearly disrespectful body language in response to them.
+* Be welcoming of your classmates ideas and contributions, and avoid making aggressive comments targeting your classmates or any group of people.
 
-Once you have a complete draft, it is time to turn it in.  No, not to your professor.  It's time to turn it over to a friend, a classmate, a trusted advisor, or even just a future version of yourself.  The fundamental challenge to revising is that you know what you intend to say, and so you will have a tendency to read your paper as saying what you meant it to say.  The inferences will all be clear.  The details of the opposing positions are all in your own memory.  Even the typos are easy to gloss over, since you know what sentence you meant to write.  The value of another reader is that they can read your work without those background assumptions and help you identify the gaps in your essay.  
+**Late Assignment Policy**
 
-In some cases, you can just turn your paper over to a friend or classmate and they'll know what to look for.  This is especially true if that classmate is also a philosophy student.  But what if they are not?  What if they don't have a background in philosophy?  In that case, I recommend asking your trusted friend a few questions before they read.  While these questions might depend upon what you know you need help on, a few good starting points are:
+Here's how I think about due dates: they are there for you.  What does that mean?  Well, one thing due dates help you do is structure your work, so that you are not hit with too many obligations at the same time.  Another is that they help you learn how to work under a deadline, an experience you will have throughout your time at SLU and in your working life.  Due dates also help make sure you are prepared for class.  My policies on due dates are based on these goals.
 
-* What terms or concepts did you feel like you couldn't understand?
-* If you had to summarize my own argument back to me, how would you state it?
-* What parts were my view, and what parts were the views of others?
-* Why does my view matter?
+Homework assignments are designed to prepare you for class, and so all homeworks need to be ready for that class session.  No late homework will be accepted for credit, but I will still help if you have questions about a late homework problem.
 
-These may sound like quiz questions, but you aren't grading your friend.  Instead, you can use their understanding to help you figure out what might not be clear.  Did they attribute sections about another philosopher's views to you?  If so, then you should make sure all of the views in that section are more clearly attributed to their authors.  Did your friend totally misdescribe your arguments?  If so, ask yourself how you might more clearly explain all of the steps, or what premises need more of a defense.  One thing that is helpful about these questions is that you can ask similar questions of papers in other disciplines, meaning you and a friend could help each other out, even if you are in different classes.
+The journal entries can be a bit more flexible.  If you need an extra day or two to finish a journal entry, just ask me ahead of time.  I will only say no if requests for extensions are becoming a habit.
 
-If your friend is a fellow philosophy major, then you can dig into the details, and have your friend take up the opposing position to help you make sure you have considered all of the angles.  Are there objections to your thesis you haven't considered?  Are there any premises in your argument that are not fully defended?  Have you charitably described the views of other philosophers?
+**Academic Honesty and AI Use**
 
-If your class has provided you with a rubric, you can also use the criteria to self-assess your essay.  This will not only help you check for weaknesses in your paper, but it will also help you make sure you did everything expected of you for the paper and that you didn't miss any requirements.
+Unless I specifically ask you to, you may not use Generative AI tools (like ChatGPT, Grammarly Pro, Claude, Notebook LM, etc.) for any purpose in this class.  The reason is simple: we are building basic skills in this class, and if you have someone else (a person or computer) do the work for you, you are not building your skills.  I can lift a lot more weight with a forklift than I can with my arms, but if I want to improve my strength for my sport, I better not bring a forklift to my gym sessions.  
 
-Once you've got that feedback from a friend, or even just yourself, it's time to revise.  We sometimes think of revision as fixing things - adding a sentence here or there, tidying up some grammar, etc.  However, it is better to think about revision as *rethinking* and *rewriting.*  It is rethinking in that you may change how you argue or what you argue for.  It is rewriting in that you might completely redo some sections of the paper, or add brand-new sections that you did not include before.  
+Your writing assignments (journal and final reflection) are not evaluated on grammar.  The one thing I am looking for with those assignments is thoughtful metacognitive reflection on your own thinking.  Using an AI, even if just to improve the grammar, risks obscuring or even replacing your own observations.  You will get more from these assignments with messy but honest reflection than you will with polished, AI generated or even AI influenced work.  As such, AI use is not permitted for these assignments either.
 
-Not only will this help you write the best paper you can, but it will help you most effectively practice the skills involved in philosophical thinking.  Your professors all write philosophical essays professionally, and I can guarantee that none of us try to publish our first drafts.  The work that gets published has been read and discussed with colleagues, presented at conferences, and reviewed by referees at journals, all to make sure we have thought through the question from every angle.  
+**Accessibility**
 
-## The Philosophical Genre: What Makes it Different?
+It is the policy and practice of St. Lawrence University to create inclusive and accessible learning environments consistent with federal and state law.  If you have established permanent accommodations with the Student Accessibility Services (SAS) Office in the past and want to use them in your current courses, please activate your accommodations so you can discuss with your professors how they will be implemented. 
+ 
+If you do not yet have services through the SAS Office but have a disability or temporary health condition that requires accommodations, please contact them directly to start the process of requesting accommodations and to receive guidance with the next steps.  
+ 
+Contact information for Student Accessibility Services: 
+Telephone: 315.229.5537
+Email: studentaccessibility@stlawu.edu   
+Website:  https://www.stlawu.edu/offices/student-accessibility-services
 
-Writing in Philosophy shares a lot of similarities with writing in other disciplines, including its core components: describing the views of other scholars and defending an argument.  However, there are differences as well, and if you are coming to philosophy from another field, it can be useful to keep these in mind:
+**Title IX Statement**
 
-* Philosophical writing requires careful attention to *voice*.  That is, you will be considering the views of various different thinkers, as well as your own in a paper.  At times, you might assume that a position is true for the sake of argument and see what follows from it (e.g., "let us suppose that Kripke is right that names are rigid designators; if so, then...").  It can quickly get confusing for your reader if they don't always know (a) whose view it is, and (b) whether you are endorsing or describring that view.  For example, compare the example sentence above about Kripke's views to this alternative: "as Kripke argues, names are rigid designators, which means that...".  In the first example, the author entertains the possibility that Kripke is right, but does not endorse the view.  In the latter, the author endorses Kripke's views and then draws a consequence from them.  It is key in philosophical writing to help your reader keep track of who is speaking, and what your attitude towards those views is.
-* Philosophers tend to prioritize clarity among the most important virtues of good writing (and thinking!).  As such, while it is valuable for your paper to be well-written with an effective prose style, it is more important to be clear.  In practice, this means avoiding flowery language, and to use terms consistently.  For example, avoid sweeping generalizations ("since the beginning of time, humans have asked whether they possess free will") and it is okay to be slightly repetitive in using a key term from your paper.  If you try to change up the language too often (such as by using a thesaurus to find synonyms for repeated terms), you may confuse the reader into thinking the different words are describing different concepts.
-* You can use the first person in Philosophical writing, but keep it limited to describing what you will *do* in your paper.  For example, you might write that "in this paper, I will argue that..." or "in section 2, I discuss Kant's views on...".  What you want to avoid is using the first person just to tell us your feelings or beliefs - you do *not* want to say things like "I believe that..." or "I feel that..."
+MEMBERS OF THE ST. LAWRENCE COMMUNITY—students, employees, and guests— should expect to be free from retaliation, discrimination, harassment, and sexual misconduct, behavior that is inherently abusive of the humanity that each of us brings to the campus community. St. Lawrence University and its faculty are committed to supporting our students and seeking an environment that is free of discrimination, harassment, and sexual misconduct.  St. Lawrence strongly encourages students to report retaliation, discrimination, harassment, including sexual harassment, sexual exploitation, domestic violence, dating violence, stalking, or sexual assault to St. Lawrence University’s Title IX office. Discrimination on the basis of sex includes discrimination on the basis of assigned sex at birth, sex characteristics, pregnancy and pregnancy related conditions, sexual orientation, and gender identity. 
+ 
+If you speak with a faculty member about an incident that involves a Title IX matter or matter of other discrimination or harassment, that faculty member must notify SLU’s Title IX Coordinator that you shared that experience. This is true even if you ask the faculty member not to disclose the incident. Moreover, if you disclose an incident of retaliation, discrimination, harassment, or sexual misconduct in an academic assignment, the faculty member must also report that experience to the Title IX Coordinator.
+ 
+Once a report is made, the reporting individual can expect to receive email outreach from the Title IX Coordinator, who will provide resources and possible resolution options. If the impacted person is not a threat to themselves or others, the impacted person will be free not to respond to the offer to meet. You can find more information for resources and reporting options at: https://www.stlawu.edu/offices/title-ix/reporting-options-confidential-and-nonconfidential-resources.
+ 
+Title IX also protects students who are pregnant or need assistance for pregnancy related conditions. If you are pregnant, the Title IX Coordinator can assist you in understanding your rights and options as well as provide supportive measures. 
+Lindsey Tropper (Cohen) is the Title IX Coordinator at St. Lawrence University (Student Center Room 302; lcohen@stlawu.edu; 315-229-5334).
 
-## How I Write: My Process and Tools
+## Calendar
 
-Finally, in this last section, I am going to talk a bit about my own writing process.  I always start with free writing.  I keep a research journal where I jot down ideas and stray thoughts on research topics, or just philosophical things that interest me.  Sometimes those journal entries are half-baked ideas that go nowhere, sometimes they are really promising ideas that become papers.  Sometimes, when I am working on something, these journal entries give me a place to try to work out what I want to say in my paper.  I find that writing helps me think, but that it is helpful to have space that feels less like a commitment - I’m not going to use these words in my papers.  It is just a matter of writing to help me work out some ideas, and I find that freeing.  For the technical minded among you: I keep this journal in a plain text file stored in my Dropbox.  I use the software Drafts with an preconfigured output command to pre-pend my new entries to that text file.
+The course is organized around the three questions that all critical thinkers should ask:
+1. What do you mean by that?
+2. What is your evidence for that?
+3. What follows from that?
 
-I keep track of all my sources in a BibTeX file, managed through Zotero.  You can also use RefWorks, which the University has a subscription to.  I use Zotero because it offers a bit more flexibility, is faster, and because of how well it integrates with writing in Plain Text.  However, RefWorks tends to be a bit easier for a lot of people, especially with Microsoft Word.  Either way - I strongly recommend using a citation manager if you are doing any large research projects.  It not only helps with formatting, but also allows you to re-use citations to papers you have used before.  If I want to cite a particular paper, all I need to do is add the citation key to my paper, and like magic, the citation appears in my paper, with both an in-text citation and bibliography entry.
+Each unit is organized around one of these questions, though as you'll see, the third question is a little extra complicated, and so I've split it into two smaller units.  Each unit is followed by a practice day where we'll go through extra problems, and an exam day.
 
-When it comes time to write, I start by making a rough outline of what I want to say, and where, in my document.  I usually put in all of my section headings, along with 1-2 sentence summaries of what I want to do in each sub-section.  This is helpful to me for a few reasons.  One is that I like to jump around when I write.  Sometimes I’ll get stuck in a particular section, so I’ll go work on another section of the paper.  It helps me keep the paper moving, and coming back to the part I was stuck on fresh often helps me figure out what to say.  The other reason is that I write a little everyday (more on this below), so these little section headings help me pick up where I left off more easily.  Finally, they also help when I need to reorganize.  If I think that a point would work better earlier in the paper, those notes help me find the paragraphs I need to move.
+For each day, there is both a standard being covered and a 'reasoning in the world' (RIW) topic.  We will typically spend the first 20-30 minutes of class on the reasoning the world topic before spending the rest of class on the standard.  For each class session you should read the lesson for that standard, and do any practice problems listed at the bottom of it.  You can find those lessons on Canvas.
 
-From there, I just write a little bit everyday.  Students often write in big spurts, where a deadline pushes you to try and write an entire paper the day (or night) before it is due.  Students often point out that the pressure of the deadline helps them write.  I think it is probably true that the pressure helps you get words down on paper.  I am more skeptical that helps us to write.  The difference is that we do better writing when we have time to think, reconsider, re-write, and re-evaluate what we are doing.  Instead of sticking with the last minute strategy, I’ve found the best approach is to just get some writing done every day - maybe a small amount, maybe a large amount if you are feeling particularly inspired.  Not only does it make getting the whole paper done feel easier (a half hour a day is a lot more pleasant than an energy-drink fueled rush late at night!), but it keeps you in the mindset of your paper.  That is, you’ll find yourself thinking about it more often, and in more circumstances, which often helps you work out thorny problems.
+**Unit One – What do you mean by that?**
 
-I write my papers in plain text, using the markup language Pandoc with Sublime Text 3 as my text editor.  Writing in plain text means that you don’t get any fancy formatting as you write.  It also means, however, that you don’t need to worry about formatting - you can focus solely on what you want to say.  To do the actual formatting, you use some really easy code, such as using asterisks to indicate italics, and the @ sign to mark a citation.  It is easy to learn, and one advantage of writing in Pandoc is that when you are done, you compile the paper into some other format.  This makes it easy to turn your paper into a PDF, a Word Document, an HTML page, or whatever else you need.
+|**Date**|**Standard**|**RIW**|**Assignments Due**|
+|---|:---|:---|:---|
+|Th. 8.26|Introduction||	
+|Tu. 9.1|Definitions and Analyses|Dual Systems Theory|Standard 1|	
+|Th. 9.3|Related Concepts|Cognitive Bias (1)|Standard 2|
+|Tu. 9.8|Stress-Testing Concepts|Cognitive Bias (2)|Standard 3|	
+|Th. 9.10|Practice Day|Cognitive Bias (3)|Read Plato, _Euthypho_|
+|Tu. 9.15|**Exam One**|||
+		
+**Unit Two – What is your evidence for that?**
 
-Finally, to edit my papers, I use a few strategies.  One is that I rely on friends and colleagues.  I participate in a writing group where I have other scholars (philosophers and non-philosophers) read parts of my papers and offer feedback.  This helps because I always know what I meant to say, and so it is really useful to find out what other people think you have actually said!  When editing my own papers, I read them out-loud.  This will help you catch grammatical errors because it prevents you from simply reading your sentences as you meant them to sound.  
+|**Date**|**Standard**|**RIW**|**Assignments Due**|
+|---|:---|:---|:---|
+|Th. 9.17|Arguments and their Parts|Intellectual Virtue|Standard 4|
+|Tu. 9.22|Premise Structure|Knowledge, Belief, and Opinion|Standard 5|	
+|Th. 9.24|Argument Mapping|Social Transmission of Belief|Standard 6|
+|Tu. 9.29|Practice Day|Polarization and Conformity|Homework #4|
+|Th. 10.1|**Exam Two**||
+
+**Unit Three – What follows from that? Deduction**
+
+|**Date**|**Standard**|**RIW**|**Assignments Due**|
+|---|:---|:---|:---|
+|Tu. 10.6|Logical Form|Deepfakes|Standard 7|
+|Th. 10.8|Advanced Sentence Translation|Social Media Algorithms|Standard 8|
+|Tu. 10.13|Mapping Deductive Arguments|Social Media Regulation|Standard 9|	
+|Th. 10.15|_No Class - Fall Break_|||
+|Tu. 10.20|Evaluating Deductive Arguments with Truth Tables|Algorithms and WMDs|Standard 10|	
+|Th. 10.22|Evaluating Categorical Arguments|More WMDs|Standard 11|
+|Tu. 10.27|Practice Day||Research Update Due|	
+|Th. 10.29|**Exam Three**|||	
+
+**Unit Four – What follows from that? Induction**
+|**Date**|**Standard**|**RIW**|**Assignments Due**|
+
+|Tu. 11.3|Statistical Syllogism|AI: How it works, what it knows|Standard 12|
+|Th. 11.5|Argument by Analogy and IBE|AI and Manipulation|Standard 13|
+|Tu. 11.10|The Basics of Probability|Speech Acts and Manipulation|Standard 14|	
+|Th. 11.12|Conditional Probabilities|Propaganda|Standard 15|
+|Tu. 11.17|Bayes Theorem|Moral Disagreement|Standard 16|	
+|Th. 11.19|Evidence and Updating|Conspiracy Theories|Standard 16|
+|Tu. 11.24|_No Class - Thanksgiving Break_|||
+|Th. 11.26|_No Class - Thanksgiving Break_|||
+|Tu. 12.1|Practice Day|More Conspiracy Theories||	
+|Th. 12.3|**Exam Four**|||		
+
+**Unit Five – Bringing it all together**
+|**Date**|**Standard**|**RIW**|**Assignments Due**|
+|Tu. 12.8|Evaluating Premises|Bullshit|Standard 17|		
+|Th. 12.10|Final Synthesis|Ethics of Belief|Standard 18|		
