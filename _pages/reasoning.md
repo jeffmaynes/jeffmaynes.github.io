@@ -41,10 +41,10 @@ We are regular consumers of arguments.  In all likelihood, you've heard argument
 ## Assignments and Grading
 
 * Skills Mastery - 65%
+* Contributions to Collective Learning - 10%
+* Homework - 5%
 * Reasoning Journal - 10%
 * Final Reflection - 10%
-* Homework - 5%
-* Contributions to Collective Learning - 10%
 
 ### Skills Mastery
 
@@ -103,9 +103,9 @@ For each class period, you will be given practice problems to complete before cl
 ### Reasoning Journal
 
 You will also keep a weekly journal on Canvas that discusses instances of reasoning over the past week.  In each post, you should do three things:
-•	Explain the context – what were you thinking about?
-•	Explain your own reasoning – what conclusion did you draw and why?
-•	Evaluate your reasoning – did you follow the principles of intellectual virtue? Did you fall prey to any cognitive biases?  Did you use any metacognitive strategies?  You can use any of the concepts from the reasoning portion of the course to complete your analysis.
+* Explain the context – what were you thinking about?
+* Explain your own reasoning – what conclusion did you draw and why?
+* Evaluate your reasoning – did you follow the principles of intellectual virtue? Did you fall prey to any cognitive biases?  Did you use any metacognitive strategies?  You can use any of the concepts from the reasoning portion of the course to complete your analysis.
 
 The aim of the journal is to develop a habit of metacognitive awareness of your own reasoning – that is, to pay attention to how you are reasoning outside of the context of the classroom.  Journals should be 250-500 words long (about 1-2 double-spaced) pages, and submitted on Canvas (using the Discussions page).  They will be graded on an effort scale.  To receive full credit your journal must:
 * Be submitted on time
@@ -150,6 +150,8 @@ Here's how I think about due dates: they are there for you.  What does that mean
 Homework assignments are designed to prepare you for class, and so all homeworks need to be ready for that class session.  No late homework will be accepted for credit, but I will still help if you have questions about a late homework problem.
 
 The journal entries can be a bit more flexible.  If you need an extra day or two to finish a journal entry, just ask me ahead of time.  I will only say no if requests for extensions are becoming a habit.
+
+Exams can only be rescheduled under the most pressing of circumstances.  Please look ahead as soon as the semester starts for any potential conflicts and come talk to me immediately if you expect any.  Our final exam block is **Monday, December 14th, from 1:30-4:30**.  Please make sure that you will be able to attend!
 
 **Academic Honesty and AI Use**
 
@@ -245,3 +247,5 @@ For each day, there is both a standard being covered and a 'reasoning in the wor
 |---|:---|:---|:---|
 |Tu. 12.8|Evaluating Premises|Bullshit|Standard 18|		
 |Th. 12.10|Final Synthesis|Ethics of Belief|Standard 19|		
+
+**Final Exam - Monday, December 14th, 1:30-4:30pm**
