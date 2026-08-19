@@ -159,6 +159,10 @@ Unless I specifically ask you to, you may not use Generative AI tools (like Chat
 
 Your writing assignments (journal and final reflection) are not evaluated on grammar.  The one thing I am looking for with those assignments is thoughtful metacognitive reflection on your own thinking.  Using an AI, even if just to improve the grammar, risks obscuring or even replacing your own observations.  You will get more from these assignments with messy but honest reflection than you will with polished, AI generated or even AI influenced work.  As such, AI use is not permitted for these assignments either.
 
+**Pass/Fail**
+
+Due to the grading structure, this course cannot be taken on a pass/fail basis.
+
 **Accessibility**
 
 It is the policy and practice of St. Lawrence University to create inclusive and accessible learning environments consistent with federal and state law.  If you have established permanent accommodations with the Student Accessibility Services (SAS) Office in the past and want to use them in your current courses, please activate your accommodations so you can discuss with your professors how they will be implemented. 
