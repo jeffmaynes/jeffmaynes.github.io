@@ -151,7 +151,7 @@ Homework assignments are designed to prepare you for class, and so all homeworks
 
 The journal entries can be a bit more flexible.  If you need an extra day or two to finish a journal entry, just ask me ahead of time.  I will only say no if requests for extensions are becoming a habit.
 
-Exams can only be rescheduled under the most pressing of circumstances.  Please look ahead as soon as the semester starts for any potential conflicts and come talk to me immediately if you expect any.  Our final exam block is **Monday, December 14th, from 1:30-4:30**.  Please make sure that you will be able to attend!
+Exams can only be rescheduled under the most pressing of circumstances.  Please look ahead as soon as the semester starts for any potential conflicts and come talk to me immediately if you expect any.  Our final exam block is **Tuesday, December 15th, from 1:30-4:30pm**.  Please make sure that you will be able to attend!
 
 **Academic Honesty and AI Use**
 
@@ -252,4 +252,4 @@ For each day, there is both a standard being covered and a 'reasoning in the wor
 |Tu. 12.8|Evaluating Premises|Bullshit|Standard 18|		
 |Th. 12.10|Final Synthesis|Ethics of Belief|Standard 19|		
 
-**Final Exam - Monday, December 14th, 1:30-4:30pm**
+**Final Exam - Tuesday, December 15th, 1:30-4:30pm**
