@@ -76,7 +76,7 @@ Your grade will be determined by the total number of standards you pass by the e
 |18|3.75|
 |19|4.0|
 
-### Contribtions to Collective Learning
+### Contributions to Collective Learning
 
 This is essentially your participation grade, but I've named it 'Contributions to Collective Learning' to highlight something really important to me in this class.  You are going to spend a lot of time doing practice problems.  We get more out of practice when we practice together.  Being in class, showing up for our practices, and fully engaging in the problems will not only help you better understand the material, but it will help your classmates as well.
 
@@ -130,6 +130,8 @@ I will be looking for:
 * Supporting evidence from class used in your self-assessment; 
 * Perceptive self-evaluation that demonstrates intellectual honesty in applying the principles to oneself; 
 * A well-structured and well-written essay.
+
+It will be due at the beginning of our final exam period, which is **Tuesday, December 15th, at 1:30PM**.
 
 ## Course Policies
 
