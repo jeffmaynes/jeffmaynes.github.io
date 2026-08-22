@@ -163,16 +163,9 @@ Your writing assignments (journal and final reflection) are not evaluated on gra
 
 Due to the grading structure, this course cannot be taken on a pass/fail basis.
 
-**Accessibility**
+**Access and Accommodations**
 
-It is the policy and practice of St. Lawrence University to create inclusive and accessible learning environments consistent with federal and state law.  If you have established permanent accommodations with the Student Accessibility Services (SAS) Office in the past and want to use them in your current courses, please activate your accommodations so you can discuss with your professors how they will be implemented. 
- 
-If you do not yet have services through the SAS Office but have a disability or temporary health condition that requires accommodations, please contact them directly to start the process of requesting accommodations and to receive guidance with the next steps.  
- 
-Contact information for Student Accessibility Services: 
-Telephone: 315.229.5537
-Email: studentaccessibility@stlawu.edu   
-Website:  https://www.stlawu.edu/offices/student-accessibility-services
+St. Lawrence and I are dedicated to fostering inclusive learning environments for all students and welcomes students with disabilities into all of the University's educational programs. Student Accessibility Services (SAS) assists students with disabilities in reducing campus-wide and classroom-related barriers. If you have or think you have a disability and experience academic barriers, please contact SAS to discuss appropriate accommodations or support. Visit Fox Hall or Student Accessibility Services for more information. You can contact SAS at (315) 229-5537 or via email at studentaccessibility@stlawu.edu. 
 
 **Title IX Statement**
 
@@ -203,42 +196,42 @@ For each day, there is both a standard being covered and a 'reasoning in the wor
 |Th. 8.26|Introduction||	
 |Tu. 9.1|Definitions and Analyses|Dual Systems Theory|Standard 1|	
 |Th. 9.3|Related Concepts|Cognitive Bias (1)|Standard 2|
-|Tu. 9.8|Stress-Testing Concepts|Cognitive Bias (2)|Standard 3|	
+|Tu. 9.8|Stress-Testing Concepts|Cognitive Bias (2)|Standard 3, Journal|	
 |Th. 9.10|Practice Day|Cognitive Bias (3)|Read Plato, _Euthypho_|
-|Tu. 9.15|**Exam One**|||
+|Tu. 9.15|**Exam One**||Journal|
 		
 **Unit Two – What is your evidence for that?**
 
 |**Date**|**Standard**|**RIW**|**Assignments Due**|
 |---|:---|:---|:---|
 |Th. 9.17|Arguments and their Parts|Intellectual Virtue|Standard 4|
-|Tu. 9.22|Premise Structure|Knowledge, Belief, and Opinion|Standard 5|	
+|Tu. 9.22|Premise Structure|Knowledge, Belief, and Opinion|Standard 5, Journal|	
 |Th. 9.24|Argument Mapping|Social Transmission of Belief|Standard 6|
-|Tu. 9.29|Practice Day|Polarization and Conformity||
+|Tu. 9.29|Practice Day|Polarization and Conformity|Journal|
 |Th. 10.1|**Exam Two**||
 
 **Unit Three – What follows from that? Deduction**
 
 |**Date**|**Standard**|**RIW**|**Assignments Due**|
 |---|:---|:---|:---|
-|Tu. 10.6|Logical Form|Deepfakes|Standard 7|
+|Tu. 10.6|Logical Form|Deepfakes|Standard 7, Journal|
 |Th. 10.8|Advanced Sentence Translation|Social Media Algorithms|Standard 8|
-|Tu. 10.13|Mapping Deductive Arguments|Social Media Regulation|Standard 9|	
+|Tu. 10.13|Mapping Deductive Arguments|Social Media Regulation|Standard 9, Journal|	
 |Th. 10.15|_No Class - Fall Break_|||
-|Tu. 10.20|Evaluating Deductive Arguments with Truth Tables|Algorithms and WMDs|Standard 10|	
+|Tu. 10.20|Evaluating Deductive Arguments with Truth Tables|Algorithms and WMDs|Standard 10, Journal|	
 |Th. 10.22|Evaluating Categorical Arguments|More WMDs|Standard 11|
-|Tu. 10.27|Practice Day|||	
+|Tu. 10.27|Practice Day||Journal|	
 |Th. 10.29|**Exam Three**|||	
 
 **Unit Four – What follows from that? Induction**
 
 |**Date**|**Standard**|**RIW**|**Assignments Due**|
 |---|:---|:---|:---|
-|Tu. 11.3|Statistical Syllogism|AI: How it works, what it knows|Standard 12|
+|Tu. 11.3|Statistical Syllogism|AI: How it works, what it knows|Standard 12, Journal|
 |Th. 11.5|Argument by Analogy and IBE|AI and Manipulation|Standard 13|
-|Tu. 11.10|The Basics of Probability|Speech Acts and Manipulation|Standard 14|	
+|Tu. 11.10|The Basics of Probability|Speech Acts and Manipulation|Standard 14, Journal|	
 |Th. 11.12|Conditional Probabilities|Propaganda|Standard 15|
-|Tu. 11.17|Bayes Theorem|Moral Disagreement|Standard 16|	
+|Tu. 11.17|Bayes Theorem|Moral Disagreement|Standard 16, Journal|	
 |Th. 11.19|Evidence and Updating|Conspiracy Theories|Standard 17|
 |Tu. 11.24|_No Class - Thanksgiving Break_|||
 |Th. 11.26|_No Class - Thanksgiving Break_|||
