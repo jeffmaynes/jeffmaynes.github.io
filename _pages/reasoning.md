@@ -232,12 +232,12 @@ For each day, there is both a standard being covered and a 'reasoning in the wor
 |Tu. 11.3|Statistical Syllogism|AI: How it works, what it knows|Standard 12, Journal|
 |Th. 11.5|Argument by Analogy and IBE|AI and Manipulation|Standard 13|
 |Tu. 11.10|The Basics of Probability|Speech Acts and Manipulation|Standard 14, Journal|	
-|Th. 11.12|Conditional Probabilities|Propaganda|Standard 15|
-|Tu. 11.17|Bayes Theorem|Moral Disagreement|Standard 16, Journal|	
-|Th. 11.19|Evidence and Updating|Conspiracy Theories|Standard 17|
+|Th. 11.12|**Exam Three (Take two!)**|||
+|Tu. 11.17|Conditional Probabilities|Propaganda|Standard 15, Journal|	
+|Th. 11.19|Bayes Theorem|Moral Disagreement|Standard 16|
 |Tu. 11.24|_No Class - Thanksgiving Break_|||
 |Th. 11.26|_No Class - Thanksgiving Break_|||
-|Tu. 12.1|Practice Day|More Conspiracy Theories||	
+|Tu. 12.1|Evidence and Updating|Conspiracy Theories|Standard 17|	
 |Th. 12.3|**Exam Four**|||		
 
 **Unit Five – Bringing it all together**
